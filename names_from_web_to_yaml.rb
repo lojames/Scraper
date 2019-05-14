@@ -168,7 +168,12 @@ last_names = %Q(  1. Smith
   50. Collins  )
 
 last_names = last_names.scan(/[a-zA-Z]+/)
-first_name_female_idx = first_names.index("Mary")
 
-puts first_names.length
-puts first_name_female_idx
+names = {
+  first_names: first_names,
+  last_names: last_names
+}
+
+file = File.open("names.yml", "w")
+file.write(names.to_yaml)
+file.close
