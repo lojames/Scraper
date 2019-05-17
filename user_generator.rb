@@ -12,30 +12,30 @@ class UserGenerator
   end
 
   def random_name
-
+    first_names.sample + " " + last_names.sample
   end
 
   def random_male_name
-
+    first_names[0...30].sample + " " + last_names.sample
   end
 
   def random_female_name
-
+    first_names[30...60].sample + " " + last_names.sample
   end
 
   def random_email
 
   end
 
-  def names(num)
+  def names(num=60)
 
   end
 
-  def emails(num)
-    
+  def emails(num=78)
+
   end
 
 end
 
 generator = UserGenerator.new
-puts generator.last_names
+puts generator.first_names[30...60]
