@@ -1,7 +1,7 @@
 require 'yaml'
 
 class UserGenerator
-
+  attr_reader :first_names, :last_names
   def initialize
     @characters = 'abcdefghijklmnopqrstuvwxyz'.split("")
     @domains = ['@gmail.com', '@outlook.com', '@yahoo.com']
@@ -29,6 +29,17 @@ class UserGenerator
 
   def names(num=60)
     count = 0
+    names = []
+    until count == num
+      @first_names.each do |f|
+        @last_names.each do |l|
+          names << (f+" "+l)
+          count+=1
+          return names if count == num
+        end
+      end
+    end
+    names
   end
 
   def emails(num=78)
