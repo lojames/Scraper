@@ -58,8 +58,3 @@ class UserGenerator
   end
 
 end
-
-generator = UserGenerator.new
-puts generator.emails.length
-puts generator.emails.first
-puts generator.emails.last

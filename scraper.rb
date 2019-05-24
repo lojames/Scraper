@@ -10,7 +10,21 @@ puts url_source_to_string(url)
 
 ###Business
 #name
+biz_name_parts = source.scan(/(?<=class=\"biz-page-title).*?(?=<)/)
+biz_name = ""
+biz_name_parts.each do |e|
+  add = false
+  e.each_char do |c|
+    biz_name += c if add
+    add = true if c == '>'
+  end
+  biz_name += ' '
+end
+#NEED TO CONVERT FROM HTML TO PLAINTEXT
+
 #neighborhood (opt)
+
+
 #street_address
 #city
 #state
