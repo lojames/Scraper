@@ -174,6 +174,7 @@ names = {
   last_names: last_names
 }
 
+puts names
 file = File.open("names.yml", "w")
 file.write(names.to_yaml)
 file.close
