@@ -2,6 +2,8 @@ require 'open-uri'
 require 'json'
 require 'set'
 require 'cgi'
+require 'mini_magick'
+require 'aws-sdk-s3'
 require_relative 'api_keys'
 
 class YelpBusinessScraper
@@ -14,6 +16,8 @@ class YelpBusinessScraper
       puts "Invalid url."
       return
     end
+
+    image_url = "https://www.yelp.com/biz_photos/#{url.split('/').last}"
 
     @name = biz_header.scan(/(?<=\"name\": \").*?(?=\", \"address\")/m)[0]
     @street_address = biz_header.scan(/(?<=\"streetAddress\": \").*?(?=\", \"postalCode\")/m)[0]
@@ -54,8 +58,9 @@ class YelpBusinessScraper
     puts "\n"
     puts @business_properties
     puts "\n"
-    @reviews = []
     @images = []
+    get_images(image_url)
+    puts @images
   end
 
   private
@@ -149,24 +154,27 @@ class YelpBusinessScraper
     end
   end
 
-  def scrape_reviews
+  def get_reviews
   end
 
-  def scrape_images
-    yelp_id = url.split('/').last
+  def get_images(image_url)
+    image_source = open(image_url,
+      "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36").read
     num_images = 4+rand(5)
-    image_blocks = source.scan(/(?<=<li data-photo-id=").*?(?=<\/li>)/m)
+    image_blocks = image_source.scan(/(?<=<li data-photo-id=").*?(?=<\/li>)/m)
     (0..num_images).each do |i|
       image_id = image_blocks[i].split('"').first
       s3_url = "https://s3-media4.fl.yelpcdn.com/bphoto/#{image_id}/o.jpg"
       open(s3_url) do |image|
-        File.open("./#{image_id}.jpg", "wb") do |file|
+        File.open("./o.jpg", "wb") do |file|
           file.write(image.read)
         end
       end
       convert_image
+      upload_image(image_id)
 
-      comment = image_blocks[i].scan(/(?<=, United States.).*?(?=\" class)/m)
+      comment = image_blocks[i].scan(/(?<=, United States.).*?(?=\" class)/m)[0]
+      @images << {"image_url" => image_id, "comment" => comment}
     end
   end
 
@@ -184,14 +192,20 @@ class YelpBusinessScraper
       w, h = image.dimensions
       image.crop  "350x350+#{(w-350)/2.0}+#{(h-350)/2.0}"
       image.write("s.jpg")
+    end
   end
 
-  def upload_image(yelp_id)
+  def upload_image(image_id)
+    s3 = Aws::S3::Resource.new(region:'us-east-1')
+    o = s3.bucket('yawp-app').object("bphoto/#{image_id}/o.jpg")
+    o.upload_file('o.jpg', acl:'public-read')
+    s = s3.bucket('yawp-app').object("bphoto/#{image_id}/s.jpg")
+    s.upload_file('s.jpg', acl:'public-read')
   end
 
 end
 
-url = "https://www.yelp.com/biz/texas-chicken-and-burgers-elmont"
+url = "https://www.yelp.com/biz/addys-bbq-elmont-2"
 YelpBusinessScraper.new(url)
 
 ###Business
