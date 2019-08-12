@@ -59,7 +59,12 @@ class YelpBusinessScraper
     puts @business_properties
     puts "\n"
     @images = []
+    @images_array = []
     get_images(image_url)
+    @reviews = []
+    get_reviews
+    puts @reviews
+    puts "\n"
     puts @images
   end
 
@@ -155,6 +160,34 @@ class YelpBusinessScraper
   end
 
   def get_reviews
+    num_reviews = 4+rand(12)
+    review_blocks = @source.split("<div class=\"review-content\">")[1..num_reviews]
+
+    review_blocks.each do |review_block|
+      body = review_block.scan(/(?<=<p lang=\"en\">).*?(?=<\/p>)/m)[0]
+      score = review_block.scan(/(?<=title=\").*?(?= star rating\")/)[0].to_i
+      date = review_block.scan(/([1-9]|1[012]?)\/([12]?[1-9]|3[01])\/(\d\d\d\d)/)[0]
+      @reviews << {body: body, score: score, date: date}
+      image_review_block = review_block.scan(/(?<=<img data-async-src=).*?(?=>)/m)
+      image_review_block.each do |b|
+        image_id = b.scan(/(?<=bphoto\/).*?(?=\/)/)[0]
+        comment = b.scan(/(?<=United States\. ).*?(?=\")/)[0]
+        if @images_array.index(image_id)
+          @images[@images_array.index(image_id)] = {image_url: image_id, comment: comment, body: body, score: score, date: date}
+        else
+          s3_url = "https://s3-media4.fl.yelpcdn.com/bphoto/#{image_id}/o.jpg"
+          open(s3_url) do |image|
+            File.open("./o.jpg", "wb") do |file|
+              file.write(image.read)
+            end
+          end
+          convert_image
+          upload_image(image_id)
+          @images_array << image_id
+          @images << {image_url: image_id, comment: comment, body: body, score: score, date: date}
+        end
+      end
+    end
   end
 
   def get_images(image_url)
@@ -174,7 +207,8 @@ class YelpBusinessScraper
       upload_image(image_id)
 
       comment = image_blocks[i].scan(/(?<=, United States.).*?(?=\" class)/m)[0]
-      @images << {"image_url" => image_id, "comment" => comment}
+      @images_array << image_id
+      @images << {image_url: image_id, comment: comment}
     end
   end
 
@@ -207,46 +241,3 @@ end
 
 url = "https://www.yelp.com/biz/addys-bbq-elmont-2"
 YelpBusinessScraper.new(url)
-
-###Business
-#name
-
-#NEED TO CONVERT FROM HTML TO PLAINTEXT
-
-#neighborhood (opt)
-
-
-#street_address
-#city
-#state
-#zip
-#phone (opt)
-#website (opt)
-#price (opt)
-#latitude
-#longitude
-
-###Business Hours
-#day
-#hours
-#business_id
-
-###Business Categories
-#Scrape all business categories into an array
-#FOR SEEDING: search categories by "ref" to get category id
-
-###Business Properties
-#Scrape all business properties into an array
-#FOR SEEDING: search categories by "key" and "value" to get property id...if ID doesn't exist, create new business property
-
-###Reviews
-#body
-#business_id
-#score
-
-###Images
-#image_url (generate after scraping)
-#comment
-#user_id
-#business_id
-#review_id
