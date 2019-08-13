@@ -4,15 +4,19 @@ class UserGenerator
   attr_reader :first_names, :last_names
   def initialize
     @characters = 'abcdefghijklmnopqrstuvwxyz'.split("")
-    @domains = ['@gmail.com', '@outlook.com', '@yahoo.com']
+    @domains = ['@gmail.com', '@outlook.com', '@yahoo.com', '@aol.com']
 
     names = YAML.load(File.read("names.yml"))
     @first_names = names[:first_names]
     @last_names = names[:last_names]
   end
 
-  def random_name
-    @first_names.sample + " " + @last_names.sample
+  def random_first_name
+    @first_names.sample
+  end
+
+  def random_last_name
+    @last_names.sample
   end
 
   def random_male_name
@@ -42,7 +46,8 @@ class UserGenerator
     names
   end
 
-  def emails(num=78)
+  def emails(num=104)
+    num = num > 104 ? 104 : num
     count = 0
     emails = []
     until count == num

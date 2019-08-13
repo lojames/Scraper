@@ -4,6 +4,7 @@ require 'set'
 require 'cgi'
 require 'mini_magick'
 require 'aws-sdk-s3'
+require 'yaml'
 require_relative 'api_keys'
 
 class YelpBusinessScraper
@@ -17,7 +18,9 @@ class YelpBusinessScraper
       return
     end
 
-    image_url = "https://www.yelp.com/biz_photos/#{url.split('/').last}"
+    @yelp_id = url.split('/').last
+
+    images_url = "https://www.yelp.com/biz_photos/#{@yelp_id}"
 
     @name = biz_header.scan(/(?<=\"name\": \").*?(?=\", \"address\")/m)[0]
     @street_address = biz_header.scan(/(?<=\"streetAddress\": \").*?(?=\", \"postalCode\")/m)[0]
@@ -43,29 +46,69 @@ class YelpBusinessScraper
     get_hours
     get_properties
 
-    puts @name
-    puts @street_address
-    puts @city
-    puts @state
-    puts @zip
-    puts @phone
-    puts @website
-    puts @price
-    puts @latitude
-    puts @longitude
-    puts @business_categories
-    puts @business_hours
-    puts "\n"
-    puts @business_properties
-    puts "\n"
     @images = []
     @images_array = []
-    get_images(image_url)
+    get_images(images_url)
     @reviews = []
     get_reviews
-    puts @reviews
-    puts "\n"
-    puts @images
+  end
+
+  def self.valid_url?(url)
+    url.match(/yelp.com\/biz\//)[0] ? true : false
+  end
+
+  def to_s
+    "Business Name: #{@name}
+    Business Address: #{@street_address}, #{@city}, #{@state}, #{@zip}
+    Phone: #{@phone}
+    Website: #{@website}
+    Price: #{@price}
+    Coordinates: #{@latitude}, #{@longitude}
+
+    Categories:
+    #{@business_categories}
+
+    Hours:
+    #{@business_hours}
+
+    Properties:
+    #{@business_properties}
+
+    Images:
+    #{@images}
+
+    Reviews:
+    #{@reviews}
+    "
+  end
+
+  def to_yaml
+    businesses = YAML.load(File.read("data.yml"))
+    if businesses[@yelp_id]
+      puts "Business already exists in data file."
+    else
+      businesses[@yelp_id] = {
+        name: @name,
+        street_address: @street_address,
+        city: @city,
+        state: @state,
+        zip: @zip,
+        phone: @phone,
+        website: @website,
+        price: @price,
+        latitude: @latitude,
+        longitude: @longitude,
+        business_categories: @business_categories,
+        business_hours: @business_hours,
+        business_properties: @business_properties,
+        reviews: @reviews,
+        images: @images
+      }
+      file = File.open("data.yml", "w")
+      file.write(businesses.to_yaml)
+      file.close
+      puts "Data successfully added to data.yml."
+    end
   end
 
   private
@@ -112,19 +155,19 @@ class YelpBusinessScraper
       unless text.empty?
         if days === text
           unless value == "Closed now" or key.empty? or value == "Open now"
-            @business_hours << {key => value}
+            @business_hours << [key, value]
           end
           key = text
           value = ""
         elsif value.count('m') == 2
-          @business_hours << {key => value}
+          @business_hours << [key, value]
           value = text
         else
           value.empty? ? value += text : value += " "+text
         end
       end
     end
-    @business_hours << {key => value} unless value.include?("ours")
+    @business_hours << [key, value] unless value.include?("ours")
   end
 
   def get_properties
@@ -150,7 +193,7 @@ class YelpBusinessScraper
         unless text.empty?
           counter += 1
           if counter.even?
-            @business_properties << {key => text}
+            @business_properties << [key, text]
           else
             key = text
           end
@@ -190,8 +233,8 @@ class YelpBusinessScraper
     end
   end
 
-  def get_images(image_url)
-    image_source = open(image_url,
+  def get_images(images_url)
+    image_source = open(images_url,
       "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36").read
     num_images = 4+rand(5)
     image_blocks = image_source.scan(/(?<=<li data-photo-id=").*?(?=<\/li>)/m)
@@ -239,5 +282,11 @@ class YelpBusinessScraper
 
 end
 
-url = "https://www.yelp.com/biz/addys-bbq-elmont-2"
-YelpBusinessScraper.new(url)
+url = ARGV[0]
+if YelpBusinessScraper.valid_url? (url)
+  business = YelpBusinessScraper.new(url)
+  puts business.to_s
+  business.to_yaml
+else
+  puts "Invalid url."
+end
