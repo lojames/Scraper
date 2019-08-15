@@ -83,7 +83,7 @@ class YelpBusinessScraper
   end
 
   def to_yaml
-    businesses = YAML.load(File.read("data.yml"))
+    businesses = YAML.load_file("data.yaml")
     if businesses[@yelp_id]
       puts "Business already exists in data file."
     else
@@ -104,10 +104,12 @@ class YelpBusinessScraper
         reviews: @reviews,
         images: @images
       }
-      file = File.open("data.yml", "w")
-      file.write(businesses.to_yaml)
-      file.close
-      puts "Data successfully added to data.yml."
+      File.write("temp.yaml", businesses.to_yaml)
+      t = Time.new
+      backup_file_name = "data-#{t.year}-#{t.month}-#{t.day}-#{t.hour}-#{t.min}-#{t.sec}.yaml"
+      File.rename("data.yaml", "archive/#{backup_file_name}")
+      File.rename("temp.yaml", "data.yaml")
+      puts "Data successfully added to data.yaml."
     end
   end
 
@@ -207,9 +209,16 @@ class YelpBusinessScraper
     review_blocks = @source.split("<div class=\"review-content\">")[1..num_reviews]
 
     review_blocks.each do |review_block|
-      body = review_block.scan(/(?<=<p lang=\"en\">).*?(?=<\/p>)/m)[0]
-      score = review_block.scan(/(?<=title=\").*?(?= star rating\")/)[0].to_i
-      date = review_block.scan(/([1-9]|1[012]?)\/([12]?[1-9]|3[01])\/(\d\d\d\d)/)[0]
+      body = review_block.match(/(?<=<p lang=\"en\">).*?(?=<\/p>)/m)
+      body = body ? body[0] : nil
+      body.gsub!(' ', ' ')
+
+      score = review_block.match(/(?<=title=\").*?(?= star rating\")/m)
+      score = score ? score[0] : nil
+
+      date = review_block.match(/([1-9]|1[012]?)\/([12]?[1-9]|3[01])\/(\d\d\d\d)/m)
+      date = date ? date[0] : nil
+
       @reviews << {body: body, score: score, date: date}
       image_review_block = review_block.scan(/(?<=<img data-async-src=).*?(?=>)/m)
       image_review_block.each do |b|

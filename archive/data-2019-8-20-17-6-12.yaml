@@ -1,0 +1,2235 @@
+---
+levain-bakery-new-york:
+  :name: Levain Bakery
+  :street_address: 167 W 74th St
+  :city: New York
+  :state: NY
+  :zip: '10023'
+  :phone: "(917) 464-3769"
+  :website: levainbakery.com
+  :price: "$$"
+  :latitude: 40.7799638
+  :longitude: -73.98030419999999
+  :business_categories:
+  - food
+  - bakeries
+  :business_hours:
+  - - Mon
+    - 8:00 am - 7:00 pm
+  - - Tue
+    - 8:00 am - 7:00 pm
+  - - Wed
+    - 8:00 am - 7:00 pm
+  - - Thu
+    - 8:00 am - 7:00 pm
+  - - Fri
+    - 8:00 am - 7:00 pm
+  - - Sat
+    - 8:00 am - 7:00 pm
+  - - Sun
+    - 9:00 am - 7:00 pm
+  :business_properties:
+  - - Delivery
+    - 'No'
+  - - Take-out
+    - 'Yes'
+  - - Accepts Credit Cards
+    - 'Yes'
+  - - Accepts Apple Pay
+    - 'Yes'
+  - - Accepts Google Pay
+    - 'Yes'
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'Yes'
+  - - Good for Kids
+    - 'Yes'
+  - - Noise Level
+    - Average
+  - - Dogs Allowed
+    - 'No'
+  - - Caters
+    - 'No'
+  :reviews:
+  - :body: 'Levain Bakery is the #1 best dessert destination at an affordable price
+      in Manhattan.<br><br>Each cookie (just $4) is basically an entire meal, but
+      it&#39;s so much more than even that. <br><br>I&#39;ve been happily married
+      for 32 years now, and like you&#39;d expect, my wife and I&#39;s sex life has
+      diminished over the decades. We&#39;re no longer as young as we once were. <br><br>We&#39;ve
+      tried EVERYTHING to add spice to the bedroom. And I mean everything. Balls,
+      chains, whips, peanut butter, handcuffs. It works temporarily, but the excitement
+      dies down. <br><br>Whenever we need to get in the mood now, we get the Dark
+      Chocolate Chocolate Chip cookie and eat half each. It invigorates us enough
+      to last us the entire night. It&#39;s basically Viagra (note: I am not a doctor).
+      And so far, the excitement hasn&#39;t gone away!! Ill never stop coming here,
+      because I want to keep coming.'
+    :score: '5.0'
+    :date: 8/19/2019
+  - :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :body: Good, large, gooey cookies, but honestly not my favorite type of cookie
+      in the world. Their cookies are very fat and heavy. While when they are right
+      out of the oven they are melty and delicious, they then get hard and aren&#39;t
+      as good later. I personally prefer thinner cookies, but you should try these
+      at least once. They are extremely filling and extremely large, definitely split
+      between people.<br><br>There is usually a line, but it moves pretty fast.
+    :score: '4.0'
+    :date: 8/11/2019
+  - :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :body: Chocolate chip walnut cookies are what this place is known and as I prefer
+      nut based cookies outside of peanut butter, I got one of those. Massive as everyone
+      else notes. They were closing soon but the cookie tasted quite fresh. It was
+      a soft on the inside with a nice crispy outside. There was great chocolate flavor
+      with a large number of walnuts. Well balanced and excellent.<br><br>Their other
+      pastries are fine but they are known for their cookies for a reason. The staff
+      was very nice also. I&#39;d post more but frankly, there&#39;s no need. There&#39;s
+      7700 other reviews and counting for a very good reason here. It&#39;s not too
+      pricey for the size and easily split-able for 2 tourists (or 1 hungry New Yorker.)
+      Upper 4 to borderline 5.
+    :score: '5.0'
+    :date: 8/2/2019
+  - :body: The line was long af but my friends wanted to try the ice cream and cookies.
+      This location just had cookies. For me- 1 star i am allergic to peanuts and
+      wheat and they have a sign saying dont eat there if you have allergies. They
+      also dont have gluten free goodies. The customer service is a 5 star though
+      the guy covering the line was very personable. The chocolate chip ones my friends
+      said were okay. Undercooked (how i like my cookies though) and they said they
+      tasted like boxed cookies. But the chocolate chocolate chip they all loved.
+      Said it tasted like brownies. Only downside is they were too rich-everyone agreed
+      here
+    :score: '3.0'
+    :date: 8/16/2019
+  - :body: 'Yum! Big gooey and oh so big!! I usually nibble on the cookies for a long
+      time or share with a couple people because they are huge! One of the tips the
+      server suggested to me was to cling wrap the cookies and they should last one
+      week and you can even toss them in the freezer to last even longer. And it seems
+      to work so I am glad that I can have them around for longer! The cookies are
+      absolutely delish (my favorite is the dark chocolate chip cookie) and definitely
+      worth a try! <br><br>Tip: I would go to the Upper East side location in mid
+      afternoon because it seems to be less crowded than other locations.'
+    :score: '5.0'
+    :date: 8/2/2019
+  :images:
+  - :image_url: jCdrXah--NjPaOLb-30BUw
+    :comment: " WORLDS BEST"
+  - :image_url: zgjSt_RGjXQMJxYxYSo-bQ
+    :comment: " Chocolate Chip w/ Walnut --- It was all I ever dreamed of."
+  - :image_url: EcrOBogMgnSCGgEQg1tUmw
+    :comment: " The best cookie ever!"
+  - :image_url: 586NgFJkb1Ezxxo67l9N0A
+    :comment: " Chocolate chip walnut cookie"
+  - :image_url: 9uUdfbEHUB4D-4s_RVA9zw
+    :comment: " Chocolate Chip Walnut"
+  - :image_url: dCTYbpmO9GsxxgaBW46SPg
+    :comment: " chocolate chip walnut cookie"
+  - :image_url: Hdv0gZG4YvImqrDKSbvq8g
+    :comment: Dark Chocolate Chocolate Chip cookie
+    :body: 'Levain Bakery is the #1 best dessert destination at an affordable price
+      in Manhattan.<br><br>Each cookie (just $4) is basically an entire meal, but
+      it&#39;s so much more than even that. <br><br>I&#39;ve been happily married
+      for 32 years now, and like you&#39;d expect, my wife and I&#39;s sex life has
+      diminished over the decades. We&#39;re no longer as young as we once were. <br><br>We&#39;ve
+      tried EVERYTHING to add spice to the bedroom. And I mean everything. Balls,
+      chains, whips, peanut butter, handcuffs. It works temporarily, but the excitement
+      dies down. <br><br>Whenever we need to get in the mood now, we get the Dark
+      Chocolate Chocolate Chip cookie and eat half each. It invigorates us enough
+      to last us the entire night. It&#39;s basically Viagra (note: I am not a doctor).
+      And so far, the excitement hasn&#39;t gone away!! Ill never stop coming here,
+      because I want to keep coming.'
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: GIrsRMIEEfdDh6DXc3b8HA
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: iPlycuwaQicbgmW5GYGjfg
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: WcPROYw6rLnvGP543Pvn3w
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: L34Ky193QHQHhaUVgBUoqQ
+    :comment: Chocolate Chip Walnut
+    :body: Good, large, gooey cookies, but honestly not my favorite type of cookie
+      in the world. Their cookies are very fat and heavy. While when they are right
+      out of the oven they are melty and delicious, they then get hard and aren&#39;t
+      as good later. I personally prefer thinner cookies, but you should try these
+      at least once. They are extremely filling and extremely large, definitely split
+      between people.<br><br>There is usually a line, but it moves pretty fast.
+    :score: '4.0'
+    :date: 8/11/2019
+  - :image_url: Q1gQ8SVA4rcLC4UCezwktw
+    :comment: 
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: cCcSfigapacDpL0medE6Aw
+    :comment: 
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: RsSbngv5Vaol_8jVxXwNOA
+    :comment: Chocolate Walnut Cookie &amp; Iced Coffee
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: 2HQNCmcYw9eLkRvKPwHavA
+    :comment: chocolate chip walnut cookie (there&#39;s probably enough photos of
+      these, probably (definitely)
+    :body: Chocolate chip walnut cookies are what this place is known and as I prefer
+      nut based cookies outside of peanut butter, I got one of those. Massive as everyone
+      else notes. They were closing soon but the cookie tasted quite fresh. It was
+      a soft on the inside with a nice crispy outside. There was great chocolate flavor
+      with a large number of walnuts. Well balanced and excellent.<br><br>Their other
+      pastries are fine but they are known for their cookies for a reason. The staff
+      was very nice also. I&#39;d post more but frankly, there&#39;s no need. There&#39;s
+      7700 other reviews and counting for a very good reason here. It&#39;s not too
+      pricey for the size and easily split-able for 2 tourists (or 1 hungry New Yorker.)
+      Upper 4 to borderline 5.
+    :score: '5.0'
+    :date: 8/2/2019
+  - :image_url: bY1kfKgv3b3Zwg1wWBqK3A
+    :comment: 
+    :body: The line was long af but my friends wanted to try the ice cream and cookies.
+      This location just had cookies. For me- 1 star i am allergic to peanuts and
+      wheat and they have a sign saying dont eat there if you have allergies. They
+      also dont have gluten free goodies. The customer service is a 5 star though
+      the guy covering the line was very personable. The chocolate chip ones my friends
+      said were okay. Undercooked (how i like my cookies though) and they said they
+      tasted like boxed cookies. But the chocolate chocolate chip they all loved.
+      Said it tasted like brownies. Only downside is they were too rich-everyone agreed
+      here
+    :score: '3.0'
+    :date: 8/16/2019
+  - :image_url: 3py7kO5RMlWmMHu1p8Vojw
+    :comment: 
+    :body: 'Yum! Big gooey and oh so big!! I usually nibble on the cookies for a long
+      time or share with a couple people because they are huge! One of the tips the
+      server suggested to me was to cling wrap the cookies and they should last one
+      week and you can even toss them in the freezer to last even longer. And it seems
+      to work so I am glad that I can have them around for longer! The cookies are
+      absolutely delish (my favorite is the dark chocolate chip cookie) and definitely
+      worth a try! <br><br>Tip: I would go to the Upper East side location in mid
+      afternoon because it seems to be less crowded than other locations.'
+    :score: '5.0'
+    :date: 8/2/2019
+the-halal-guys-new-york-2:
+  :name: The Halal Guys
+  :street_address: W 53rd St 6th Ave
+  :city: New York
+  :state: NY
+  :zip: '10019'
+  :phone: 
+  :website: thehalalguys.com
+  :price: "$"
+  :latitude: 40.7617719
+  :longitude: -73.9790609
+  :business_categories:
+  - restaurants
+  - foodstands
+  - mideastern
+  - halal
+  :business_hours:
+  - - Mon
+    - 11:00 am - 11:00 pm
+  - - Tue
+    - 11:00 am - 11:00 pm
+  - - Wed
+    - 11:00 am - 11:00 pm
+  - - Thu
+    - 11:00 am - 11:00 pm
+  - - Fri
+    - 11:00 am - 11:00 pm
+  - - Sat
+    - 11:00 am - 2:00 am
+  - - Sun
+    - 11:00 am - 2:00 am
+  :business_properties:
+  - - Takes Reservations
+    - 'No'
+  - - Delivery
+    - 'No'
+  - - Take-out
+    - 'Yes'
+  - - Accepts Credit Cards
+    - 'No'
+  - - Accepts Apple Pay
+    - 'No'
+  - - Accepts Google Pay
+    - 'No'
+  - - Accepts Cryptocurrency
+    - 'No'
+  - - Good For
+    - Late Night
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'No'
+  - - Good for Kids
+    - 'Yes'
+  - - Good for Groups
+    - 'Yes'
+  - - Attire
+    - Casual
+  - - Ambience
+    - Casual, Classy
+  - - Noise Level
+    - Average
+  - - Alcohol
+    - 'No'
+  - - Outdoor Seating
+    - 'Yes'
+  - - Wi-Fi
+    - 'No'
+  - - Has TV
+    - 'No'
+  - - Caters
+    - 'Yes'
+  :reviews:
+  - :body: 'There is no other like it.  Still THE best of all the carts and the other
+      locations across the country. <br><br>Location: It&#39;s street food. The type
+      of thing you look for after a night out of during your lunch break or basically
+      at any time of the day!  <br><br>Staff: The guys at the cart are pretty entertaining
+      and chill. They like to joke around and are friendly which is awesome.  <br><br>Food:
+      Chicken is perfectly cooked all the time and that white sauce is addictive.  Totally
+      worth a stop when you&#39;re in town!'
+    :score: '5.0'
+    :date: 8/12/2019
+  - :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :body: Amazing. The food is so fresh and the portions are generous. I will always
+      visit every time I&#39;m in town. <br><br>The only downside is that it&#39;s
+      hard to eat standing up. Not a complaint because that&#39;s what happens when
+      you go to a food truck. So if comfort is really important then this might not
+      be the right spot. <br><br>Overall really good, and I highly recommend it.
+    :score: '4.0'
+    :date: 8/17/2019
+  - :body: Being a New Yorker .. how can I not review this New  York tradition !<br><br>This
+      is a food cart. Though now, they have multiple branches in the city itself and
+      also all over the country and the world which are not food carts but food joints
+      with sitting space.<br><br>Simple menu - chicken (great tasting), beef (even
+      better tasting), pork (not anymore at this cart for some reason - but again
+      is great tasting), falafel (kind of okay tasting) - over yellow over rice. With
+      white sauce (yum - put lots), hot sauce (yum but very spicy. Pro tip- put only
+      a few drops ..it would burn your mouth !!!!) and bbq sauce (good). <br>This
+      joint doesn&#39;t have it but some of them also have gyros and baklava (very
+      sweet but really good).<br><br>$7 per plate (was $6 till very recently) - huge
+      portions - would easily last 2 meals.<br><br>Open till late. And almost till
+      4 am on the weekends. Have had many a post-binge-drinking-night-3am-meals here
+      !<br><br>Only con - No sitting at this location. So people mostly do a take
+      away or sit on the parapets of the surrounding buildings.<br><br>Always a long
+      line but moves quickly. Definitely one of the better halal places in the city.
+    :score: '3.0'
+    :date: 8/16/2019
+  - :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :body: Good prices and piles of food, but I think the seasoning is strange.  I
+      can see why they are a successful cart, but I can&#39;t figure out how the became
+      a national chain.
+    :score: '3.0'
+    :date: 8/14/2019
+  - :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :body: 'Atmosphere: Looked like other Halal carts. The menu is simple and easy
+      to navigate.<br><br>Service: Fast service! There was no line since we went at
+      an awkward time (10:30 am), but the line looked longer during the lunch rush.<br><br>Food:
+      We ordered the chicken and gyro combo platter. Not to be extra, but this is
+      literally the best Hala food (and food in general) that we&#39;ve ever had.
+      Their portions were perfect, the meat was well seasoned, the rice was unique,
+      and their hot sauce packs a punch!  Everything went perfectly together. <br><br>Overall:
+      One of the best food places in New York. Everybody needs to eat here at some
+      point in their life. You get more than your money&#39;s worth here and won&#39;t
+      be disappointed! We&#39;d recommend beating the lunch/dinner rushes and having
+      a drink to pair with the delicious hot sauce!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019
+  :images:
+  - :image_url: 24lb-VP2zVySsY9cq45ETw
+    :comment: " Beef Gyro Sandwich $6 USD."
+  - :image_url: 80pz6UQcVEL-zAABGS_IeA
+    :comment: 
+  - :image_url: b3l79rHq28Zy9FY_9ZLhag
+    :comment: " the gold is in the taste. never judge a dish by its plating..."
+  - :image_url: oU2nJqbZvgHqOqoTCYlBJg
+    :comment: " Chicken platter"
+  - :image_url: Q62paWoSk3ocL0nHSipPiw
+    :comment: " To goooo"
+  - :image_url: ZuyDq14AGZQJpWlLpvIzfA
+    :comment: " The famed original halal guys food cart! Not too crowded on a Sunday
+      afternoon, didn&#39;t have to wait at all."
+  - :image_url: B-VaFcbvPoXIK0muvaplFw
+    :comment: " Chicken and Rice"
+  - :image_url: S1U0JkZ9pNxp25pL27JhiA
+    :comment: 
+  - :image_url: KZdVmVbmwYFJWPvGyYgiEw
+    :comment: " 11.2017 NYC"
+  - :image_url: P9z5g0OyZXIZAUnSWw8JcQ
+    :comment: Chicken plate
+    :body: 'There is no other like it.  Still THE best of all the carts and the other
+      locations across the country. <br><br>Location: It&#39;s street food. The type
+      of thing you look for after a night out of during your lunch break or basically
+      at any time of the day!  <br><br>Staff: The guys at the cart are pretty entertaining
+      and chill. They like to joke around and are friendly which is awesome.  <br><br>Food:
+      Chicken is perfectly cooked all the time and that white sauce is addictive.  Totally
+      worth a stop when you&#39;re in town!'
+    :score: '5.0'
+    :date: 8/12/2019
+  - :image_url: xNcae_koNLIiUF4emuyrKQ
+    :comment: Baklava
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: NKcC7EwEF7E7n7AtAL5w7A
+    :comment: 
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: CpRTlQfiqw1HnSDTJL9loA
+    :comment: Small falafel platter
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: hCsuyoJXqtEDh1kzXY3SOQ
+    :comment: menu
+    :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :image_url: qnbxgCLkGmFZtFbMibF2YA
+    :comment: 
+    :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :image_url: "-NWdmVqBIcJNbcmialpviA"
+    :comment: Closeup of our Combo chicken &amp; beef gyro plate w/ the white sauce
+      drizzled ALL OVER and a peek of the rice. YUM!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: P05hCd5fhjX7JL4LB8IBTw
+    :comment: THE HALAL GUYS across the street from Hilton on W 53rd and 6th! Check
+      em out! The food is excellent!!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: XG4IKiZDTnTYwBL25rTA3A
+    :comment: The hot sauce was on point! Be careful! It&#39;s spicy!!!!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: t1KA4AlHz6KV5zSAx7pqlQ
+    :comment: 
+    :body: Good prices and piles of food, but I think the seasoning is strange.  I
+      can see why they are a successful cart, but I can&#39;t figure out how the became
+      a national chain.
+    :score: '3.0'
+    :date: 8/14/2019
+  - :image_url: AON4gjFQ9HCG18BYV58Qqg
+    :comment: Rainy day
+    :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :image_url: XB_bwcUw5M7uwgAuqWQepA
+    :comment: "$9- regular combo platter"
+    :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :image_url: DoOWbgGSjAS4SO8rnyXs4w
+    :comment: 
+    :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :image_url: 3OJ231krrBifYCav1rxsxw
+    :comment: Beef and Chicken Combination Platter - Regular
+    :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :image_url: T3_4NkZhBnnzLSQZ8MVXWg
+    :comment: Chicken and gyro combo platter
+    :body: 'Atmosphere: Looked like other Halal carts. The menu is simple and easy
+      to navigate.<br><br>Service: Fast service! There was no line since we went at
+      an awkward time (10:30 am), but the line looked longer during the lunch rush.<br><br>Food:
+      We ordered the chicken and gyro combo platter. Not to be extra, but this is
+      literally the best Hala food (and food in general) that we&#39;ve ever had.
+      Their portions were perfect, the meat was well seasoned, the rice was unique,
+      and their hot sauce packs a punch!  Everything went perfectly together. <br><br>Overall:
+      One of the best food places in New York. Everybody needs to eat here at some
+      point in their life. You get more than your money&#39;s worth here and won&#39;t
+      be disappointed! We&#39;d recommend beating the lunch/dinner rushes and having
+      a drink to pair with the delicious hot sauce!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: 4P1RK08k9rDnQLtbc7Qewg
+    :comment: Beef halal dinner
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: 9yGv0P5U85L8x2_6BRoVlA
+    :comment: The truck
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: 7zoQsbKcvhhvBNF_Zos48g
+    :comment: Don&#39;t settle for fakes. This is the original and smells so good!
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: x5zEpxGQ2CtBiOf9qTZVsQ
+    :comment: 
+    :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019
+  - :image_url: 4uJV3qasMKXNyJzRYpUjiQ
+    :comment: Menu
+    :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019
+ippudo-ny-new-york-7:
+  :name: Ippudo NY
+  :street_address: 65 4th Ave
+  :city: New York
+  :state: NY
+  :zip: '10003'
+  :phone: 
+  :website: ippudony.com
+  :price: "$$"
+  :latitude: 40.7309278
+  :longitude: -73.9902187
+  :business_categories:
+  - restaurants
+  - japanese
+  :business_hours:
+  - - Mon
+    - 11:00 am - 3:30 pm
+  - - Mon
+    - 5:00 pm - 10:30 pm
+  - - Tue
+    - 11:00 am - 3:30 pm
+  - - Tue
+    - 5:00 pm - 10:30 pm
+  - - Wed
+    - 11:00 am - 3:30 pm
+  - - Wed
+    - 5:00 pm - 10:30 pm
+  - - Thu
+    - 11:00 am - 3:30 pm
+  - - Thu
+    - 5:00 pm - 10:30 pm
+  - - Fri
+    - 11:00 am - 11:30 pm
+  - - Sat
+    - 11:00 am - 11:30 pm
+  - - Sun
+    - 11:00 am - 10:00 pm
+  :business_properties:
+  - - Vegetarian Options
+    - 'Yes'
+  - - High Chairs
+    - 'Yes'
+  - - Kids Activities Nearby
+    - 'Yes'
+  - - Happy Hour Specials
+    - 'Yes'
+  - - Vegan Options
+    - 'Yes'
+  - - Takes Reservations
+    - 'No'
+  - - Delivery
+    - 'No'
+  - - Take-out
+    - 'No'
+  - - Accepts Credit Cards
+    - 'Yes'
+  - - Accepts Apple Pay
+    - 'No'
+  - - Accepts Google Pay
+    - 'No'
+  - - Accepts Cryptocurrency
+    - 'No'
+  - - Good For
+    - Lunch, Dinner
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'No'
+  - - Wheelchair Accessible
+    - 'Yes'
+  - - Good for Kids
+    - 'Yes'
+  - - Good for Groups
+    - 'Yes'
+  - - Ambience
+    - Trendy
+  - - Noise Level
+    - Loud
+  - - Alcohol
+    - Full Bar
+  - - Good For Happy Hour
+    - 'No'
+  - - Outdoor Seating
+    - 'No'
+  - - Wi-Fi
+    - 'No'
+  - - Has TV
+    - 'No'
+  - - Dogs Allowed
+    - 'No'
+  - - Waiter Service
+    - 'Yes'
+  - - Caters
+    - 'No'
+  :reviews:
+  - :body: We had a pleasant meal here and prefer this location to the one on 5th
+      Ave. The staff was very friendly from the hostess and bartender to the servers.<br>The
+      waiter was very attentive to my allergy and made great suggestions. our food
+      was excellent. My wife loved the pork buns even though she was skeptical of
+      the iceberg lettuce.<br>great experience!
+    :score: '5.0'
+    :date: 
+  - :body: Best ramen in the city... and honestly the best ramen I&#39;ve had on the
+      east coast. I ordered the modern and it was rich, full of so many great flavors,
+      and complemented by perfectly cooked noodles and fresh, tasty ingredients. The
+      ultimate comfort f and not a weird health food--It&#39;s how ramen is supposed
+      to be. <br><br>Oh and GET THE EGG. Just lay down the $2, it&#39;s SO worth it.
+      And that applies to the whole experience. This was probably the best 20 bucks
+      I&#39;ve spent on food in years. <br><br>I&#39;ll be back as soon as I can.
+      Until then, I&#39;ll be dreaming of this ramen. For real.
+    :score: '5.0'
+    :date: 8/12/2019
+  - :body: Came here on a Friday night with two other friends, the wait for the table
+      was about 20 minutes. The vibe seemed very authentically Japanese yet appropriately
+      modern. When they escorted us to our tables, they had the staff greet us in
+      Japanese by yelling out &#34;irasshaimase,&#34; a Japanese tradition which was
+      very cool to experience in America.<br><br>I ordered the Akamaru Modern, and
+      my other two friends ordered the Ichiraku and the Karaka-men. It smelled fantastic
+      and the noodles were nice, however all of our ramens were very salty which made
+      it not very enjoyable overall.<br><br>One of my friends didn&#39;t have much
+      of an appetite, and didn&#39;t eat much of it at all, so asked for a togo box.
+      Surprisingly they told her they do not have togo boxes here. I&#39;ve never
+      been to a place without togo containers before, and was very dissatisfied as
+      she had so much food left. They did however agree to comp her ramen, but this
+      is definitely something to be aware of if you are someone who tends to leave
+      leftovers. <br><br>Overall, for the price, the lack of toppings in the ramen
+      really was not worth it. The &#34;chashu pork&#34; that tops most of their ramen
+      was comparable to boiled pork belly, rather than a braised pork. It was a good
+      one time experience but not sure I would come again.
+    :score: '3.0'
+    :date: 8/9/2019
+  - :body: Ippudo is my favorite all around ramen experience. I think if you dissect
+      each component you might find better things elsewhere; the broth is better at
+      x, the noodles are better at y, but the best complete package is at Ippudo,
+      in my opinion. The all-stars are always on the menu but they also run specials
+      for both ramen and appetizers. They are always very creative and very delicious.
+      Not to mention, the best shishito peppers can be had here. 5 stars - great experience,
+      consistent service, consistent ramen, and delicious specials.
+    :score: '5.0'
+    :date: 8/19/2019
+  :images:
+  - :image_url: zF3EgqHCk7zBUwD2B3WTEA
+    :comment: 
+  - :image_url: dqjGk3X9wt_gaszKSNgijA
+    :comment: 
+  - :image_url: BwFk5Bu9mcnfThtf-AO5jg
+    :comment: 
+  - :image_url: rT-Fr7_qzI9x7nyId2fdcQ
+    :comment: 
+  - :image_url: UPzKKAZmazhi-QMqTObbnw
+    :comment: 
+  - :image_url: RWUdtPcNzOaIW1OT19lfOA
+    :comment: 
+  - :image_url: ZSeiTziuckaQ0F3_LkAppw
+    :comment: 
+  - :image_url: z974JOqEb3ra9nBdEkuVvA
+    :comment: 
+  - :image_url: srggNhkwDrXDtp9lHk0Bcg
+    :comment: Pork Bun
+    :body: Best ramen in the city... and honestly the best ramen I&#39;ve had on the
+      east coast. I ordered the modern and it was rich, full of so many great flavors,
+      and complemented by perfectly cooked noodles and fresh, tasty ingredients. The
+      ultimate comfort f and not a weird health food--It&#39;s how ramen is supposed
+      to be. <br><br>Oh and GET THE EGG. Just lay down the $2, it&#39;s SO worth it.
+      And that applies to the whole experience. This was probably the best 20 bucks
+      I&#39;ve spent on food in years. <br><br>I&#39;ll be back as soon as I can.
+      Until then, I&#39;ll be dreaming of this ramen. For real.
+    :score: '5.0'
+    :date: 8/12/2019
+  - :image_url: BasU3nal5JqT2wJLsyo2TQ
+    :comment: Akamaru Modern
+    :body: Best ramen in the city... and honestly the best ramen I&#39;ve had on the
+      east coast. I ordered the modern and it was rich, full of so many great flavors,
+      and complemented by perfectly cooked noodles and fresh, tasty ingredients. The
+      ultimate comfort f and not a weird health food--It&#39;s how ramen is supposed
+      to be. <br><br>Oh and GET THE EGG. Just lay down the $2, it&#39;s SO worth it.
+      And that applies to the whole experience. This was probably the best 20 bucks
+      I&#39;ve spent on food in years. <br><br>I&#39;ll be back as soon as I can.
+      Until then, I&#39;ll be dreaming of this ramen. For real.
+    :score: '5.0'
+    :date: 8/12/2019
+  - :image_url: Wb9JG_GIrB_orK1SiN2Zpg
+    :comment: Akamaru Modern Ramen
+    :body: Came here on a Friday night with two other friends, the wait for the table
+      was about 20 minutes. The vibe seemed very authentically Japanese yet appropriately
+      modern. When they escorted us to our tables, they had the staff greet us in
+      Japanese by yelling out &#34;irasshaimase,&#34; a Japanese tradition which was
+      very cool to experience in America.<br><br>I ordered the Akamaru Modern, and
+      my other two friends ordered the Ichiraku and the Karaka-men. It smelled fantastic
+      and the noodles were nice, however all of our ramens were very salty which made
+      it not very enjoyable overall.<br><br>One of my friends didn&#39;t have much
+      of an appetite, and didn&#39;t eat much of it at all, so asked for a togo box.
+      Surprisingly they told her they do not have togo boxes here. I&#39;ve never
+      been to a place without togo containers before, and was very dissatisfied as
+      she had so much food left. They did however agree to comp her ramen, but this
+      is definitely something to be aware of if you are someone who tends to leave
+      leftovers. <br><br>Overall, for the price, the lack of toppings in the ramen
+      really was not worth it. The &#34;chashu pork&#34; that tops most of their ramen
+      was comparable to boiled pork belly, rather than a braised pork. It was a good
+      one time experience but not sure I would come again.
+    :score: '3.0'
+    :date: 8/9/2019
+  - :image_url: 4-Q766m5x2B9g7EUvg6mWg
+    :comment: 
+    :body: Ippudo is my favorite all around ramen experience. I think if you dissect
+      each component you might find better things elsewhere; the broth is better at
+      x, the noodles are better at y, but the best complete package is at Ippudo,
+      in my opinion. The all-stars are always on the menu but they also run specials
+      for both ramen and appetizers. They are always very creative and very delicious.
+      Not to mention, the best shishito peppers can be had here. 5 stars - great experience,
+      consistent service, consistent ramen, and delicious specials.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: xU_EIh9SnPCZ_SojNLEWcw
+    :comment: Shushi to
+    :body: Ippudo is my favorite all around ramen experience. I think if you dissect
+      each component you might find better things elsewhere; the broth is better at
+      x, the noodles are better at y, but the best complete package is at Ippudo,
+      in my opinion. The all-stars are always on the menu but they also run specials
+      for both ramen and appetizers. They are always very creative and very delicious.
+      Not to mention, the best shishito peppers can be had here. 5 stars - great experience,
+      consistent service, consistent ramen, and delicious specials.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: RflkbKfPOmYsZVQiNOUbFA
+    :comment: 
+    :body: Ippudo is my favorite all around ramen experience. I think if you dissect
+      each component you might find better things elsewhere; the broth is better at
+      x, the noodles are better at y, but the best complete package is at Ippudo,
+      in my opinion. The all-stars are always on the menu but they also run specials
+      for both ramen and appetizers. They are always very creative and very delicious.
+      Not to mention, the best shishito peppers can be had here. 5 stars - great experience,
+      consistent service, consistent ramen, and delicious specials.
+    :score: '5.0'
+    :date: 8/19/2019
+katzs-delicatessen-new-york:
+  :name: Katz\u2019s Delicatessen
+  :street_address: 205 E Houston St
+  :city: New York
+  :state: NY
+  :zip: '10003'
+  :phone: "(212) 254-2246"
+  :website: katzsdelicatessen.com
+  :price: "$$"
+  :latitude: 40.7222371
+  :longitude: -73.9875259
+  :business_categories:
+  - eventservices
+  - restaurants
+  - delis
+  - sandwiches
+  - catering
+  :business_hours:
+  - - Mon
+    - 8:00 am - 10:30 pm
+  - - Tue
+    - 8:00 am - 10:30 pm
+  - - Wed
+    - 8:00 am - 10:30 pm
+  - - Thu
+    - 8:00 am - 2:30 am
+  - - Fri
+    - 8:00 am -
+  - - Sat
+    - ''
+  - - Sat
+    - Open 24 hours
+  - - Sun
+    - ''
+  - - Sat
+    - "- 10:30 pm"
+  :business_properties:
+  - - Takes Reservations
+    - 'No'
+  - - Delivery
+    - 'Yes'
+  - - Take-out
+    - 'Yes'
+  - - Accepts Credit Cards
+    - 'Yes'
+  - - Accepts Apple Pay
+    - 'No'
+  - - Accepts Google Pay
+    - 'No'
+  - - Good For
+    - Lunch
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'Yes'
+  - - Wheelchair Accessible
+    - 'Yes'
+  - - Good for Kids
+    - 'Yes'
+  - - Good for Groups
+    - 'Yes'
+  - - Ambience
+    - Casual, Classy
+  - - Noise Level
+    - Loud
+  - - Alcohol
+    - Beer & Wine Only
+  - - Outdoor Seating
+    - 'No'
+  - - Wi-Fi
+    - 'No'
+  - - Has TV
+    - 'No'
+  - - Dogs Allowed
+    - 'No'
+  - - Waiter Service
+    - 'Yes'
+  :reviews:
+  - :body: A historic deli in the heart of the Lower East Side. This delicatessen
+      isn&#39;t just an eatery, it&#39;s an institution and has remained virtually
+      untouched since 1917, when it opened in its current location (originally opened
+      across the street in 1888). This was an important congregating spot for newly
+      immigrated families in the early 20th century. <br><br>Their pastrami is incredible
+      and famous. They cure it for over 30 DAYS and it shows. Tender, melts in your
+      mouth. They always give you a tasting before you buy. <br><br>We ordered the
+      pastrami on rye, the corned beef on rye, the cold roast beef, 2 matzah ball
+      soups, and it all comes with a plate of their half and full sours. The pickles
+      are INCREDIBLE and I miss being able to find those crunchy half sours in California.
+      <br><br>Everything was perfection. Next time, we&#39;d share one sandwich. They
+      are that big!!
+    :score: '5.0'
+    :date: 
+  - :body: Got a taste of Katz&#39;s when they did a collab with Au Cheval in Chicago,
+      so I knew I had to go when I visited New York. But also, so many people have
+      told me I had to make a stop there. My friend and I went pretty early in the
+      morning and it was our first time there, so we were a bit confused about the
+      process. Since there weren&#39;t many people there, the workers were a bit more
+      patient with us. We just ordered the classic pastrami and we&#39;re so glad
+      that the two of us shared it because it was a monster of a sandwich! I&#39;m
+      usually not a big fan of mustard, but the mustard added a nice and slight kick.
+      Also, the pickles - perfect. <br><br>When you walk in, you get a ticket (DONT
+      LOSE THIS). On the very right side there&#39;s a smaller menu, but they also
+      just have it up on the wall. You order wherever someone is ready to take your
+      order, you grab your stuff, take it to the cashier and they write on your ticket.
+      You go and eat, then once you&#39;re done, go back to the cashier and pay. They&#39;ll
+      give you your ticket and receipt back and you have to hand it to the guy at
+      the door, and then you&#39;re good to go.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :body: Do not lose the ticket they give you upon entering! Even if you don&#39;t
+      order anything, they are super strict about returning the ticket when you exit.<br><br>I
+      split a pastrami on rye with my friend and let me tell you....I don&#39;t like
+      pastrami. Never have and thought I never would. Actually, not even a huge fan
+      of sandwiches. But this specific sandwich is BOMBBBBB. Serving size is pretty
+      big so I&#39;d recommend splitting with a friend if you&#39;re not that hungry
+      or can&#39;t eat that much. Ingredients are prepared fresh and the pickles that
+      come with the sandwich are the perfect amount of juice and crunch. When they
+      ask you how much mustard you want on your sandwich, don&#39;t hold back. Tell
+      them to pour that thangggg ON. Their mustard is so bomb and I regret not adding
+      more to the sandwich initially.<br><br>I&#39;m salivating thinking about this,
+      tbh. There&#39;s a reason why Katz&#39;s has 11,000+ reviews. If you are ever
+      in New York, GO!!! No matter your schedule, make room for this.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :body: Katz&#39;s Deli is a New York City staple. It doesn&#39;t matter the audience,
+      both locals and tourists come here to get their famous pastrami sandwich.<br><br>Need
+      to know:<br>1)When you arrive, you will be handed a ticket. This ticket allows
+      you to order, do not lose this ticket or you will have to pay extra.<br>2)Know
+      what you want before you get to the front. You will get kicked to the back of
+      the line if you reach the front... and locals will laugh.<br><br>The hot pastrami
+      sandwich is the go to sandwich. Smoked and juicy pastrami between two slices
+      of bread. It is a delight! Along with the pickles and cucumbers, it makes for
+      the perfect lunch.
+    :score: '5.0'
+    :date: 8/18/2019
+  - :body: 'Definitely worth the hype. We came here on a Saturday and waited for about
+      30 minutes to try this place out. Being that I&#39;m from LA, their setup kind
+      of reminded me of Philippe&#39;s setup back home (obviously they sell different
+      things though). <br><br>We ordered the combo sandwich which came with both pastrami
+      and corned beef. The sandwich was about $21, but was definitely more than enough
+      to share for two people.<br><br>The pastrami was some of the best pastrami&#39;s
+      I&#39;ve ever had...EVER. It was definitely drool-worthy and just had that type
+      of taste where you want to close your eyes after that first bite. <br><br>The
+      corned beef, however, was a little odd for me. It didn&#39;t have the same flavor
+      that I&#39;m familiar with. Maybe that&#39;s how the restaurant makes it, but
+      to me it had a weird after taste. <br><br>IMO: Skip the corned beef and stick
+      with the pastrami! <br><br>Definitely a must visit place when coming to NYC!'
+    :score: '4.0'
+    :date: 8/12/2019
+  - :body: Katz&#39;s is a very popular Lower East Side deli. They&#39;re famous for
+      their large meat sandwiches. Ive heard several people say its the best corned
+      beefed/or rueben they&#39;ve ever had. I&#39;m not a huge meat eater so I usually
+      get fries and a soda. <br><br>Extremely popular with tourists, this place is
+      always packed with a line out the door. Its chaotic and hard to understand how
+      it all works. <br><br>A few notes that might help you:<br><br>-You take a ticket
+      and go to the counter to order your food from the men making it or sit down
+      at a Waiter Table.<br>-Tables against the wall are Waiter Service Only, tables
+      in the middle are Self Serve meaning you order at the counter then sit down.
+      <br>-The front door register is cash only. If you&#39;re paying with a card,
+      pay at the back register.<br><br>This is a no frills cafeteria style diner with
+      high prices, rushed orders and wet school lunch trays. The French fries were
+      ok. <br><br>We take out of town relatives here because they&#39;ve heard of
+      it and they want to go but we never go outside of that.
+    :score: '3.0'
+    :date: 8/9/2019
+  - :body: Must-try! SO much meat!<br><br>Went here on a surprisingly busy Tuesday
+      afternoon! They give samples at the counter where you order. <br><br>Ordered
+      the Pastrami and Katz&#39;s IPA (yes, they have their own beer!). About $25
+      for the sandwich, but it&#39;s packed with meat! Sure wasn&#39;t ready! Eat
+      it with the cucumber pickle they serve it with to even out the meat ratio. <br><br>Cool
+      environment. Tons of seating. Katz&#39;s is a classic 5/5!
+    :score: '5.0'
+    :date: 8/8/2019
+  - :body: 'With over 10k reviews and solid 4 stars I expected more. Staff were all
+      very friendly, informative, and honestly good people. For the hot pastrami on
+      rye and Ruben with corn beef on rye. They were tasty, but definitely not worth
+      30 bucks for two half sandwiches. House made pickles were yummy. Just wish you
+      could have the bread toasted. <br><br>Pro tip: if your trying this place for
+      the first time and are with others, get half sandwiches so you can try all the
+      meat!'
+    :score: '3.0'
+    :date: 8/3/2019
+  - :body: Iconic and delicious. We arrived at brunch time on Saturday morning and
+      there was not a line. This is a must do destination.
+    :score: '5.0'
+    :date: 8/17/2019
+  - :body: 'An iconic location. You have to come here and try their sandwiches, they
+      are as good as you have heard I promise! Protip: know what you want by the time
+      you get to the front, the lines are crazy so don&#39;t keep anyone waiting longer
+      than necessary.<br><br>Initially I had my heart set on pastrami on rye, but
+      being the indecisive person I am, I settled for corn beef on rye with added
+      pastrami. Both are somewhat similar, but this way I get to try to different
+      meats which is the highlight of the sandwich. They pack this meat on! I don&#39;t
+      think I&#39;ve ever had such a stuffed sandwich while the price is steep, me
+      and my boyfriend split one sandwich and each half was pretty big.<br><br>The
+      meat slices are really thick and extremely juicy, honestly this place deserves
+      all the hype it gets. They even give you some slices to sample while you wait
+      for them to make your sandwich. Paying is a bit confusing, you pay when you
+      leave but make sure you don&#39;t lose your ticket! You need it to get in and
+      get out, if you lose it you have to pay a fee.'
+    :score: '5.0'
+    :date: 7/30/2019
+  - :body: Definitely can&#39;t come to NY without stopping by Katz&#39;s!<br><br>What
+      did I order:<br>- Rueben [corned beef or you can add pastrami]<br>- Pastrami<br><br>I
+      highly recommend the pastrami! Can&#39;t go wrong with it. <br><br>Do keep in
+      mind, you can do grab and go [like to go style] and then sit in the back area
+      of the restaurant. There is also the option to dine in and have a server take
+      your order for you and you&#39;ll be in the main dining area. <br><br>If you
+      choose to order the gran-and-go style, DO NOT, i repeat, DO NOT, lose your ticket
+      that they give you because that is your payment ticket as you leave. You basically
+      eat first then pay as you LEAVE LEAVE.
+    :score: '5.0'
+    :date: 7/17/2019
+  - :body: 'OMG! Where do I begin. My mouth drools thinking about the pastrami. <br><br>I
+      walked in and there were people everywhere. I hadn&#39;t a clue what I was meant
+      to do. After 10 minutes I realised I wasn&#39;t even standing in line. I was
+      about to leave and though NO... I WANT PASTRAMI! <br><br>Asked someone what
+      going on and he barked &#34;go over there&#34;. So I did. <br><br>For a 26 dollar
+      pastrami reuben sandwich I expect it to be the closest thing to heaven. And
+      it was! Worth every penny! With a gorgeous pickle to go with it. <br><br>The
+      problem: it was too big. I choose to leave the bread and eat just the meat.
+      I couldn&#39;t eat my second pickle. Why oh why couldn&#39;t I eat that pickle.
+      Now I want that pickle! I live in a country where you don&#39;t get pickles.
+      sniff sniff. <br><br>So Katz deli! Delis like this are disapparing because the
+      younger generation want an egg in a pretty shape and pay 30 dollars for it.
+      All the good delis are disappearing and one day soon maybe this one too. Hopefully
+      not! <br><br>years ago I used to be able to walk in any block and find good
+      deli. Now... their all gone! <br><br>Eat here before you miss out!'
+    :score: '5.0'
+    :date: 8/13/2019
+  - :body: I would say 3 stars overall, but the meat earns the 4th star.  <br><br>Definitely
+      a tourist trap, and if I were local, the pastrami is worth the extra $, as it
+      is, hands down, the best I&#39;ve ever had.  <br><br>How many of us have ever
+      had warm pastrami?!<br><br>It&#39;s the rest that falls apart. <br><br>We sat
+      and waited too long for our waitress to show.  They gave us a SUBSTANTIAL amount
+      of pickles that were WAY too salted to enjoy.  I love fresh pickles but these
+      aren&#39;t what you&#39;d expect.  It feels like a huge waste to assume 4 people
+      want a pile of pickles. <br><br>The babes enjoyed the roast beef on their sandwich
+      but the bread that came with our sandwiches was not worth the $20+ price of
+      them. <br><br>I would recommend splitting a sandwich and seeking out a salad
+      elsewhere to offset the insane pile of meat.  <br><br>The latkes were super
+      thick and filling and large (and I enjoyed the flavor), but too cooked for my
+      mom&#39;s taste and didn&#39;t come with enough sauce and sour cream. <br><br>I
+      don&#39;t know why NY places are so keen on American cheese but there&#39;s
+      enough real cheese available now cheddar should be an option!
+    :score: '4.0'
+    :date: 7/18/2019
+  - :body: This place stays busy, I hear about it all the time but never got around
+      to trying them out until recently because it was my friend&#39;s birthday and
+      she wanted to go. <br><br>It&#39;s mad busy in here, luckily when I arrived
+      there was no line outside and only a 20-minute wait for table service.  The
+      alternative was a wait to order in one of the many sandwich lines and then seat
+      ourselves in the communal seating areas. Oh yeah, there&#39;s two big security
+      guards at the door on the way in and out.  One gives you a pink ticket on the
+      way in that gets marked once you&#39;ve paid for your meal, the other checks
+      to see if said ticket is marked on the way out. Also, don&#39;t lose the ticket
+      or it will cost you a pretty penny in fees on the way out.  You could argue
+      with them like I saw a family doing when I came in, but by the looks of the
+      security gaurds, I wouldn&#39;t want any smoke with them.<br><br>Anyways, the
+      food was fabulous.  The pastrami was amazing. It literally melts in your mouth
+      and was everything with a side of mayonnaise. The matzo ball soup was delicious
+      as well, it was my first time having it and I was impressed. I also dig that
+      this place makes its own lemonade.  Moreover, Katz is pretty pricey but the
+      food and the experience are worth it.<br><br>All in all, I can finally say that
+      I&#39;ve had what she&#39;s having and it was absolutely delicious.
+    :score: '4.0'
+    :date: 7/31/2019
+  - :body: Got here just before the Sat tourist lunch rush circa 11:40am. Ordered
+      frankfurters and pastrami on rye to share. My favourite is the Pastrami on Rye.
+      Expensive but worth every cent. Comes with two types of pickles too.. definitely
+      plenty to share between two. <br><br>Each adults are given a green ticket each
+      so they can figure out what you have ordered. If you are paying by card then
+      pay at the back corner, right hand side. Cash is taken at the entrance of the
+      restaurant. Green tickets are checked before you exit to make sure you are all
+      settled with all the charges. <br><br>People are also given the choice of self
+      service vs. full service tables. I opted for the self service option given it
+      was pretty early and there were tables readily available. <br><br>Left just
+      a little bit over 12:30pm and there wasn&#39;t a queue outside. Four frankfurters
+      and a pastrami on rye ended up just a tad over $50.
+    :score: '4.0'
+    :date: 7/15/2019
+  :images:
+  - :image_url: B6xNx79cSE7bFxqERBYOhg
+    :comment: " Pastrami"
+  - :image_url: 2mvXEMc1bxP0dAVfQPtCsg
+    :comment: " Reuben Sandwich"
+  - :image_url: 7Yn37rOW4VQDI396jPPoyA
+    :comment: " Katz &#39;s Pastrami Hot Sandwich"
+  - :image_url: 2PTbkE0DB1ltZtFQ8WXPCw
+    :comment: " Exterior"
+  - :image_url: n1qXJCLp9SYZ_1LQKthc0g
+    :comment: " Hand Carved Pastrami"
+  - :image_url: 22lPNIbyKztatQCf5gRkaw
+    :comment: " Salami"
+  - :image_url: rl1QdvHTpM6kZ1e0KAUndw
+    :comment: " A picture is worth a thousand words..."
+  - :image_url: jEukJ68Ji8WX4RVZHEqx2A
+    :comment: " Mostly indifferent, but occasionally friendly service."
+  - :image_url: lgR-tqHIurJGs40Amp9ASw
+    :comment: The kids were totally into the celery soda!
+    :body: A historic deli in the heart of the Lower East Side. This delicatessen
+      isn&#39;t just an eatery, it&#39;s an institution and has remained virtually
+      untouched since 1917, when it opened in its current location (originally opened
+      across the street in 1888). This was an important congregating spot for newly
+      immigrated families in the early 20th century. <br><br>Their pastrami is incredible
+      and famous. They cure it for over 30 DAYS and it shows. Tender, melts in your
+      mouth. They always give you a tasting before you buy. <br><br>We ordered the
+      pastrami on rye, the corned beef on rye, the cold roast beef, 2 matzah ball
+      soups, and it all comes with a plate of their half and full sours. The pickles
+      are INCREDIBLE and I miss being able to find those crunchy half sours in California.
+      <br><br>Everything was perfection. Next time, we&#39;d share one sandwich. They
+      are that big!!
+    :score: '5.0'
+    :date: 
+  - :image_url: Rh9tZAeyg-XAFKmLAocy0Q
+    :comment: 
+    :body: A historic deli in the heart of the Lower East Side. This delicatessen
+      isn&#39;t just an eatery, it&#39;s an institution and has remained virtually
+      untouched since 1917, when it opened in its current location (originally opened
+      across the street in 1888). This was an important congregating spot for newly
+      immigrated families in the early 20th century. <br><br>Their pastrami is incredible
+      and famous. They cure it for over 30 DAYS and it shows. Tender, melts in your
+      mouth. They always give you a tasting before you buy. <br><br>We ordered the
+      pastrami on rye, the corned beef on rye, the cold roast beef, 2 matzah ball
+      soups, and it all comes with a plate of their half and full sours. The pickles
+      are INCREDIBLE and I miss being able to find those crunchy half sours in California.
+      <br><br>Everything was perfection. Next time, we&#39;d share one sandwich. They
+      are that big!!
+    :score: '5.0'
+    :date: 
+  - :image_url: riLzOIRJPA2d6ettBCGH6Q
+    :comment: 
+    :body: A historic deli in the heart of the Lower East Side. This delicatessen
+      isn&#39;t just an eatery, it&#39;s an institution and has remained virtually
+      untouched since 1917, when it opened in its current location (originally opened
+      across the street in 1888). This was an important congregating spot for newly
+      immigrated families in the early 20th century. <br><br>Their pastrami is incredible
+      and famous. They cure it for over 30 DAYS and it shows. Tender, melts in your
+      mouth. They always give you a tasting before you buy. <br><br>We ordered the
+      pastrami on rye, the corned beef on rye, the cold roast beef, 2 matzah ball
+      soups, and it all comes with a plate of their half and full sours. The pickles
+      are INCREDIBLE and I miss being able to find those crunchy half sours in California.
+      <br><br>Everything was perfection. Next time, we&#39;d share one sandwich. They
+      are that big!!
+    :score: '5.0'
+    :date: 
+  - :image_url: I2ldJC9b4aKfdP5HGgHDow
+    :comment: Outside
+    :body: Got a taste of Katz&#39;s when they did a collab with Au Cheval in Chicago,
+      so I knew I had to go when I visited New York. But also, so many people have
+      told me I had to make a stop there. My friend and I went pretty early in the
+      morning and it was our first time there, so we were a bit confused about the
+      process. Since there weren&#39;t many people there, the workers were a bit more
+      patient with us. We just ordered the classic pastrami and we&#39;re so glad
+      that the two of us shared it because it was a monster of a sandwich! I&#39;m
+      usually not a big fan of mustard, but the mustard added a nice and slight kick.
+      Also, the pickles - perfect. <br><br>When you walk in, you get a ticket (DONT
+      LOSE THIS). On the very right side there&#39;s a smaller menu, but they also
+      just have it up on the wall. You order wherever someone is ready to take your
+      order, you grab your stuff, take it to the cashier and they write on your ticket.
+      You go and eat, then once you&#39;re done, go back to the cashier and pay. They&#39;ll
+      give you your ticket and receipt back and you have to hand it to the guy at
+      the door, and then you&#39;re good to go.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: 0xXcabDhWmUFBydBUI6dvg
+    :comment: Outside
+    :body: Got a taste of Katz&#39;s when they did a collab with Au Cheval in Chicago,
+      so I knew I had to go when I visited New York. But also, so many people have
+      told me I had to make a stop there. My friend and I went pretty early in the
+      morning and it was our first time there, so we were a bit confused about the
+      process. Since there weren&#39;t many people there, the workers were a bit more
+      patient with us. We just ordered the classic pastrami and we&#39;re so glad
+      that the two of us shared it because it was a monster of a sandwich! I&#39;m
+      usually not a big fan of mustard, but the mustard added a nice and slight kick.
+      Also, the pickles - perfect. <br><br>When you walk in, you get a ticket (DONT
+      LOSE THIS). On the very right side there&#39;s a smaller menu, but they also
+      just have it up on the wall. You order wherever someone is ready to take your
+      order, you grab your stuff, take it to the cashier and they write on your ticket.
+      You go and eat, then once you&#39;re done, go back to the cashier and pay. They&#39;ll
+      give you your ticket and receipt back and you have to hand it to the guy at
+      the door, and then you&#39;re good to go.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: t-eGazESo7nFPJiy-I6TBQ
+    :comment: Katz&#39;s Pastrami
+    :body: Got a taste of Katz&#39;s when they did a collab with Au Cheval in Chicago,
+      so I knew I had to go when I visited New York. But also, so many people have
+      told me I had to make a stop there. My friend and I went pretty early in the
+      morning and it was our first time there, so we were a bit confused about the
+      process. Since there weren&#39;t many people there, the workers were a bit more
+      patient with us. We just ordered the classic pastrami and we&#39;re so glad
+      that the two of us shared it because it was a monster of a sandwich! I&#39;m
+      usually not a big fan of mustard, but the mustard added a nice and slight kick.
+      Also, the pickles - perfect. <br><br>When you walk in, you get a ticket (DONT
+      LOSE THIS). On the very right side there&#39;s a smaller menu, but they also
+      just have it up on the wall. You order wherever someone is ready to take your
+      order, you grab your stuff, take it to the cashier and they write on your ticket.
+      You go and eat, then once you&#39;re done, go back to the cashier and pay. They&#39;ll
+      give you your ticket and receipt back and you have to hand it to the guy at
+      the door, and then you&#39;re good to go.
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: CZFk5ilU0g0jn2IOEbu33g
+    :comment: Where Harry met Sally
+    :body: Katz&#39;s Deli is a New York City staple. It doesn&#39;t matter the audience,
+      both locals and tourists come here to get their famous pastrami sandwich.<br><br>Need
+      to know:<br>1)When you arrive, you will be handed a ticket. This ticket allows
+      you to order, do not lose this ticket or you will have to pay extra.<br>2)Know
+      what you want before you get to the front. You will get kicked to the back of
+      the line if you reach the front... and locals will laugh.<br><br>The hot pastrami
+      sandwich is the go to sandwich. Smoked and juicy pastrami between two slices
+      of bread. It is a delight! Along with the pickles and cucumbers, it makes for
+      the perfect lunch.
+    :score: '5.0'
+    :date: 8/18/2019
+  - :image_url: NF-9xQMOH-XHSnHxS_DbHA
+    :comment: Cashier
+    :body: Katz&#39;s Deli is a New York City staple. It doesn&#39;t matter the audience,
+      both locals and tourists come here to get their famous pastrami sandwich.<br><br>Need
+      to know:<br>1)When you arrive, you will be handed a ticket. This ticket allows
+      you to order, do not lose this ticket or you will have to pay extra.<br>2)Know
+      what you want before you get to the front. You will get kicked to the back of
+      the line if you reach the front... and locals will laugh.<br><br>The hot pastrami
+      sandwich is the go to sandwich. Smoked and juicy pastrami between two slices
+      of bread. It is a delight! Along with the pickles and cucumbers, it makes for
+      the perfect lunch.
+    :score: '5.0'
+    :date: 8/18/2019
+  - :image_url: 8yqGPWxzwI0ufvtoaAiglw
+    :comment: Katz &#39;s Pastrami Hot Sandwich
+    :body: Katz&#39;s Deli is a New York City staple. It doesn&#39;t matter the audience,
+      both locals and tourists come here to get their famous pastrami sandwich.<br><br>Need
+      to know:<br>1)When you arrive, you will be handed a ticket. This ticket allows
+      you to order, do not lose this ticket or you will have to pay extra.<br>2)Know
+      what you want before you get to the front. You will get kicked to the back of
+      the line if you reach the front... and locals will laugh.<br><br>The hot pastrami
+      sandwich is the go to sandwich. Smoked and juicy pastrami between two slices
+      of bread. It is a delight! Along with the pickles and cucumbers, it makes for
+      the perfect lunch.
+    :score: '5.0'
+    :date: 8/18/2019
+  - :image_url: 6tNUX_GJ0tAlUv3T8kY_bA
+    :comment: Mustard
+    :body: 'Definitely worth the hype. We came here on a Saturday and waited for about
+      30 minutes to try this place out. Being that I&#39;m from LA, their setup kind
+      of reminded me of Philippe&#39;s setup back home (obviously they sell different
+      things though). <br><br>We ordered the combo sandwich which came with both pastrami
+      and corned beef. The sandwich was about $21, but was definitely more than enough
+      to share for two people.<br><br>The pastrami was some of the best pastrami&#39;s
+      I&#39;ve ever had...EVER. It was definitely drool-worthy and just had that type
+      of taste where you want to close your eyes after that first bite. <br><br>The
+      corned beef, however, was a little odd for me. It didn&#39;t have the same flavor
+      that I&#39;m familiar with. Maybe that&#39;s how the restaurant makes it, but
+      to me it had a weird after taste. <br><br>IMO: Skip the corned beef and stick
+      with the pastrami! <br><br>Definitely a must visit place when coming to NYC!'
+    :score: '4.0'
+    :date: 8/12/2019
+  - :image_url: jsM-6mSkS1sBZtEdi1Cokw
+    :comment: Exterior
+    :body: 'Definitely worth the hype. We came here on a Saturday and waited for about
+      30 minutes to try this place out. Being that I&#39;m from LA, their setup kind
+      of reminded me of Philippe&#39;s setup back home (obviously they sell different
+      things though). <br><br>We ordered the combo sandwich which came with both pastrami
+      and corned beef. The sandwich was about $21, but was definitely more than enough
+      to share for two people.<br><br>The pastrami was some of the best pastrami&#39;s
+      I&#39;ve ever had...EVER. It was definitely drool-worthy and just had that type
+      of taste where you want to close your eyes after that first bite. <br><br>The
+      corned beef, however, was a little odd for me. It didn&#39;t have the same flavor
+      that I&#39;m familiar with. Maybe that&#39;s how the restaurant makes it, but
+      to me it had a weird after taste. <br><br>IMO: Skip the corned beef and stick
+      with the pastrami! <br><br>Definitely a must visit place when coming to NYC!'
+    :score: '4.0'
+    :date: 8/12/2019
+  - :image_url: 9LrgwO5JLfB4vqfNDIgU4w
+    :comment: Menu
+    :body: 'Definitely worth the hype. We came here on a Saturday and waited for about
+      30 minutes to try this place out. Being that I&#39;m from LA, their setup kind
+      of reminded me of Philippe&#39;s setup back home (obviously they sell different
+      things though). <br><br>We ordered the combo sandwich which came with both pastrami
+      and corned beef. The sandwich was about $21, but was definitely more than enough
+      to share for two people.<br><br>The pastrami was some of the best pastrami&#39;s
+      I&#39;ve ever had...EVER. It was definitely drool-worthy and just had that type
+      of taste where you want to close your eyes after that first bite. <br><br>The
+      corned beef, however, was a little odd for me. It didn&#39;t have the same flavor
+      that I&#39;m familiar with. Maybe that&#39;s how the restaurant makes it, but
+      to me it had a weird after taste. <br><br>IMO: Skip the corned beef and stick
+      with the pastrami! <br><br>Definitely a must visit place when coming to NYC!'
+    :score: '4.0'
+    :date: 8/12/2019
+  - :image_url: A2Yrowt0k822C8Xb3Gk80g
+    :comment: 
+    :body: Katz&#39;s is a very popular Lower East Side deli. They&#39;re famous for
+      their large meat sandwiches. Ive heard several people say its the best corned
+      beefed/or rueben they&#39;ve ever had. I&#39;m not a huge meat eater so I usually
+      get fries and a soda. <br><br>Extremely popular with tourists, this place is
+      always packed with a line out the door. Its chaotic and hard to understand how
+      it all works. <br><br>A few notes that might help you:<br><br>-You take a ticket
+      and go to the counter to order your food from the men making it or sit down
+      at a Waiter Table.<br>-Tables against the wall are Waiter Service Only, tables
+      in the middle are Self Serve meaning you order at the counter then sit down.
+      <br>-The front door register is cash only. If you&#39;re paying with a card,
+      pay at the back register.<br><br>This is a no frills cafeteria style diner with
+      high prices, rushed orders and wet school lunch trays. The French fries were
+      ok. <br><br>We take out of town relatives here because they&#39;ve heard of
+      it and they want to go but we never go outside of that.
+    :score: '3.0'
+    :date: 8/9/2019
+  - :image_url: eAI2UeulQi5BS3JXMDv25A
+    :comment: 
+    :body: Must-try! SO much meat!<br><br>Went here on a surprisingly busy Tuesday
+      afternoon! They give samples at the counter where you order. <br><br>Ordered
+      the Pastrami and Katz&#39;s IPA (yes, they have their own beer!). About $25
+      for the sandwich, but it&#39;s packed with meat! Sure wasn&#39;t ready! Eat
+      it with the cucumber pickle they serve it with to even out the meat ratio. <br><br>Cool
+      environment. Tons of seating. Katz&#39;s is a classic 5/5!
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: mpET3jOVljKBASRjoELUwA
+    :comment: 
+    :body: Must-try! SO much meat!<br><br>Went here on a surprisingly busy Tuesday
+      afternoon! They give samples at the counter where you order. <br><br>Ordered
+      the Pastrami and Katz&#39;s IPA (yes, they have their own beer!). About $25
+      for the sandwich, but it&#39;s packed with meat! Sure wasn&#39;t ready! Eat
+      it with the cucumber pickle they serve it with to even out the meat ratio. <br><br>Cool
+      environment. Tons of seating. Katz&#39;s is a classic 5/5!
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: X1As60J0d977jU1eXD0MPQ
+    :comment: Pastrami ($25) and Katz&#39;s IPA
+    :body: Must-try! SO much meat!<br><br>Went here on a surprisingly busy Tuesday
+      afternoon! They give samples at the counter where you order. <br><br>Ordered
+      the Pastrami and Katz&#39;s IPA (yes, they have their own beer!). About $25
+      for the sandwich, but it&#39;s packed with meat! Sure wasn&#39;t ready! Eat
+      it with the cucumber pickle they serve it with to even out the meat ratio. <br><br>Cool
+      environment. Tons of seating. Katz&#39;s is a classic 5/5!
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: hMyI2hUiOqep7Q3mdOwzFw
+    :comment: Half Pastrami Sandwich. Plenty of food.
+    :body: Iconic and delicious. We arrived at brunch time on Saturday morning and
+      there was not a line. This is a must do destination.
+    :score: '5.0'
+    :date: 8/17/2019
+  - :image_url: nkNW8V8F6iyc3ANAHegAGw
+    :comment: Corned Beef Sandwich with added pastrami
+    :body: 'An iconic location. You have to come here and try their sandwiches, they
+      are as good as you have heard I promise! Protip: know what you want by the time
+      you get to the front, the lines are crazy so don&#39;t keep anyone waiting longer
+      than necessary.<br><br>Initially I had my heart set on pastrami on rye, but
+      being the indecisive person I am, I settled for corn beef on rye with added
+      pastrami. Both are somewhat similar, but this way I get to try to different
+      meats which is the highlight of the sandwich. They pack this meat on! I don&#39;t
+      think I&#39;ve ever had such a stuffed sandwich while the price is steep, me
+      and my boyfriend split one sandwich and each half was pretty big.<br><br>The
+      meat slices are really thick and extremely juicy, honestly this place deserves
+      all the hype it gets. They even give you some slices to sample while you wait
+      for them to make your sandwich. Paying is a bit confusing, you pay when you
+      leave but make sure you don&#39;t lose your ticket! You need it to get in and
+      get out, if you lose it you have to pay a fee.'
+    :score: '5.0'
+    :date: 7/30/2019
+  - :image_url: jAj2CKH7aeSUAb6Q1Sx_wA
+    :comment: Corned Beef Sandwich with added pastrami
+    :body: 'An iconic location. You have to come here and try their sandwiches, they
+      are as good as you have heard I promise! Protip: know what you want by the time
+      you get to the front, the lines are crazy so don&#39;t keep anyone waiting longer
+      than necessary.<br><br>Initially I had my heart set on pastrami on rye, but
+      being the indecisive person I am, I settled for corn beef on rye with added
+      pastrami. Both are somewhat similar, but this way I get to try to different
+      meats which is the highlight of the sandwich. They pack this meat on! I don&#39;t
+      think I&#39;ve ever had such a stuffed sandwich while the price is steep, me
+      and my boyfriend split one sandwich and each half was pretty big.<br><br>The
+      meat slices are really thick and extremely juicy, honestly this place deserves
+      all the hype it gets. They even give you some slices to sample while you wait
+      for them to make your sandwich. Paying is a bit confusing, you pay when you
+      leave but make sure you don&#39;t lose your ticket! You need it to get in and
+      get out, if you lose it you have to pay a fee.'
+    :score: '5.0'
+    :date: 7/30/2019
+  - :image_url: 1_2gtvgqMyuSgVJoCP6BQw
+    :comment: Katz &#39;s Pastrami Hot Sandwich and Reuben Hot Sandwich with Corned
+      Beef
+    :body: Definitely can&#39;t come to NY without stopping by Katz&#39;s!<br><br>What
+      did I order:<br>- Rueben [corned beef or you can add pastrami]<br>- Pastrami<br><br>I
+      highly recommend the pastrami! Can&#39;t go wrong with it. <br><br>Do keep in
+      mind, you can do grab and go [like to go style] and then sit in the back area
+      of the restaurant. There is also the option to dine in and have a server take
+      your order for you and you&#39;ll be in the main dining area. <br><br>If you
+      choose to order the gran-and-go style, DO NOT, i repeat, DO NOT, lose your ticket
+      that they give you because that is your payment ticket as you leave. You basically
+      eat first then pay as you LEAVE LEAVE.
+    :score: '5.0'
+    :date: 7/17/2019
+  - :image_url: IRfxM4foeOrNMPxRq3y6_A
+    :comment: Reuben Hot Sandwich with Corned Beef
+    :body: Definitely can&#39;t come to NY without stopping by Katz&#39;s!<br><br>What
+      did I order:<br>- Rueben [corned beef or you can add pastrami]<br>- Pastrami<br><br>I
+      highly recommend the pastrami! Can&#39;t go wrong with it. <br><br>Do keep in
+      mind, you can do grab and go [like to go style] and then sit in the back area
+      of the restaurant. There is also the option to dine in and have a server take
+      your order for you and you&#39;ll be in the main dining area. <br><br>If you
+      choose to order the gran-and-go style, DO NOT, i repeat, DO NOT, lose your ticket
+      that they give you because that is your payment ticket as you leave. You basically
+      eat first then pay as you LEAVE LEAVE.
+    :score: '5.0'
+    :date: 7/17/2019
+  - :image_url: d1VnEpURwEtm1dK8352I-w
+    :comment: Why they&#39;re on the map, you should do it this time, but again, share
+      and ask for softer or better! bread
+    :body: I would say 3 stars overall, but the meat earns the 4th star.  <br><br>Definitely
+      a tourist trap, and if I were local, the pastrami is worth the extra $, as it
+      is, hands down, the best I&#39;ve ever had.  <br><br>How many of us have ever
+      had warm pastrami?!<br><br>It&#39;s the rest that falls apart. <br><br>We sat
+      and waited too long for our waitress to show.  They gave us a SUBSTANTIAL amount
+      of pickles that were WAY too salted to enjoy.  I love fresh pickles but these
+      aren&#39;t what you&#39;d expect.  It feels like a huge waste to assume 4 people
+      want a pile of pickles. <br><br>The babes enjoyed the roast beef on their sandwich
+      but the bread that came with our sandwiches was not worth the $20+ price of
+      them. <br><br>I would recommend splitting a sandwich and seeking out a salad
+      elsewhere to offset the insane pile of meat.  <br><br>The latkes were super
+      thick and filling and large (and I enjoyed the flavor), but too cooked for my
+      mom&#39;s taste and didn&#39;t come with enough sauce and sour cream. <br><br>I
+      don&#39;t know why NY places are so keen on American cheese but there&#39;s
+      enough real cheese available now cheddar should be an option!
+    :score: '4.0'
+    :date: 7/18/2019
+  - :image_url: urbGvnzGbWLCfLq6pnOOxA
+    :comment: Potato Latkes...great flavor but make sure others are starving and eating
+      them too because they&#39;re also huge and filling.
+    :body: I would say 3 stars overall, but the meat earns the 4th star.  <br><br>Definitely
+      a tourist trap, and if I were local, the pastrami is worth the extra $, as it
+      is, hands down, the best I&#39;ve ever had.  <br><br>How many of us have ever
+      had warm pastrami?!<br><br>It&#39;s the rest that falls apart. <br><br>We sat
+      and waited too long for our waitress to show.  They gave us a SUBSTANTIAL amount
+      of pickles that were WAY too salted to enjoy.  I love fresh pickles but these
+      aren&#39;t what you&#39;d expect.  It feels like a huge waste to assume 4 people
+      want a pile of pickles. <br><br>The babes enjoyed the roast beef on their sandwich
+      but the bread that came with our sandwiches was not worth the $20+ price of
+      them. <br><br>I would recommend splitting a sandwich and seeking out a salad
+      elsewhere to offset the insane pile of meat.  <br><br>The latkes were super
+      thick and filling and large (and I enjoyed the flavor), but too cooked for my
+      mom&#39;s taste and didn&#39;t come with enough sauce and sour cream. <br><br>I
+      don&#39;t know why NY places are so keen on American cheese but there&#39;s
+      enough real cheese available now cheddar should be an option!
+    :score: '4.0'
+    :date: 7/18/2019
+  - :image_url: HJoBI2JJ9LWbUQ45hkiTXQ
+    :comment: It looks small but these pickles are large and super salty.  Spears
+      are easily 6&#34;
+    :body: I would say 3 stars overall, but the meat earns the 4th star.  <br><br>Definitely
+      a tourist trap, and if I were local, the pastrami is worth the extra $, as it
+      is, hands down, the best I&#39;ve ever had.  <br><br>How many of us have ever
+      had warm pastrami?!<br><br>It&#39;s the rest that falls apart. <br><br>We sat
+      and waited too long for our waitress to show.  They gave us a SUBSTANTIAL amount
+      of pickles that were WAY too salted to enjoy.  I love fresh pickles but these
+      aren&#39;t what you&#39;d expect.  It feels like a huge waste to assume 4 people
+      want a pile of pickles. <br><br>The babes enjoyed the roast beef on their sandwich
+      but the bread that came with our sandwiches was not worth the $20+ price of
+      them. <br><br>I would recommend splitting a sandwich and seeking out a salad
+      elsewhere to offset the insane pile of meat.  <br><br>The latkes were super
+      thick and filling and large (and I enjoyed the flavor), but too cooked for my
+      mom&#39;s taste and didn&#39;t come with enough sauce and sour cream. <br><br>I
+      don&#39;t know why NY places are so keen on American cheese but there&#39;s
+      enough real cheese available now cheddar should be an option!
+    :score: '4.0'
+    :date: 7/18/2019
+  - :image_url: GEeSSND0wFfdPbGP-beNIQ
+    :comment: Lemonade
+    :body: This place stays busy, I hear about it all the time but never got around
+      to trying them out until recently because it was my friend&#39;s birthday and
+      she wanted to go. <br><br>It&#39;s mad busy in here, luckily when I arrived
+      there was no line outside and only a 20-minute wait for table service.  The
+      alternative was a wait to order in one of the many sandwich lines and then seat
+      ourselves in the communal seating areas. Oh yeah, there&#39;s two big security
+      guards at the door on the way in and out.  One gives you a pink ticket on the
+      way in that gets marked once you&#39;ve paid for your meal, the other checks
+      to see if said ticket is marked on the way out. Also, don&#39;t lose the ticket
+      or it will cost you a pretty penny in fees on the way out.  You could argue
+      with them like I saw a family doing when I came in, but by the looks of the
+      security gaurds, I wouldn&#39;t want any smoke with them.<br><br>Anyways, the
+      food was fabulous.  The pastrami was amazing. It literally melts in your mouth
+      and was everything with a side of mayonnaise. The matzo ball soup was delicious
+      as well, it was my first time having it and I was impressed. I also dig that
+      this place makes its own lemonade.  Moreover, Katz is pretty pricey but the
+      food and the experience are worth it.<br><br>All in all, I can finally say that
+      I&#39;ve had what she&#39;s having and it was absolutely delicious.
+    :score: '4.0'
+    :date: 7/31/2019
+  - :image_url: VJix-JvF14_OsoSoBdG2sQ
+    :comment: Matzo Ball Soup
+    :body: This place stays busy, I hear about it all the time but never got around
+      to trying them out until recently because it was my friend&#39;s birthday and
+      she wanted to go. <br><br>It&#39;s mad busy in here, luckily when I arrived
+      there was no line outside and only a 20-minute wait for table service.  The
+      alternative was a wait to order in one of the many sandwich lines and then seat
+      ourselves in the communal seating areas. Oh yeah, there&#39;s two big security
+      guards at the door on the way in and out.  One gives you a pink ticket on the
+      way in that gets marked once you&#39;ve paid for your meal, the other checks
+      to see if said ticket is marked on the way out. Also, don&#39;t lose the ticket
+      or it will cost you a pretty penny in fees on the way out.  You could argue
+      with them like I saw a family doing when I came in, but by the looks of the
+      security gaurds, I wouldn&#39;t want any smoke with them.<br><br>Anyways, the
+      food was fabulous.  The pastrami was amazing. It literally melts in your mouth
+      and was everything with a side of mayonnaise. The matzo ball soup was delicious
+      as well, it was my first time having it and I was impressed. I also dig that
+      this place makes its own lemonade.  Moreover, Katz is pretty pricey but the
+      food and the experience are worth it.<br><br>All in all, I can finally say that
+      I&#39;ve had what she&#39;s having and it was absolutely delicious.
+    :score: '4.0'
+    :date: 7/31/2019
+  - :image_url: S6H6eGSsqP5HC1dwjLQocg
+    :comment: Half of a Pastrami Sandwich
+    :body: This place stays busy, I hear about it all the time but never got around
+      to trying them out until recently because it was my friend&#39;s birthday and
+      she wanted to go. <br><br>It&#39;s mad busy in here, luckily when I arrived
+      there was no line outside and only a 20-minute wait for table service.  The
+      alternative was a wait to order in one of the many sandwich lines and then seat
+      ourselves in the communal seating areas. Oh yeah, there&#39;s two big security
+      guards at the door on the way in and out.  One gives you a pink ticket on the
+      way in that gets marked once you&#39;ve paid for your meal, the other checks
+      to see if said ticket is marked on the way out. Also, don&#39;t lose the ticket
+      or it will cost you a pretty penny in fees on the way out.  You could argue
+      with them like I saw a family doing when I came in, but by the looks of the
+      security gaurds, I wouldn&#39;t want any smoke with them.<br><br>Anyways, the
+      food was fabulous.  The pastrami was amazing. It literally melts in your mouth
+      and was everything with a side of mayonnaise. The matzo ball soup was delicious
+      as well, it was my first time having it and I was impressed. I also dig that
+      this place makes its own lemonade.  Moreover, Katz is pretty pricey but the
+      food and the experience are worth it.<br><br>All in all, I can finally say that
+      I&#39;ve had what she&#39;s having and it was absolutely delicious.
+    :score: '4.0'
+    :date: 7/31/2019
+  - :image_url: IiEC845PVTz5kGubdlAYvQ
+    :comment: Frankfurter
+    :body: Got here just before the Sat tourist lunch rush circa 11:40am. Ordered
+      frankfurters and pastrami on rye to share. My favourite is the Pastrami on Rye.
+      Expensive but worth every cent. Comes with two types of pickles too.. definitely
+      plenty to share between two. <br><br>Each adults are given a green ticket each
+      so they can figure out what you have ordered. If you are paying by card then
+      pay at the back corner, right hand side. Cash is taken at the entrance of the
+      restaurant. Green tickets are checked before you exit to make sure you are all
+      settled with all the charges. <br><br>People are also given the choice of self
+      service vs. full service tables. I opted for the self service option given it
+      was pretty early and there were tables readily available. <br><br>Left just
+      a little bit over 12:30pm and there wasn&#39;t a queue outside. Four frankfurters
+      and a pastrami on rye ended up just a tad over $50.
+    :score: '4.0'
+    :date: 7/15/2019
+the-metropolitan-museum-of-art-new-york-3:
+  :name: The Metropolitan Museum of Art
+  :street_address: 1000 5th Ave
+  :city: New York
+  :state: NY
+  :zip: '10028'
+  :phone: "(212) 535-7710"
+  :website: metmuseum.org
+  :price: 
+  :latitude: 40.7791655
+  :longitude: -73.9629278
+  :business_categories:
+  - arts
+  - museums
+  :business_hours:
+  - - Mon
+    - 10:00 am - 5:30 pm
+  - - Tue
+    - 10:00 am - 5:30 pm
+  - - Wed
+    - 10:00 am - 5:30 pm
+  - - Thu
+    - 10:00 am - 5:30 pm
+  - - Fri
+    - 10:00 am - 9:00 pm
+  - - Sat
+    - 10:00 am - 9:00 pm
+  - - Sun
+    - 10:00 am - 5:30 pm
+  :business_properties:
+  - - Good for Kids
+    - 'Yes'
+  - - Attire
+    - Casual
+  - - Wi-Fi
+    - Free
+  - - Dogs Allowed
+    - 'No'
+  - - By Appointment Only
+    - 'No'
+  :reviews:
+  - :body: Hooray For Dendur!<br><br>Today, I think I experienced a miracle. Let me
+      tell you a little bit of backstory first, though. I have been running all over
+      town buying C B D products for my wife, Wanda. She has been in what the doctors
+      are calling a &#34;rapidly deteriorating condition&#34; for one wee3k now. I
+      was trying to keep her awake by playing old episodes of American Gladiator,
+      her favorite show, but she has been sleeping for the past two days now. Finally,
+      I got her up and gave her another CBD infused olive shake, which got her a little
+      nergized. I asked her &#34;Wanda is there anything you want to do now before
+      it&#39;s too late?&#34; she told me &#34;yes&#34; and &#34;I want to go to the
+      Met Museum to see the Dendur Temple. &#34; My eyes got wide as saucers. But
+      of course I said &#34;yes.&#34; So I loaded her up in the car and got her caretaker&#39;s
+      approval and we zoomed off to Cendtral PArk. <br>Okay, back to the main point.
+      But first, one small complaint. The staff at the museum told my wife she wasn&#39;t
+      following the dress code because she was wearing her hospice gown. They said
+      she would have to cover up if she wanted to come in the museum. But I gave them
+      a piece of my mind! But then I had to go to the bathroom. When I got back there
+      was a whole crowd of young people taking pictures of her on their Smart Phones.
+      They all asked me some questions about the Camp exhibit and I told them this
+      isn&#39;t Camp, kids, its the Metropolitan Museum of Art! Kids these days are
+      really idiots. Anyway, the guard figured out that Wanda was coming into the
+      museum one way or the other so they let us through.<br>We got to the Dendur
+      Temple and I rolled my Wanda right on past the line and straight into that temple
+      gate. Then all the sudden she starts moaning. The guards asked me sir is your
+      wife alright? And she was thrashing and said &#34;O Horus!!&#34; I said &#34;Wanda
+      did I give you too much CBD?&#34; Then she sat straight up and looked in my
+      eyes and said , &#34; My Husband, I am healed!&#34; Needless to say, I will
+      be coming back to the Metropolitan Museum and to the Dendur Temple many many
+      more times!! Would recommend to anyone who needs  a little &#39;Pick me Up!&#34;
+    :score: '5.0'
+    :date: 8/17/2019
+  - :body: Love the Met!  I&#39;m a big museum goer and have been to many of the bigger
+      ones in the world, and the Met ranks right up there.  <br><br>It&#39;s so easy
+      to get lost inside, but that&#39;s kinda what makes it fun.<br><br>They&#39;ve
+      got a diverse collection, and you&#39;ll need several trips to really just be
+      able to walk and look through a fraction of it.<br><br>Saw the Camp exhibit,
+      and was pleased that there wasn&#39;t an additional charge for it like many
+      other Museums might have had.
+    :score: '5.0'
+    :date: 8/14/2019
+  - :body: We walked from the Hilton on the Avenue of the Americas through Central
+      Park to reach  the Metropolitan a out a mile and a half away. It was a pleasant
+      walk getting there but on a day where rain is predicted, make sure to being
+      an umbrella. We were caught in a downpour on the way back...<br><br>The Metropolitan
+      is fantastic! We especially liked the new exhibits on Rock and Roll and Camp.
+      We spent a total of about six hours there and still didn&#39;t cover everything.
+      It was a good idea to start on the second floor and work our way down to avoid
+      crowds. Among the exhibits that we enjoyed were Egypt, Ancient Greece and Rome,
+      Van Gogh. Monet, American, Chinese, Cyprus, Africa, Medieval Times and Modern.
+      <br><br>We didn&#39;t eat there so that we could cover as much of the museum
+      as possible. Our baby granddaughter was with us and even she enjoyed it! She
+      especially enjoyed Rock and Roll!!!<br><br>Tips - If you are a New York resident,
+      your group can get in with only a donation. Just show proof of residency.
+    :score: '5.0'
+    :date: 8/1/2019
+  - :body: A review long overdue, considering I&#39;ve been here upwards of ten times
+      over the quarter century I&#39;ve been living in New York! They restructured
+      the whole place a few years ago, so the layout makes a lot more sense and is
+      a lot easier to navigate. My favorite permanent section is the European painting
+      section on the second floor, which houses many excellent and well-labeled pieces
+      by Monet, Van Gogh, and Pissarro. The Egyptian section is also excellent and
+      is as good as the Egyptian Museum in Egypt. They also have a yearly fashion
+      exhibit (China Through the Looking Glass a few years ago, Camp this year) that
+      is well curated and well attended. Since it&#39;s one of the world&#39;s best
+      museums, it can get pretty crowded, especially on weekends. You can spend the
+      whole day here and still not finish seeing everything.
+    :score: '5.0'
+    :date: 8/18/2019
+  - :body: My advise here is to take on this magnificent museum on in stages, it&#39;s
+      simply too much to do in one visit. If you only have one day then chose carefully,
+      there are just so many directions to go, all tremendous.<br><br>I personally
+      am overwhelmed by the Rodin selection, short of Paris, it&#39;s just incredible.<br><br>Stroll
+      through room after room and you will be transported from one incredible place
+      in time to another just makes for a perfect day.<br><br>I particularly enjoy
+      visiting about an hour before closing, just a quick touch of culture goes a
+      long way.
+    :score: '5.0'
+    :date: 
+  - :body: I don&#39;t think I have ever seen a much cooler place to see a city view
+      than the Metropolitan. If you haven&#39;t been this is a must must gooooo!!!
+      First the city view is amazing from the rooftop. It&#39;s one of the most breathtaking
+      experiences I have had and that was already worth it. But you get to also experience
+      all the art in here, which is a ton of different stuff!! <br><br>You will not
+      be bored and by far one of the most nicest employees that work at this spot!!
+      I&#39;ll always remember the ticket guy for sure! <br><br>Also please note that
+      the rooftop does close so check for the times or ask someone! They will know.
+      <br><br>Please spend the time inside the museum and look for things you would
+      like to see. This place was amazingly beautiful everywhere but I still had my
+      favorites which was going on top of the roof. <br><br>Tip- You aren&#39;t allowed
+      to take video just photos when you get on top!
+    :score: '5.0'
+    :date: 6/23/2019
+  - :body: After living in NYC for almost an decade.. finally made to The Met.. don&#39;t
+      ask me why...( it&#39;s like you know your neighborhood won&#39;t disappear
+      kinda situation... haha ) <br><br>It was amazing finally see The Camp exhibition!
+      I use to working in fashion industry 7 years ago. Some of the designers I used
+      to work with have pieces showcasing at the gallery.  It bought me back to the
+      good old days...:) <br><br>When we were touring at the East Asian galleries..
+      I had my moments. Seeing all those chinese ancient culture relics where we can
+      only see in the books back when I was in china.. made me wondering how much
+      treasures the western countries had  taken and kept as their own.. Well. Only
+      hope we will return them to where they should belong on day.
+    :score: '5.0'
+    :date: 
+  - :body: My friend is a New York City resident so I got in with a free pass that
+      comes with her membership to The Met! Excellent museum with so so so much to
+      see. We spent 3+ hrs here and only explored portions of 2 floors and the roof
+      garden. The view of the NYC skyline from the roof is great! There&#39;s a bar
+      up there (be warned that the drinks and wine seemed to be $15+ each). I bought
+      a nice lemonade for $5.50. Would love to be back to see more!
+    :score: '5.0'
+    :date: 8/19/2019
+  :images:
+  - :image_url: lHEKQRcbGaaEQfVO2P3AMw
+    :comment: " In the American exhibit - beautiful antiques!"
+  - :image_url: UZ5-dy--YG4nq9dXqgsQaw
+    :comment: " washington crossing the delaware - super impressive in person"
+  - :image_url: IYGL2yl2Pu6P5wj3rKI_kw
+    :comment: " The Beginning of Civilization exhibit...what the what?!"
+  - :image_url: ngrWqN5-VmgX0tWG9c2Jkw
+    :comment: " Heavenly Bodies"
+  - :image_url: neBvHKuds-0rHLLrZj3rBg
+    :comment: " Japanese Buddhist deity statues collection, I rarely see them at other
+      museums."
+  - :image_url: hf-ag1sju0-uyYwD817G3g
+    :comment: " A carriage room"
+  - :image_url: zcfB0Ht3dLVvfb8yhfGqdA
+    :comment: " Egyptian Wing"
+  - :image_url: mZLlx9P2KJEH5myITdwlqQ
+    :comment: 
+  - :image_url: ns-yDikbwHMrPIuy9kzsiA
+    :comment: " Heavenly Bodies exhibit"
+  - :image_url: RyttIEx61VnKocFy3F884g
+    :comment: Camp exhibit
+    :body: We walked from the Hilton on the Avenue of the Americas through Central
+      Park to reach  the Metropolitan a out a mile and a half away. It was a pleasant
+      walk getting there but on a day where rain is predicted, make sure to being
+      an umbrella. We were caught in a downpour on the way back...<br><br>The Metropolitan
+      is fantastic! We especially liked the new exhibits on Rock and Roll and Camp.
+      We spent a total of about six hours there and still didn&#39;t cover everything.
+      It was a good idea to start on the second floor and work our way down to avoid
+      crowds. Among the exhibits that we enjoyed were Egypt, Ancient Greece and Rome,
+      Van Gogh. Monet, American, Chinese, Cyprus, Africa, Medieval Times and Modern.
+      <br><br>We didn&#39;t eat there so that we could cover as much of the museum
+      as possible. Our baby granddaughter was with us and even she enjoyed it! She
+      especially enjoyed Rock and Roll!!!<br><br>Tips - If you are a New York resident,
+      your group can get in with only a donation. Just show proof of residency.
+    :score: '5.0'
+    :date: 8/1/2019
+  - :image_url: 501zcPGWSi00mx0fbpuFUQ
+    :comment: Van Gogh&#39;s self portrait
+    :body: We walked from the Hilton on the Avenue of the Americas through Central
+      Park to reach  the Metropolitan a out a mile and a half away. It was a pleasant
+      walk getting there but on a day where rain is predicted, make sure to being
+      an umbrella. We were caught in a downpour on the way back...<br><br>The Metropolitan
+      is fantastic! We especially liked the new exhibits on Rock and Roll and Camp.
+      We spent a total of about six hours there and still didn&#39;t cover everything.
+      It was a good idea to start on the second floor and work our way down to avoid
+      crowds. Among the exhibits that we enjoyed were Egypt, Ancient Greece and Rome,
+      Van Gogh. Monet, American, Chinese, Cyprus, Africa, Medieval Times and Modern.
+      <br><br>We didn&#39;t eat there so that we could cover as much of the museum
+      as possible. Our baby granddaughter was with us and even she enjoyed it! She
+      especially enjoyed Rock and Roll!!!<br><br>Tips - If you are a New York resident,
+      your group can get in with only a donation. Just show proof of residency.
+    :score: '5.0'
+    :date: 8/1/2019
+  - :image_url: QxkO7Va05Ia9EkSmU-zZ-Q
+    :comment: Rock and Roll
+    :body: We walked from the Hilton on the Avenue of the Americas through Central
+      Park to reach  the Metropolitan a out a mile and a half away. It was a pleasant
+      walk getting there but on a day where rain is predicted, make sure to being
+      an umbrella. We were caught in a downpour on the way back...<br><br>The Metropolitan
+      is fantastic! We especially liked the new exhibits on Rock and Roll and Camp.
+      We spent a total of about six hours there and still didn&#39;t cover everything.
+      It was a good idea to start on the second floor and work our way down to avoid
+      crowds. Among the exhibits that we enjoyed were Egypt, Ancient Greece and Rome,
+      Van Gogh. Monet, American, Chinese, Cyprus, Africa, Medieval Times and Modern.
+      <br><br>We didn&#39;t eat there so that we could cover as much of the museum
+      as possible. Our baby granddaughter was with us and even she enjoyed it! She
+      especially enjoyed Rock and Roll!!!<br><br>Tips - If you are a New York resident,
+      your group can get in with only a donation. Just show proof of residency.
+    :score: '5.0'
+    :date: 8/1/2019
+  - :image_url: ImlEAxZ3bRVzSyTgXz7SPQ
+    :comment: 
+    :body: My advise here is to take on this magnificent museum on in stages, it&#39;s
+      simply too much to do in one visit. If you only have one day then chose carefully,
+      there are just so many directions to go, all tremendous.<br><br>I personally
+      am overwhelmed by the Rodin selection, short of Paris, it&#39;s just incredible.<br><br>Stroll
+      through room after room and you will be transported from one incredible place
+      in time to another just makes for a perfect day.<br><br>I particularly enjoy
+      visiting about an hour before closing, just a quick touch of culture goes a
+      long way.
+    :score: '5.0'
+    :date: 
+  - :image_url: zUyxYzj1mlvAfUK_EPuCNg
+    :comment: Pretty amazing
+    :body: I don&#39;t think I have ever seen a much cooler place to see a city view
+      than the Metropolitan. If you haven&#39;t been this is a must must gooooo!!!
+      First the city view is amazing from the rooftop. It&#39;s one of the most breathtaking
+      experiences I have had and that was already worth it. But you get to also experience
+      all the art in here, which is a ton of different stuff!! <br><br>You will not
+      be bored and by far one of the most nicest employees that work at this spot!!
+      I&#39;ll always remember the ticket guy for sure! <br><br>Also please note that
+      the rooftop does close so check for the times or ask someone! They will know.
+      <br><br>Please spend the time inside the museum and look for things you would
+      like to see. This place was amazingly beautiful everywhere but I still had my
+      favorites which was going on top of the roof. <br><br>Tip- You aren&#39;t allowed
+      to take video just photos when you get on top!
+    :score: '5.0'
+    :date: 6/23/2019
+  - :image_url: bPkWhHm-VmZ_Xuf2ckVAWg
+    :comment: Wow
+    :body: I don&#39;t think I have ever seen a much cooler place to see a city view
+      than the Metropolitan. If you haven&#39;t been this is a must must gooooo!!!
+      First the city view is amazing from the rooftop. It&#39;s one of the most breathtaking
+      experiences I have had and that was already worth it. But you get to also experience
+      all the art in here, which is a ton of different stuff!! <br><br>You will not
+      be bored and by far one of the most nicest employees that work at this spot!!
+      I&#39;ll always remember the ticket guy for sure! <br><br>Also please note that
+      the rooftop does close so check for the times or ask someone! They will know.
+      <br><br>Please spend the time inside the museum and look for things you would
+      like to see. This place was amazingly beautiful everywhere but I still had my
+      favorites which was going on top of the roof. <br><br>Tip- You aren&#39;t allowed
+      to take video just photos when you get on top!
+    :score: '5.0'
+    :date: 6/23/2019
+  - :image_url: hrYnUUL4fWm5atrgipsTGw
+    :comment: The view
+    :body: I don&#39;t think I have ever seen a much cooler place to see a city view
+      than the Metropolitan. If you haven&#39;t been this is a must must gooooo!!!
+      First the city view is amazing from the rooftop. It&#39;s one of the most breathtaking
+      experiences I have had and that was already worth it. But you get to also experience
+      all the art in here, which is a ton of different stuff!! <br><br>You will not
+      be bored and by far one of the most nicest employees that work at this spot!!
+      I&#39;ll always remember the ticket guy for sure! <br><br>Also please note that
+      the rooftop does close so check for the times or ask someone! They will know.
+      <br><br>Please spend the time inside the museum and look for things you would
+      like to see. This place was amazingly beautiful everywhere but I still had my
+      favorites which was going on top of the roof. <br><br>Tip- You aren&#39;t allowed
+      to take video just photos when you get on top!
+    :score: '5.0'
+    :date: 6/23/2019
+  - :image_url: HthMXNfSQdgKAIH-ixw77A
+    :comment: 
+    :body: After living in NYC for almost an decade.. finally made to The Met.. don&#39;t
+      ask me why...( it&#39;s like you know your neighborhood won&#39;t disappear
+      kinda situation... haha ) <br><br>It was amazing finally see The Camp exhibition!
+      I use to working in fashion industry 7 years ago. Some of the designers I used
+      to work with have pieces showcasing at the gallery.  It bought me back to the
+      good old days...:) <br><br>When we were touring at the East Asian galleries..
+      I had my moments. Seeing all those chinese ancient culture relics where we can
+      only see in the books back when I was in china.. made me wondering how much
+      treasures the western countries had  taken and kept as their own.. Well. Only
+      hope we will return them to where they should belong on day.
+    :score: '5.0'
+    :date: 
+  - :image_url: CAOxHDFcDo3_JYphcQFX7A
+    :comment: 
+    :body: After living in NYC for almost an decade.. finally made to The Met.. don&#39;t
+      ask me why...( it&#39;s like you know your neighborhood won&#39;t disappear
+      kinda situation... haha ) <br><br>It was amazing finally see The Camp exhibition!
+      I use to working in fashion industry 7 years ago. Some of the designers I used
+      to work with have pieces showcasing at the gallery.  It bought me back to the
+      good old days...:) <br><br>When we were touring at the East Asian galleries..
+      I had my moments. Seeing all those chinese ancient culture relics where we can
+      only see in the books back when I was in china.. made me wondering how much
+      treasures the western countries had  taken and kept as their own.. Well. Only
+      hope we will return them to where they should belong on day.
+    :score: '5.0'
+    :date: 
+  - :image_url: gx4AXVKXohHV5AfvPp1A_w
+    :comment: 
+    :body: After living in NYC for almost an decade.. finally made to The Met.. don&#39;t
+      ask me why...( it&#39;s like you know your neighborhood won&#39;t disappear
+      kinda situation... haha ) <br><br>It was amazing finally see The Camp exhibition!
+      I use to working in fashion industry 7 years ago. Some of the designers I used
+      to work with have pieces showcasing at the gallery.  It bought me back to the
+      good old days...:) <br><br>When we were touring at the East Asian galleries..
+      I had my moments. Seeing all those chinese ancient culture relics where we can
+      only see in the books back when I was in china.. made me wondering how much
+      treasures the western countries had  taken and kept as their own.. Well. Only
+      hope we will return them to where they should belong on day.
+    :score: '5.0'
+    :date: 

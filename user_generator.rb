@@ -6,7 +6,7 @@ class UserGenerator
     @characters = 'abcdefghijklmnopqrstuvwxyz'.split("")
     @domains = ['@gmail.com', '@outlook.com', '@yahoo.com', '@aol.com']
 
-    names = YAML.load(File.read("names.yml"))
+    names = YAML.load(File.read("names.yaml"))
     @first_names = names[:first_names]
     @last_names = names[:last_names]
   end

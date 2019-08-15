@@ -1,0 +1,926 @@
+---
+levain-bakery-new-york:
+  :name: Levain Bakery
+  :street_address: 167 W 74th St
+  :city: New York
+  :state: NY
+  :zip: '10023'
+  :phone: "(917) 464-3769"
+  :website: levainbakery.com
+  :price: "$$"
+  :latitude: 40.7799638
+  :longitude: -73.98030419999999
+  :business_categories:
+  - food
+  - bakeries
+  :business_hours:
+  - - Mon
+    - 8:00 am - 7:00 pm
+  - - Tue
+    - 8:00 am - 7:00 pm
+  - - Wed
+    - 8:00 am - 7:00 pm
+  - - Thu
+    - 8:00 am - 7:00 pm
+  - - Fri
+    - 8:00 am - 7:00 pm
+  - - Sat
+    - 8:00 am - 7:00 pm
+  - - Sun
+    - 9:00 am - 7:00 pm
+  :business_properties:
+  - - Delivery
+    - 'No'
+  - - Take-out
+    - 'Yes'
+  - - Accepts Credit Cards
+    - 'Yes'
+  - - Accepts Apple Pay
+    - 'Yes'
+  - - Accepts Google Pay
+    - 'Yes'
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'Yes'
+  - - Good for Kids
+    - 'Yes'
+  - - Noise Level
+    - Average
+  - - Dogs Allowed
+    - 'No'
+  - - Caters
+    - 'No'
+  :reviews:
+  - :body: 'Levain Bakery is the #1 best dessert destination at an affordable price
+      in Manhattan.<br><br>Each cookie (just $4) is basically an entire meal, but
+      it&#39;s so much more than even that. <br><br>I&#39;ve been happily married
+      for 32 years now, and like you&#39;d expect, my wife and I&#39;s sex life has
+      diminished over the decades. We&#39;re no longer as young as we once were. <br><br>We&#39;ve
+      tried EVERYTHING to add spice to the bedroom. And I mean everything. Balls,
+      chains, whips, peanut butter, handcuffs. It works temporarily, but the excitement
+      dies down. <br><br>Whenever we need to get in the mood now, we get the Dark
+      Chocolate Chocolate Chip cookie and eat half each. It invigorates us enough
+      to last us the entire night. It&#39;s basically Viagra (note: I am not a doctor).
+      And so far, the excitement hasn&#39;t gone away!! Ill never stop coming here,
+      because I want to keep coming.'
+    :score: '5.0'
+    :date: 8/19/2019
+  - :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :body: Good, large, gooey cookies, but honestly not my favorite type of cookie
+      in the world. Their cookies are very fat and heavy. While when they are right
+      out of the oven they are melty and delicious, they then get hard and aren&#39;t
+      as good later. I personally prefer thinner cookies, but you should try these
+      at least once. They are extremely filling and extremely large, definitely split
+      between people.<br><br>There is usually a line, but it moves pretty fast.
+    :score: '4.0'
+    :date: 8/11/2019
+  - :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :body: Chocolate chip walnut cookies are what this place is known and as I prefer
+      nut based cookies outside of peanut butter, I got one of those. Massive as everyone
+      else notes. They were closing soon but the cookie tasted quite fresh. It was
+      a soft on the inside with a nice crispy outside. There was great chocolate flavor
+      with a large number of walnuts. Well balanced and excellent.<br><br>Their other
+      pastries are fine but they are known for their cookies for a reason. The staff
+      was very nice also. I&#39;d post more but frankly, there&#39;s no need. There&#39;s
+      7700 other reviews and counting for a very good reason here. It&#39;s not too
+      pricey for the size and easily split-able for 2 tourists (or 1 hungry New Yorker.)
+      Upper 4 to borderline 5.
+    :score: '5.0'
+    :date: 8/2/2019
+  - :body: The line was long af but my friends wanted to try the ice cream and cookies.
+      This location just had cookies. For me- 1 star i am allergic to peanuts and
+      wheat and they have a sign saying dont eat there if you have allergies. They
+      also dont have gluten free goodies. The customer service is a 5 star though
+      the guy covering the line was very personable. The chocolate chip ones my friends
+      said were okay. Undercooked (how i like my cookies though) and they said they
+      tasted like boxed cookies. But the chocolate chocolate chip they all loved.
+      Said it tasted like brownies. Only downside is they were too rich-everyone agreed
+      here
+    :score: '3.0'
+    :date: 8/16/2019
+  - :body: 'Yum! Big gooey and oh so big!! I usually nibble on the cookies for a long
+      time or share with a couple people because they are huge! One of the tips the
+      server suggested to me was to cling wrap the cookies and they should last one
+      week and you can even toss them in the freezer to last even longer. And it seems
+      to work so I am glad that I can have them around for longer! The cookies are
+      absolutely delish (my favorite is the dark chocolate chip cookie) and definitely
+      worth a try! <br><br>Tip: I would go to the Upper East side location in mid
+      afternoon because it seems to be less crowded than other locations.'
+    :score: '5.0'
+    :date: 8/2/2019
+  :images:
+  - :image_url: jCdrXah--NjPaOLb-30BUw
+    :comment: " WORLDS BEST"
+  - :image_url: zgjSt_RGjXQMJxYxYSo-bQ
+    :comment: " Chocolate Chip w/ Walnut --- It was all I ever dreamed of."
+  - :image_url: EcrOBogMgnSCGgEQg1tUmw
+    :comment: " The best cookie ever!"
+  - :image_url: 586NgFJkb1Ezxxo67l9N0A
+    :comment: " Chocolate chip walnut cookie"
+  - :image_url: 9uUdfbEHUB4D-4s_RVA9zw
+    :comment: " Chocolate Chip Walnut"
+  - :image_url: dCTYbpmO9GsxxgaBW46SPg
+    :comment: " chocolate chip walnut cookie"
+  - :image_url: Hdv0gZG4YvImqrDKSbvq8g
+    :comment: Dark Chocolate Chocolate Chip cookie
+    :body: 'Levain Bakery is the #1 best dessert destination at an affordable price
+      in Manhattan.<br><br>Each cookie (just $4) is basically an entire meal, but
+      it&#39;s so much more than even that. <br><br>I&#39;ve been happily married
+      for 32 years now, and like you&#39;d expect, my wife and I&#39;s sex life has
+      diminished over the decades. We&#39;re no longer as young as we once were. <br><br>We&#39;ve
+      tried EVERYTHING to add spice to the bedroom. And I mean everything. Balls,
+      chains, whips, peanut butter, handcuffs. It works temporarily, but the excitement
+      dies down. <br><br>Whenever we need to get in the mood now, we get the Dark
+      Chocolate Chocolate Chip cookie and eat half each. It invigorates us enough
+      to last us the entire night. It&#39;s basically Viagra (note: I am not a doctor).
+      And so far, the excitement hasn&#39;t gone away!! Ill never stop coming here,
+      because I want to keep coming.'
+    :score: '5.0'
+    :date: 8/19/2019
+  - :image_url: GIrsRMIEEfdDh6DXc3b8HA
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: iPlycuwaQicbgmW5GYGjfg
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: WcPROYw6rLnvGP543Pvn3w
+    :comment: 
+    :body: The hype and the line is worth it. These cookies are deliciously addictive
+      - soft, gooey, warm, and soulful. They are also the size of your face (at not
+      an unreasonable price). We waited maybe about 15 minutes - the line moves pretty
+      quickly. We ordered a variety - all of them were pretty good (and warm out of
+      the oven!), though the original was the best for me. <br><br>It was a nice day
+      and we walked to Central Park afterwards to enjoy every single bite. There wasn&#39;t
+      after all much place to sit - it&#39;s more of a grab and go.
+    :score: '5.0'
+    :date: 8/15/2019
+  - :image_url: L34Ky193QHQHhaUVgBUoqQ
+    :comment: Chocolate Chip Walnut
+    :body: Good, large, gooey cookies, but honestly not my favorite type of cookie
+      in the world. Their cookies are very fat and heavy. While when they are right
+      out of the oven they are melty and delicious, they then get hard and aren&#39;t
+      as good later. I personally prefer thinner cookies, but you should try these
+      at least once. They are extremely filling and extremely large, definitely split
+      between people.<br><br>There is usually a line, but it moves pretty fast.
+    :score: '4.0'
+    :date: 8/11/2019
+  - :image_url: Q1gQ8SVA4rcLC4UCezwktw
+    :comment: 
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: cCcSfigapacDpL0medE6Aw
+    :comment: 
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: RsSbngv5Vaol_8jVxXwNOA
+    :comment: Chocolate Walnut Cookie &amp; Iced Coffee
+    :body: 'GO HERE!<br><br>Never had such a large, gooey cookie like Levain&#39;s!
+      Ordered the Chocolate Walnut Cookie and Iced Coffee. Although the line was literally
+      out the door and sat inside in the middle of a summer heat wave, it was worth
+      it (no regrets)! <br><br>Service: 5/5 - they&#39;re so nice!<br><br>Biggest
+      regret: not ordering MORE!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: 2HQNCmcYw9eLkRvKPwHavA
+    :comment: chocolate chip walnut cookie (there&#39;s probably enough photos of
+      these, probably (definitely)
+    :body: Chocolate chip walnut cookies are what this place is known and as I prefer
+      nut based cookies outside of peanut butter, I got one of those. Massive as everyone
+      else notes. They were closing soon but the cookie tasted quite fresh. It was
+      a soft on the inside with a nice crispy outside. There was great chocolate flavor
+      with a large number of walnuts. Well balanced and excellent.<br><br>Their other
+      pastries are fine but they are known for their cookies for a reason. The staff
+      was very nice also. I&#39;d post more but frankly, there&#39;s no need. There&#39;s
+      7700 other reviews and counting for a very good reason here. It&#39;s not too
+      pricey for the size and easily split-able for 2 tourists (or 1 hungry New Yorker.)
+      Upper 4 to borderline 5.
+    :score: '5.0'
+    :date: 8/2/2019
+  - :image_url: bY1kfKgv3b3Zwg1wWBqK3A
+    :comment: 
+    :body: The line was long af but my friends wanted to try the ice cream and cookies.
+      This location just had cookies. For me- 1 star i am allergic to peanuts and
+      wheat and they have a sign saying dont eat there if you have allergies. They
+      also dont have gluten free goodies. The customer service is a 5 star though
+      the guy covering the line was very personable. The chocolate chip ones my friends
+      said were okay. Undercooked (how i like my cookies though) and they said they
+      tasted like boxed cookies. But the chocolate chocolate chip they all loved.
+      Said it tasted like brownies. Only downside is they were too rich-everyone agreed
+      here
+    :score: '3.0'
+    :date: 8/16/2019
+  - :image_url: 3py7kO5RMlWmMHu1p8Vojw
+    :comment: 
+    :body: 'Yum! Big gooey and oh so big!! I usually nibble on the cookies for a long
+      time or share with a couple people because they are huge! One of the tips the
+      server suggested to me was to cling wrap the cookies and they should last one
+      week and you can even toss them in the freezer to last even longer. And it seems
+      to work so I am glad that I can have them around for longer! The cookies are
+      absolutely delish (my favorite is the dark chocolate chip cookie) and definitely
+      worth a try! <br><br>Tip: I would go to the Upper East side location in mid
+      afternoon because it seems to be less crowded than other locations.'
+    :score: '5.0'
+    :date: 8/2/2019
+the-halal-guys-new-york-2:
+  :name: The Halal Guys
+  :street_address: W 53rd St 6th Ave
+  :city: New York
+  :state: NY
+  :zip: '10019'
+  :phone: 
+  :website: thehalalguys.com
+  :price: "$"
+  :latitude: 40.7617719
+  :longitude: -73.9790609
+  :business_categories:
+  - restaurants
+  - foodstands
+  - mideastern
+  - halal
+  :business_hours:
+  - - Mon
+    - 11:00 am - 11:00 pm
+  - - Tue
+    - 11:00 am - 11:00 pm
+  - - Wed
+    - 11:00 am - 11:00 pm
+  - - Thu
+    - 11:00 am - 11:00 pm
+  - - Fri
+    - 11:00 am - 11:00 pm
+  - - Sat
+    - 11:00 am - 2:00 am
+  - - Sun
+    - 11:00 am - 2:00 am
+  :business_properties:
+  - - Takes Reservations
+    - 'No'
+  - - Delivery
+    - 'No'
+  - - Take-out
+    - 'Yes'
+  - - Accepts Credit Cards
+    - 'No'
+  - - Accepts Apple Pay
+    - 'No'
+  - - Accepts Google Pay
+    - 'No'
+  - - Accepts Cryptocurrency
+    - 'No'
+  - - Good For
+    - Late Night
+  - - Parking
+    - Street
+  - - Bike Parking
+    - 'No'
+  - - Good for Kids
+    - 'Yes'
+  - - Good for Groups
+    - 'Yes'
+  - - Attire
+    - Casual
+  - - Ambience
+    - Casual, Classy
+  - - Noise Level
+    - Average
+  - - Alcohol
+    - 'No'
+  - - Outdoor Seating
+    - 'Yes'
+  - - Wi-Fi
+    - 'No'
+  - - Has TV
+    - 'No'
+  - - Caters
+    - 'Yes'
+  :reviews:
+  - :body: 'There is no other like it.  Still THE best of all the carts and the other
+      locations across the country. <br><br>Location: It&#39;s street food. The type
+      of thing you look for after a night out of during your lunch break or basically
+      at any time of the day!  <br><br>Staff: The guys at the cart are pretty entertaining
+      and chill. They like to joke around and are friendly which is awesome.  <br><br>Food:
+      Chicken is perfectly cooked all the time and that white sauce is addictive.  Totally
+      worth a stop when you&#39;re in town!'
+    :score: '5.0'
+    :date: 8/12/2019
+  - :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :body: Amazing. The food is so fresh and the portions are generous. I will always
+      visit every time I&#39;m in town. <br><br>The only downside is that it&#39;s
+      hard to eat standing up. Not a complaint because that&#39;s what happens when
+      you go to a food truck. So if comfort is really important then this might not
+      be the right spot. <br><br>Overall really good, and I highly recommend it.
+    :score: '4.0'
+    :date: 8/17/2019
+  - :body: Being a New Yorker .. how can I not review this New  York tradition !<br><br>This
+      is a food cart. Though now, they have multiple branches in the city itself and
+      also all over the country and the world which are not food carts but food joints
+      with sitting space.<br><br>Simple menu - chicken (great tasting), beef (even
+      better tasting), pork (not anymore at this cart for some reason - but again
+      is great tasting), falafel (kind of okay tasting) - over yellow over rice. With
+      white sauce (yum - put lots), hot sauce (yum but very spicy. Pro tip- put only
+      a few drops ..it would burn your mouth !!!!) and bbq sauce (good). <br>This
+      joint doesn&#39;t have it but some of them also have gyros and baklava (very
+      sweet but really good).<br><br>$7 per plate (was $6 till very recently) - huge
+      portions - would easily last 2 meals.<br><br>Open till late. And almost till
+      4 am on the weekends. Have had many a post-binge-drinking-night-3am-meals here
+      !<br><br>Only con - No sitting at this location. So people mostly do a take
+      away or sit on the parapets of the surrounding buildings.<br><br>Always a long
+      line but moves quickly. Definitely one of the better halal places in the city.
+    :score: '3.0'
+    :date: 8/16/2019
+  - :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :body: Good prices and piles of food, but I think the seasoning is strange.  I
+      can see why they are a successful cart, but I can&#39;t figure out how the became
+      a national chain.
+    :score: '3.0'
+    :date: 8/14/2019
+  - :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :body: 'Atmosphere: Looked like other Halal carts. The menu is simple and easy
+      to navigate.<br><br>Service: Fast service! There was no line since we went at
+      an awkward time (10:30 am), but the line looked longer during the lunch rush.<br><br>Food:
+      We ordered the chicken and gyro combo platter. Not to be extra, but this is
+      literally the best Hala food (and food in general) that we&#39;ve ever had.
+      Their portions were perfect, the meat was well seasoned, the rice was unique,
+      and their hot sauce packs a punch!  Everything went perfectly together. <br><br>Overall:
+      One of the best food places in New York. Everybody needs to eat here at some
+      point in their life. You get more than your money&#39;s worth here and won&#39;t
+      be disappointed! We&#39;d recommend beating the lunch/dinner rushes and having
+      a drink to pair with the delicious hot sauce!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019
+  :images:
+  - :image_url: 24lb-VP2zVySsY9cq45ETw
+    :comment: " Beef Gyro Sandwich $6 USD."
+  - :image_url: 80pz6UQcVEL-zAABGS_IeA
+    :comment: 
+  - :image_url: b3l79rHq28Zy9FY_9ZLhag
+    :comment: " the gold is in the taste. never judge a dish by its plating..."
+  - :image_url: oU2nJqbZvgHqOqoTCYlBJg
+    :comment: " Chicken platter"
+  - :image_url: Q62paWoSk3ocL0nHSipPiw
+    :comment: " To goooo"
+  - :image_url: ZuyDq14AGZQJpWlLpvIzfA
+    :comment: " The famed original halal guys food cart! Not too crowded on a Sunday
+      afternoon, didn&#39;t have to wait at all."
+  - :image_url: B-VaFcbvPoXIK0muvaplFw
+    :comment: " Chicken and Rice"
+  - :image_url: S1U0JkZ9pNxp25pL27JhiA
+    :comment: 
+  - :image_url: KZdVmVbmwYFJWPvGyYgiEw
+    :comment: " 11.2017 NYC"
+  - :image_url: P9z5g0OyZXIZAUnSWw8JcQ
+    :comment: Chicken plate
+    :body: 'There is no other like it.  Still THE best of all the carts and the other
+      locations across the country. <br><br>Location: It&#39;s street food. The type
+      of thing you look for after a night out of during your lunch break or basically
+      at any time of the day!  <br><br>Staff: The guys at the cart are pretty entertaining
+      and chill. They like to joke around and are friendly which is awesome.  <br><br>Food:
+      Chicken is perfectly cooked all the time and that white sauce is addictive.  Totally
+      worth a stop when you&#39;re in town!'
+    :score: '5.0'
+    :date: 8/12/2019
+  - :image_url: xNcae_koNLIiUF4emuyrKQ
+    :comment: Baklava
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: NKcC7EwEF7E7n7AtAL5w7A
+    :comment: 
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: CpRTlQfiqw1HnSDTJL9loA
+    :comment: Small falafel platter
+    :body: The Halal Guys is iconic NYC. Everyone used to flock here after a night
+      in the clubs back in the 00&#39;s.  The lines were long.  The customers drunk,
+      boisterous and oftentimes looking to pick a fight.  And someone would always
+      wait to buy food for everyone else.  10 combos, extra white sauce please.  <br><br>Nowadays,
+      the lines are short and orderly.  Everyone knows they&#39;ll get their food.  DH
+      and I were walking to Hells Kitchen last week when we passed Halal Guys.  We
+      reminisced about all the times we ate their combo plate, we had even made it
+      a moving day ritual at one time.  Of course, we stopped in our tracks, skipping
+      out on our reservation and got on line.  We needed to see if the food was even
+      close to our memories.  The line moved fast.  DH ordered a regular combo and
+      I ordered a small falafel platter as I stopped eating meat 2 years ago. Both
+      come with yellow rice, lettuce and pita.  The white sauce was just as good as
+      I remember it.  You need it, the food is a bit dry without it and the hot sauce
+      is as spicy as I remember it.  Use sparingly!!  You will ruin your food if you
+      use too much, in addition to burn your mouth!  Use a little at a time, you can
+      always add more!  My falafel was decent, not the best I&#39;ve ever had, but
+      the white sauce and hot sauce made the dish.  The small was just the right portion
+      size. <br><br>I don&#39;t usually eat street meat so don&#39;t have a point
+      of comparison.  I can say you should eat at Halal Guys though because it&#39;s
+      still the best street meat I&#39;ve ever eaten!
+    :score: '4.0'
+    :date: 8/19/2019
+  - :image_url: hCsuyoJXqtEDh1kzXY3SOQ
+    :comment: menu
+    :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :image_url: qnbxgCLkGmFZtFbMibF2YA
+    :comment: 
+    :body: Halal guys is great. Located near hilton hotel, a small food truck serving
+      awesome food.<br><br>I have only tried regular chicken platter. They give you
+      2 packets of white sauce which is world popular and one of the main reason why
+      halal guys is soooo popular. You also get few packets of red sauce. It&#39;s
+      extremely spicy but adds a good flavor. <br><br>They didn&#39;t have any baklava
+      and I&#39;ve heard their falafel is meh. So chicken platter with white sauce
+      is YUMMMYY and must have.
+    :score: '5.0'
+    :date: 7/24/2019
+  - :image_url: "-NWdmVqBIcJNbcmialpviA"
+    :comment: Closeup of our Combo chicken &amp; beef gyro plate w/ the white sauce
+      drizzled ALL OVER and a peek of the rice. YUM!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: P05hCd5fhjX7JL4LB8IBTw
+    :comment: THE HALAL GUYS across the street from Hilton on W 53rd and 6th! Check
+      em out! The food is excellent!!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: XG4IKiZDTnTYwBL25rTA3A
+    :comment: The hot sauce was on point! Be careful! It&#39;s spicy!!!!
+    :body: My girlfriend from NYC directed us to eat here. Her specific instruction
+      was to go to &#34;The Halal Guys&#34; cart. The name must have all three words,
+      no less/no more, or else you&#39;re eating at a copy cat! THE. HALAL. GUYS.
+      Remember that! And, it&#39;s the cart across the street from Hilton on W 53rd
+      and 6th.<br><br>We found THE HALAL GUYS! Lol. Yep, there was a little wait on
+      a Thursday at 1:30pm. But, not too long. A huge batch of meats were already
+      prepared on the hot plate and ready to be scooped up and placed into a round
+      foil platter or wrapped up into a sandwich.<br><br>Between the two of us, we
+      decided to share a regular size Platter C, which was the Chicken and Beef Gyro
+      combo. Lettuce, chicken, and beef over a bed of turmeric and cumin seasoned
+      basmati rice with a few small slices of pita bread. Our plate was placed into
+      a plastic bag with two packets of their famous white sauce and one packet of
+      red sauce.<br><br>Now, my friend said the sauce packets are like gold. So, the
+      smart thing to do is drizzle some sauce onto your food from the bottles at the
+      cart and then you can save your packets for later! Unfortunately, no sauce bottles
+      at the cart. Not sure if they discontinued this offering. Probably caught onto
+      the sauce hype because I hear they actually charge for extra packets. The other
+      tip, even if you love spicy, was to only squirt the red sauce into one corner
+      instead of ALL OVER like the white sauce. Lol. I can see why. Trust me. It&#39;s
+      hotttt!!!! And I love spicy!!!!<br><br>So since we were on vacay and didn&#39;t
+      have an office to return to, we actually walked into the nearest Starbucks to
+      purchase some cold beverages and then feast on our plates (we noticed others
+      doing this, too!) in an air conditioned space.<br><br>The verdict?? OMG!! So
+      DELICIOUS!! The chicken and beef were nicely seasoned and chopped in such a
+      way it made for a perfect bite of rice, meat, and lettuce. Not chunky and overbearing.
+      The plate was so good we inhaled that thing in two minutes. The sauces really
+      heightened the flavors to a whole other level. Ugh. Wish we had this in Hawaii.
+      But I do see The Halal Guys is now in CA and NV! Sweet! I&#39;ll have to check
+      them out on the West Coast.<br><br>If you&#39;re wondering about Halal meat,
+      it is pork free and produced in accordance with Islamic rules and contains Halal
+      ingredients and is lawful for Muslim consumption.
+    :score: '5.0'
+    :date: 7/13/2019
+  - :image_url: t1KA4AlHz6KV5zSAx7pqlQ
+    :comment: 
+    :body: Good prices and piles of food, but I think the seasoning is strange.  I
+      can see why they are a successful cart, but I can&#39;t figure out how the became
+      a national chain.
+    :score: '3.0'
+    :date: 8/14/2019
+  - :image_url: AON4gjFQ9HCG18BYV58Qqg
+    :comment: Rainy day
+    :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :image_url: XB_bwcUw5M7uwgAuqWQepA
+    :comment: "$9- regular combo platter"
+    :body: Because of this place&#39;s insane popularity, i decided to take the subway
+      here just to try it out. It was around 6pm and still raining a bit. I ordered
+      a combo platter and got my food very fast because all the guy did was scoop
+      the content from the containers. <br><br>I don&#39;t know if they normally would
+      refresh it up when it&#39;s not raining, but maybe because they didn&#39;t,
+      the meat felt a bit dry. Rice was good, i always enjoy Mediterranean rice. The
+      vegetable portion was just iceberg lettuce. Where sauce was decent. Hot sauce
+      was supppper hot like the dry hot type that just burns. The whole experience
+      just felt underwhelming and disappointing. I have had tastier Mediterranean
+      food from other food stands of NYC.
+    :score: '3.0'
+    :date: 6/30/2019
+  - :image_url: DoOWbgGSjAS4SO8rnyXs4w
+    :comment: 
+    :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :image_url: 3OJ231krrBifYCav1rxsxw
+    :comment: Beef and Chicken Combination Platter - Regular
+    :body: NYC Halal Carts are pretty well known at this point- there&#39;s nothing
+      like a chicken over rice platter at 2:00 in the morning. However, there has
+      to be well over a thousand in the city. But this one? This is THE Halal Cart.
+      <br><br>I&#39;m not sure if this was the first, or how this cart came to stardom,
+      but this was the cart that started the national chain of Halal Guys locations.
+      They&#39;re fast, they&#39;re efficient, and they make some good food.<br><br>You&#39;ll
+      see people lined up from streets away below their yellow umbrellas... and the
+      lines MOVE. You can be in the back of a line of 30 people, and still get your
+      food within minutes. Right near the carts is a block of public benches, providing
+      a good place to sit down with your food.<br><br>The regular sized platter itself
+      is enough food for the entire day in one sitting, but they also offer a small
+      sized platter or gyros.<br><br>All in all, if you want to eat a lot for cheap
+      in New York City, and you want it fast? Go to the Halal Guys.
+    :score: '4.0'
+    :date: 6/26/2019
+  - :image_url: T3_4NkZhBnnzLSQZ8MVXWg
+    :comment: Chicken and gyro combo platter
+    :body: 'Atmosphere: Looked like other Halal carts. The menu is simple and easy
+      to navigate.<br><br>Service: Fast service! There was no line since we went at
+      an awkward time (10:30 am), but the line looked longer during the lunch rush.<br><br>Food:
+      We ordered the chicken and gyro combo platter. Not to be extra, but this is
+      literally the best Hala food (and food in general) that we&#39;ve ever had.
+      Their portions were perfect, the meat was well seasoned, the rice was unique,
+      and their hot sauce packs a punch!  Everything went perfectly together. <br><br>Overall:
+      One of the best food places in New York. Everybody needs to eat here at some
+      point in their life. You get more than your money&#39;s worth here and won&#39;t
+      be disappointed! We&#39;d recommend beating the lunch/dinner rushes and having
+      a drink to pair with the delicious hot sauce!'
+    :score: '5.0'
+    :date: 8/8/2019
+  - :image_url: 4P1RK08k9rDnQLtbc7Qewg
+    :comment: Beef halal dinner
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: 9yGv0P5U85L8x2_6BRoVlA
+    :comment: The truck
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: 7zoQsbKcvhhvBNF_Zos48g
+    :comment: Don&#39;t settle for fakes. This is the original and smells so good!
+    :body: This is one of several food kiosks run by these guys in Manhattan with
+      this one being closest to my hotel. I&#39;ve noticed that there are many &#34;knock
+      offs&#34; throughout the city so be aware of the fact if you are searching for
+      them.<br><br>There happened to be no line when I got there but sure enough I
+      started one!  The man I spoke to didn&#39;t understand my questions and even
+      though I wanted a $6.00 beef gyro I ended up with a $9.00 beef halal dinner!<br><br>I
+      took my meal to the hotel room and ate it there. This meat is very good and
+      it is accompanied by a salad, rice, and sliced pita bread. They also give you
+      a white sauce and hot sauce if you want to add to it. I used the white sauce
+      and it was so good and very filling.<br><br>You can&#39;t beat a bargain like
+      that here in NY. There&#39;s no best time to go but I did notice two more stands
+      in the same general vicinity. They are marked &#34;the real&#34; Halal guys.  I
+      loved the convenience of it and the fact that I could enjoy a great meal for
+      a good price.
+    :score: '4.0'
+    :date: 6/1/2019
+  - :image_url: x5zEpxGQ2CtBiOf9qTZVsQ
+    :comment: 
+    :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019
+  - :image_url: 4uJV3qasMKXNyJzRYpUjiQ
+    :comment: Menu
+    :body: 'Before I even start my review, this place gets 5 stars from me because
+      they said &#34;For the pretty lady, extra hot sauce!&#34; and gave me like 10+
+      extra hot sauces. They sure know the fastest way to my heart. Meat + rice +
+      EXTRA hot sauce. What else can I possibly ask for? <br><br>Apparently this place
+      started all the way back in 1990, and 3 partners came up with a halal food cart
+      with chicken and gyro over rice because of a high demand from Muslim cab drivers!
+      Good thing they did because I freaking LOVE this place. <br><br>Whenever I come
+      up to NY for work, I stand in the ridiculous line that goes for a block or two
+      so that I can buy 4 - 6 platters of Combo ($8/each) to bring back home (Baltimore)
+      with me. Of course, extra hot sauce please! <br><br>When I get home, I open
+      up these bad boys, drown them in their famous white and red sauce. CAUTION:
+      their red/hot sauce is ACTUALLY spicy!!!! I thought I was born with an iron
+      stomach that can withstand all levels of spice but Halal Guys proved me wrong
+      - usually 1 packet of red sauce for the entire platter is enough but I like
+      to push my limit and put 2 - 3 packets. YESSSSSS, BURN MY SOUL!!!!<br><br>Their
+      pita bread does get soggy because it sits in the platter on the way home but
+      this is easily fixed if I pop them into the toaster oven for a few minutes!'
+    :score: '5.0'
+    :date: 5/30/2019

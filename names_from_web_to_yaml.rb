@@ -175,6 +175,6 @@ names = {
 }
 
 puts names
-file = File.open("names.yml", "w")
+file = File.open("names.yaml", "w")
 file.write(names.to_yaml)
 file.close
