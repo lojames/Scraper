@@ -1,0 +1,2679 @@
+---
+- :name: Active Life
+  :ref: active
+- :name: ATV Rentals/Tours
+  :ref: atvrentals
+- :name: Airsoft
+  :ref: airsoft
+- :name: Amateur Sports Teams
+  :ref: amateursportsteams
+- :name: Amusement Parks
+  :ref: amusementparks
+- :name: Aquariums
+  :ref: aquariums
+- :name: Archery
+  :ref: archery
+- :name: Axe Throwing
+  :ref: axethrowing
+- :name: Badminton
+  :ref: badminton
+- :name: Baseball Fields
+  :ref: baseballfields
+- :name: Basketball Courts
+  :ref: basketballcourts
+- :name: Batting Cages
+  :ref: battingcages
+- :name: Beach Equipment Rentals
+  :ref: beachequipmentrental
+- :name: Beaches
+  :ref: beaches
+- :name: Bike Parking
+  :ref: bikeparking
+- :name: Bike Rentals
+  :ref: bikerentals
+- :name: Boating
+  :ref: boating
+- :name: Bobsledding
+  :ref: bobsledding
+- :name: Bocce Ball
+  :ref: bocceball
+- :name: Bowling
+  :ref: bowling
+- :name: Bubble Soccer
+  :ref: bubblesoccer
+- :name: Bungee Jumping
+  :ref: bungeejumping
+- :name: Canyoneering
+  :ref: canyoneering
+- :name: Carousels
+  :ref: carousels
+- :name: Challenge Courses
+  :ref: challengecourses
+- :name: Climbing
+  :ref: climbing
+- :name: Cycling Classes
+  :ref: cyclingclasses
+- :name: Dart Arenas
+  :ref: dartarenas
+- :name: Day Camps
+  :ref: daycamps
+- :name: Disc Golf
+  :ref: discgolf
+- :name: Diving
+  :ref: diving
+- :name: Free Diving
+  :ref: freediving
+- :name: Scuba Diving
+  :ref: scuba
+- :name: Escape Games
+  :ref: escapegames
+- :name: Fencing Clubs
+  :ref: fencing
+- :name: Fishing
+  :ref: fishing
+- :name: Fitness & Instruction
+  :ref: fitness
+- :name: Aerial Fitness
+  :ref: aerialfitness
+- :name: Barre Classes
+  :ref: barreclasses
+- :name: Boot Camps
+  :ref: bootcamps
+- :name: Boxing
+  :ref: boxing
+- :name: Cardio Classes
+  :ref: cardioclasses
+- :name: Dance Studios
+  :ref: dancestudio
+- :name: Golf Lessons
+  :ref: golflessons
+- :name: Gyms
+  :ref: gyms
+- :name: Circuit Training Gyms
+  :ref: circuittraininggyms
+- :name: Interval Training Gyms
+  :ref: intervaltraininggyms
+- :name: Martial Arts
+  :ref: martialarts
+- :name: Brazilian Jiu-jitsu
+  :ref: brazilianjiujitsu
+- :name: Chinese Martial Arts
+  :ref: chinesemartialarts
+- :name: Karate
+  :ref: karate
+- :name: Kickboxing
+  :ref: kickboxing
+- :name: Muay Thai
+  :ref: muaythai
+- :name: Taekwondo
+  :ref: taekwondo
+- :name: Meditation Centers
+  :ref: meditationcenters
+- :name: Pilates
+  :ref: pilates
+- :name: Qi Gong
+  :ref: qigong
+- :name: Self-defense Classes
+  :ref: selfdefenseclasses
+- :name: Swimming Lessons/Schools
+  :ref: swimminglessons
+- :name: Tai Chi
+  :ref: taichi
+- :name: Trainers
+  :ref: healthtrainers
+- :name: Yoga
+  :ref: yoga
+- :name: Flyboarding
+  :ref: flyboarding
+- :name: Go Karts
+  :ref: gokarts
+- :name: Golf
+  :ref: golf
+- :name: Gun/Rifle Ranges
+  :ref: gun_ranges
+- :name: Gymnastics
+  :ref: gymnastics
+- :name: Hang Gliding
+  :ref: hanggliding
+- :name: Hiking
+  :ref: hiking
+- :name: Horse Racing
+  :ref: horseracing
+- :name: Horseback Riding
+  :ref: horsebackriding
+- :name: Hot Air Balloons
+  :ref: hot_air_balloons
+- :name: Indoor Playcentre
+  :ref: indoor_playcenter
+- :name: Jet Skis
+  :ref: jetskis
+- :name: Kids Activities
+  :ref: kids_activities
+- :name: Kiteboarding
+  :ref: kiteboarding
+- :name: Lakes
+  :ref: lakes
+- :name: Laser Tag
+  :ref: lasertag
+- :name: Mini Golf
+  :ref: mini_golf
+- :name: Mountain Biking
+  :ref: mountainbiking
+- :name: Nudist
+  :ref: nudist
+- :name: Paddleboarding
+  :ref: paddleboarding
+- :name: Paintball
+  :ref: paintball
+- :name: Paragliding
+  :ref: paragliding
+- :name: Parasailing
+  :ref: parasailing
+- :name: Parks
+  :ref: parks
+- :name: Dog Parks
+  :ref: dog_parks
+- :name: Skate Parks
+  :ref: skate_parks
+- :name: Pickleball
+  :ref: pickleball
+- :name: Playgrounds
+  :ref: playgrounds
+- :name: Races & Competitions
+  :ref: races
+- :name: Racing Experience
+  :ref: racingexperience
+- :name: Rafting/Kayaking
+  :ref: rafting
+- :name: Recreation Centers
+  :ref: recreation
+- :name: Rock Climbing
+  :ref: rock_climbing
+- :name: Sailing
+  :ref: sailing
+- :name: Scavenger Hunts
+  :ref: scavengerhunts
+- :name: Scooter Rentals
+  :ref: scooterrentals
+- :name: Senior Centers
+  :ref: seniorcenters
+- :name: Skating Rinks
+  :ref: skatingrinks
+- :name: Skydiving
+  :ref: skydiving
+- :name: Sledding
+  :ref: sledding
+- :name: Snorkeling
+  :ref: snorkeling
+- :name: Soccer
+  :ref: football
+- :name: Sports Clubs
+  :ref: sports_clubs
+- :name: Squash
+  :ref: squash
+- :name: Summer Camps
+  :ref: summer_camps
+- :name: Surfing
+  :ref: surfing
+- :name: Swimming Pools
+  :ref: swimmingpools
+- :name: Tennis
+  :ref: tennis
+- :name: Trampoline Parks
+  :ref: trampoline
+- :name: Tubing
+  :ref: tubing
+- :name: Water Parks
+  :ref: waterparks
+- :name: Wildlife Hunting Ranges
+  :ref: wildlifehunting
+- :name: Ziplining
+  :ref: zipline
+- :name: Zoos
+  :ref: zoos
+- :name: Petting Zoos
+  :ref: pettingzoos
+- :name: Zorbing
+  :ref: zorbing
+- :name: Arts & Entertainment
+  :ref: arts
+- :name: Arcades
+  :ref: arcades
+- :name: Art Galleries
+  :ref: galleries
+- :name: Bingo Halls
+  :ref: bingo
+- :name: Botanical Gardens
+  :ref: gardens
+- :name: Cabaret
+  :ref: cabaret
+- :name: Casinos
+  :ref: casinos
+- :name: Cinema
+  :ref: movietheaters
+- :name: Drive-In Theater
+  :ref: driveintheater
+- :name: Outdoor Movies
+  :ref: outdoormovies
+- :name: Country Clubs
+  :ref: countryclubs
+- :name: Cultural Center
+  :ref: culturalcenter
+- :name: Eatertainment
+  :ref: eatertainment
+- :name: Farms
+  :ref: farms
+- :name: Attraction Farms
+  :ref: attractionfarms
+- :name: Pick Your Own Farms
+  :ref: pickyourown
+- :name: Ranches
+  :ref: ranches
+- :name: Festivals
+  :ref: festivals
+- :name: Haunted Houses
+  :ref: hauntedhouses
+- :name: Jazz & Blues
+  :ref: jazzandblues
+- :name: LAN Centers
+  :ref: lancenters
+- :name: Makerspaces
+  :ref: makerspaces
+- :name: Museums
+  :ref: museums
+- :name: Art Museums
+  :ref: artmuseums
+- :name: Children's Museums
+  :ref: childrensmuseums
+- :name: Music Venues
+  :ref: musicvenues
+- :name: Observatories
+  :ref: observatories
+- :name: Opera & Ballet
+  :ref: opera
+- :name: Paint & Sip
+  :ref: paintandsip
+- :name: Performing Arts
+  :ref: theater
+- :name: Planetarium
+  :ref: planetarium
+- :name: Professional Sports Teams
+  :ref: sportsteams
+- :name: Race Tracks
+  :ref: racetracks
+- :name: Rodeo
+  :ref: rodeo
+- :name: Social Clubs
+  :ref: social_clubs
+- :name: Veterans Organizations
+  :ref: veteransorganizations
+- :name: Sports Betting
+  :ref: sportsbetting
+- :name: Stadiums & Arenas
+  :ref: stadiumsarenas
+- :name: Studio Taping
+  :ref: studiotaping
+- :name: Supernatural Readings
+  :ref: psychic_astrology
+- :name: Astrologers
+  :ref: astrologers
+- :name: Mystics
+  :ref: mystics
+- :name: Psychic Mediums
+  :ref: psychicmediums
+- :name: Psychics
+  :ref: psychics
+- :name: Ticket Sales
+  :ref: ticketsales
+- :name: Virtual Reality Centers
+  :ref: virtualrealitycenters
+- :name: Wineries
+  :ref: wineries
+- :name: Wine Tasting Room
+  :ref: winetastingroom
+- :name: Automotive
+  :ref: auto
+- :name: Aircraft Dealers
+  :ref: aircraftdealers
+- :name: Aircraft Repairs
+  :ref: aircraftrepairs
+- :name: Auto Customization
+  :ref: autocustomization
+- :name: Auto Detailing
+  :ref: auto_detailing
+- :name: Auto Glass Services
+  :ref: autoglass
+- :name: Car Window Tinting
+  :ref: carwindowtinting
+- :name: Auto Loan Providers
+  :ref: autoloanproviders
+- :name: Auto Parts & Supplies
+  :ref: autopartssupplies
+- :name: Motorcycle Parts & Supplies
+  :ref: motorcyclepartsandsupplies
+- :name: Auto Repair
+  :ref: autorepair
+- :name: DIY Auto Shop
+  :ref: diyautoshop
+- :name: Auto Security
+  :ref: autosecurity
+- :name: Auto Upholstery
+  :ref: autoupholstery
+- :name: Aviation Services
+  :ref: aviationservices
+- :name: Boat Dealers
+  :ref: boatdealers
+- :name: Boat Parts & Supplies
+  :ref: boatpartsandsupplies
+- :name: Body Shops
+  :ref: bodyshops
+- :name: Car Auctions
+  :ref: carauctions
+- :name: Car Brokers
+  :ref: carbrokers
+- :name: Car Buyers
+  :ref: carbuyers
+- :name: Car Dealers
+  :ref: car_dealers
+- :name: Car Inspectors
+  :ref: autodamageassessment
+- :name: Car Share Services
+  :ref: carshares
+- :name: Car Stereo Installation
+  :ref: stereo_installation
+- :name: Car Wash
+  :ref: carwash
+- :name: Commercial Truck Dealers
+  :ref: truckdealers
+- :name: Commercial Truck Repair
+  :ref: truckrepair
+- :name: EV Charging Stations
+  :ref: evchargingstations
+- :name: Fuel Docks
+  :ref: fueldocks
+- :name: Gas Stations
+  :ref: servicestations
+- :name: Golf Cart Dealers
+  :ref: golfcartdealers
+- :name: Hybrid Car Repair
+  :ref: hybridcarrepair
+- :name: Interlock Systems
+  :ref: interlocksystems
+- :name: Marinas
+  :ref: marinas
+- :name: Mobile Dent Repair
+  :ref: mobiledentrepair
+- :name: Mobility Equipment Sales & Services
+  :ref: mobilityequipment
+- :name: Motorcycle Dealers
+  :ref: motorcycledealers
+- :name: Motorcycle Repair
+  :ref: motorcyclerepair
+- :name: Motorsport Vehicle Dealers
+  :ref: motodealers
+- :name: Motorsport Vehicle Repairs
+  :ref: motorepairs
+- :name: Oil Change Stations
+  :ref: oilchange
+- :name: Parking
+  :ref: parking
+- :name: RV Dealers
+  :ref: rv_dealers
+- :name: RV Repair
+  :ref: rvrepair
+- :name: Registration Services
+  :ref: registrationservices
+- :name: Roadside Assistance
+  :ref: roadsideassist
+- :name: Service Stations
+  :ref: service_stations
+- :name: Smog Check Stations
+  :ref: smog_check_stations
+- :name: Tires
+  :ref: tires
+- :name: Towing
+  :ref: towing
+- :name: Trailer Dealers
+  :ref: trailerdealers
+- :name: Trailer Rental
+  :ref: trailerrental
+- :name: Trailer Repair
+  :ref: trailerrepair
+- :name: Transmission Repair
+  :ref: transmissionrepair
+- :name: Truck Rental
+  :ref: truck_rental
+- :name: Used Car Dealers
+  :ref: usedcardealers
+- :name: Vehicle Shipping
+  :ref: vehicleshipping
+- :name: Vehicle Wraps
+  :ref: vehiclewraps
+- :name: Wheel & Rim Repair
+  :ref: wheelrimrepair
+- :name: Windshield Installation & Repair
+  :ref: windshieldinstallrepair
+- :name: Beauty & Spas
+  :ref: beautysvc
+- :name: Acne Treatment
+  :ref: acnetreatment
+- :name: Barbers
+  :ref: barbers
+- :name: Cosmetics & Beauty Supply
+  :ref: cosmetics
+- :name: Day Spas
+  :ref: spas
+- :name: Eyebrow Services
+  :ref: eyebrowservices
+- :name: Eyelash Service
+  :ref: eyelashservice
+- :name: Hair Extensions
+  :ref: hair_extensions
+- :name: Hair Loss Centers
+  :ref: hairloss
+- :name: Hair Removal
+  :ref: hairremoval
+- :name: Laser Hair Removal
+  :ref: laser_hair_removal
+- :name: Sugaring
+  :ref: sugaring
+- :name: Threading Services
+  :ref: threadingservices
+- :name: Waxing
+  :ref: waxing
+- :name: Hair Salons
+  :ref: hair
+- :name: Blow Dry/Out Services
+  :ref: blowoutservices
+- :name: Hair Extensions
+  :ref: hair_extensions
+- :name: Hair Stylists
+  :ref: hairstylists
+- :name: Kids Hair Salons
+  :ref: kidshairsalons
+- :name: Men's Hair Salons
+  :ref: menshair
+- :name: Hot Springs
+  :ref: hotsprings
+- :name: Makeup Artists
+  :ref: makeupartists
+- :name: Massage
+  :ref: massage
+- :name: Medical Spas
+  :ref: medicalspa
+- :name: Aestheticians
+  :ref: aestheticians
+- :name: Nail Salons
+  :ref: othersalons
+- :name: Nail Technicians
+  :ref: nailtechnicians
+- :name: Perfume
+  :ref: perfume
+- :name: Permanent Makeup
+  :ref: permanentmakeup
+- :name: Piercing
+  :ref: piercing
+- :name: Skin Care
+  :ref: skincare
+- :name: Estheticians
+  :ref: estheticians
+- :name: Tanning
+  :ref: tanning
+- :name: Spray Tanning
+  :ref: spraytanning
+- :name: Tanning Beds
+  :ref: tanningbeds
+- :name: Tattoo
+  :ref: tattoo
+- :name: Teeth Whitening
+  :ref: teethwhitening
+- :name: Education
+  :ref: education
+- :name: Adult Education
+  :ref: adultedu
+- :name: Art Classes
+  :ref: artclasses
+- :name: Glass Blowing
+  :ref: glassblowing
+- :name: College Counseling
+  :ref: collegecounseling
+- :name: Colleges & Universities
+  :ref: collegeuniv
+- :name: Educational Services
+  :ref: educationservices
+- :name: Elementary Schools
+  :ref: elementaryschools
+- :name: Middle Schools & High Schools
+  :ref: highschools
+- :name: Montessori Schools
+  :ref: montessori
+- :name: Preschools
+  :ref: preschools
+- :name: Private Schools
+  :ref: privateschools
+- :name: Private Tutors
+  :ref: privatetutors
+- :name: Religious Schools
+  :ref: religiousschools
+- :name: Special Education
+  :ref: specialed
+- :name: Specialty Schools
+  :ref: specialtyschools
+- :name: Art Schools
+  :ref: artschools
+- :name: Bartending Schools
+  :ref: bartendingschools
+- :name: CPR Classes
+  :ref: cprclasses
+- :name: Cheerleading
+  :ref: cheerleading
+- :name: Childbirth Education
+  :ref: childbirthedu
+- :name: Cooking Schools
+  :ref: cookingschools
+- :name: Cosmetology Schools
+  :ref: cosmetology_schools
+- :name: DUI Schools
+  :ref: duischools
+- :name: Dance Schools
+  :ref: dance_schools
+- :name: Drama Schools
+  :ref: dramaschools
+- :name: Driving Schools
+  :ref: driving_schools
+- :name: Firearm Training
+  :ref: firearmtraining
+- :name: First Aid Classes
+  :ref: firstaidclasses
+- :name: Flight Instruction
+  :ref: flightinstruction
+- :name: Food Safety Training
+  :ref: foodsafety
+- :name: Language Schools
+  :ref: language_schools
+- :name: Massage Schools
+  :ref: massage_schools
+- :name: Nursing Schools
+  :ref: nursingschools
+- :name: Parenting Classes
+  :ref: parentingclasses
+- :name: Photography Classes
+  :ref: photoclasses
+- :name: Pole Dancing Classes
+  :ref: poledancingclasses
+- :name: Ski Schools
+  :ref: skischools
+- :name: Speech Training
+  :ref: speechtraining
+- :name: Surf Schools
+  :ref: surfschools
+- :name: Swimming Lessons/Schools
+  :ref: swimminglessons
+- :name: Traffic Schools
+  :ref: trafficschools
+- :name: Vocational & Technical School
+  :ref: vocation
+- :name: Tasting Classes
+  :ref: tastingclasses
+- :name: Cheese Tasting Classes
+  :ref: cheesetastingclasses
+- :name: Wine Tasting Classes
+  :ref: winetasteclasses
+- :name: Test Preparation
+  :ref: testprep
+- :name: Tutoring Centers
+  :ref: tutoring
+- :name: Waldorf Schools
+  :ref: waldorfschools
+- :name: Event Planning & Services
+  :ref: eventservices
+- :name: Balloon Services
+  :ref: balloonservices
+- :name: Bartenders
+  :ref: bartenders
+- :name: Boat Charters
+  :ref: boatcharters
+- :name: Cards & Stationery
+  :ref: stationery
+- :name: Caricatures
+  :ref: caricatures
+- :name: Caterers
+  :ref: catering
+- :name: Clowns
+  :ref: clowns
+- :name: DJs
+  :ref: djs
+- :name: Face Painting
+  :ref: facepainting
+- :name: Floral Designers
+  :ref: floraldesigners
+- :name: Game Truck Rental
+  :ref: gametruckrental
+- :name: Golf Cart Rentals
+  :ref: golfcartrentals
+- :name: Henna Artists
+  :ref: hennaartists
+- :name: Hotels
+  :ref: hotels
+- :name: Mountain Huts
+  :ref: mountainhuts
+- :name: Residences
+  :ref: residences
+- :name: Rest Stops
+  :ref: reststops
+- :name: Magicians
+  :ref: magicians
+- :name: Mohels
+  :ref: mohels
+- :name: Musicians
+  :ref: musicians
+- :name: Officiants
+  :ref: officiants
+- :name: Party & Event Planning
+  :ref: eventplanning
+- :name: Party Bike Rentals
+  :ref: partybikerentals
+- :name: Party Bus Rentals
+  :ref: partybusrentals
+- :name: Party Characters
+  :ref: partycharacters
+- :name: Party Equipment Rentals
+  :ref: partyequipmentrentals
+- :name: Audio/Visual Equipment Rental
+  :ref: audiovisualequipmentrental
+- :name: Bounce House Rentals
+  :ref: bouncehouserentals
+- :name: Karaoke Rental
+  :ref: karaokerental
+- :name: Party Supplies
+  :ref: partysupplies
+- :name: Personal Chefs
+  :ref: personalchefs
+- :name: Photo Booth Rentals
+  :ref: photoboothrentals
+- :name: Photographers
+  :ref: photographers
+- :name: Boudoir Photography
+  :ref: boudoirphotography
+- :name: Event Photography
+  :ref: eventphotography
+- :name: Session Photography
+  :ref: sessionphotography
+- :name: Silent Disco
+  :ref: silentdisco
+- :name: Sommelier Services
+  :ref: sommelierservices
+- :name: Team Building Activities
+  :ref: teambuilding
+- :name: Trivia Hosts
+  :ref: triviahosts
+- :name: Valet Services
+  :ref: valetservices
+- :name: Venues & Event Spaces
+  :ref: venues
+- :name: Videographers
+  :ref: videographers
+- :name: Wedding Chapels
+  :ref: weddingchappels
+- :name: Wedding Planning
+  :ref: wedding_planning
+- :name: Financial Services
+  :ref: financialservices
+- :name: Banks & Credit Unions
+  :ref: banks
+- :name: Business Financing
+  :ref: businessfinancing
+- :name: Check Cashing/Pay-day Loans
+  :ref: paydayloans
+- :name: Currency Exchange
+  :ref: currencyexchange
+- :name: Debt Relief Services
+  :ref: debtrelief
+- :name: Financial Advising
+  :ref: financialadvising
+- :name: Installment Loans
+  :ref: installmentloans
+- :name: Insurance
+  :ref: insurance
+- :name: Auto Insurance
+  :ref: autoinsurance
+- :name: Home & Rental Insurance
+  :ref: homeinsurance
+- :name: Life Insurance
+  :ref: lifeinsurance
+- :name: Investing
+  :ref: investing
+- :name: Mortgage Lenders
+  :ref: mortgagelenders
+- :name: Tax Services
+  :ref: taxservices
+- :name: Title Loans
+  :ref: titleloans
+- :name: Food
+  :ref: food
+- :name: Acai Bowls
+  :ref: acaibowls
+- :name: Bagels
+  :ref: bagels
+- :name: Bakeries
+  :ref: bakeries
+- :name: Beer, Wine & Spirits
+  :ref: beer_and_wine
+- :name: Beverage Store
+  :ref: beverage_stores
+- :name: Breweries
+  :ref: breweries
+- :name: Brewpubs
+  :ref: brewpubs
+- :name: Bubble Tea
+  :ref: bubbletea
+- :name: Butcher
+  :ref: butcher
+- :name: CSA
+  :ref: csa
+- :name: Chimney Cakes
+  :ref: chimneycakes
+- :name: Cideries
+  :ref: cideries
+- :name: Coffee & Tea
+  :ref: coffee
+- :name: Coffee Roasteries
+  :ref: coffeeroasteries
+- :name: Convenience Stores
+  :ref: convenience
+- :name: Cupcakes
+  :ref: cupcakes
+- :name: Custom Cakes
+  :ref: customcakes
+- :name: Desserts
+  :ref: desserts
+- :name: Distilleries
+  :ref: distilleries
+- :name: Do-It-Yourself Food
+  :ref: diyfood
+- :name: Donuts
+  :ref: donuts
+- :name: Empanadas
+  :ref: empanadas
+- :name: Farmers Market
+  :ref: farmersmarket
+- :name: Food Delivery Services
+  :ref: fooddeliveryservices
+- :name: Food Trucks
+  :ref: foodtrucks
+- :name: Gelato
+  :ref: gelato
+- :name: Grocery
+  :ref: grocery
+- :name: Honey
+  :ref: honey
+- :name: Ice Cream & Frozen Yogurt
+  :ref: icecream
+- :name: Imported Food
+  :ref: importedfood
+- :name: International Grocery
+  :ref: intlgrocery
+- :name: Internet Cafes
+  :ref: internetcafe
+- :name: Juice Bars & Smoothies
+  :ref: juicebars
+- :name: Kombucha
+  :ref: kombucha
+- :name: Meaderies
+  :ref: meaderies
+- :name: Organic Stores
+  :ref: organic_stores
+- :name: Patisserie/Cake Shop
+  :ref: cakeshop
+- :name: Piadina
+  :ref: piadina
+- :name: Poke
+  :ref: poke
+- :name: Pretzels
+  :ref: pretzels
+- :name: Shaved Ice
+  :ref: shavedice
+- :name: Shaved Snow
+  :ref: shavedsnow
+- :name: Smokehouse
+  :ref: smokehouse
+- :name: Specialty Food
+  :ref: gourmet
+- :name: Candy Stores
+  :ref: candy
+- :name: Cheese Shops
+  :ref: cheese
+- :name: Chocolatiers & Shops
+  :ref: chocolate
+- :name: Fruits & Veggies
+  :ref: markets
+- :name: Health Markets
+  :ref: healthmarkets
+- :name: Herbs & Spices
+  :ref: herbsandspices
+- :name: Macarons
+  :ref: macarons
+- :name: Meat Shops
+  :ref: meats
+- :name: Olive Oil
+  :ref: oliveoil
+- :name: Pasta Shops
+  :ref: pastashops
+- :name: Popcorn Shops
+  :ref: popcorn
+- :name: Seafood Markets
+  :ref: seafoodmarkets
+- :name: Street Vendors
+  :ref: streetvendors
+- :name: Tea Rooms
+  :ref: tea
+- :name: Water Stores
+  :ref: waterstores
+- :name: Wineries
+  :ref: wineries
+- :name: Wine Tasting Room
+  :ref: winetastingroom
+- :name: Health & Medical
+  :ref: health
+- :name: Acupuncture
+  :ref: acupuncture
+- :name: Alternative Medicine
+  :ref: alternativemedicine
+- :name: Animal Assisted Therapy
+  :ref: animalassistedtherapy
+- :name: Assisted Living Facilities
+  :ref: assistedliving
+- :name: Ayurveda
+  :ref: ayurveda
+- :name: Behavior Analysts
+  :ref: behavioranalysts
+- :name: Blood & Plasma Donation Centers
+  :ref: blooddonation
+- :name: Body Contouring
+  :ref: bodycontouring
+- :name: Cannabis Clinics
+  :ref: cannabis_clinics
+- :name: Cannabis Tours
+  :ref: cannabistours
+- :name: Cannabis Collective
+  :ref: cannabiscollective
+- :name: Chiropractors
+  :ref: chiropractors
+- :name: Colonics
+  :ref: colonics
+- :name: Concierge Medicine
+  :ref: conciergemedicine
+- :name: Counseling & Mental Health
+  :ref: c_and_mh
+- :name: Psychologists
+  :ref: psychologists
+- :name: Sex Therapists
+  :ref: sextherapists
+- :name: Sports Psychologists
+  :ref: sportspsychologists
+- :name: Crisis Pregnancy Centers
+  :ref: crisispregnancycenters
+- :name: Faith-based Crisis Pregnancy Centers
+  :ref: faithbasedcpc
+- :name: Cryotherapy
+  :ref: cryotherapy
+- :name: Dental Hygienists
+  :ref: dentalhygienists
+- :name: Dentists
+  :ref: dentists
+- :name: Cosmetic Dentists
+  :ref: cosmeticdentists
+- :name: Endodontists
+  :ref: endodontists
+- :name: General Dentistry
+  :ref: generaldentistry
+- :name: Oral Surgeons
+  :ref: oralsurgeons
+- :name: Orthodontists
+  :ref: orthodontists
+- :name: Pediatric Dentists
+  :ref: pediatric_dentists
+- :name: Periodontists
+  :ref: periodontists
+- :name: Diagnostic Services
+  :ref: diagnosticservices
+- :name: Diagnostic Imaging
+  :ref: diagnosticimaging
+- :name: Laboratory Testing
+  :ref: laboratorytesting
+- :name: Dialysis Clinics
+  :ref: dialysisclinics
+- :name: Dietitians
+  :ref: dietitians
+- :name: Doctors
+  :ref: physicians
+- :name: Addiction Medicine
+  :ref: addictionmedicine
+- :name: Allergists
+  :ref: allergist
+- :name: Anesthesiologists
+  :ref: anesthesiologists
+- :name: Audiologist
+  :ref: audiologist
+- :name: Cardiologists
+  :ref: cardiology
+- :name: Cosmetic Surgeons
+  :ref: cosmeticsurgeons
+- :name: Dermatologists
+  :ref: dermatology
+- :name: Ear Nose & Throat
+  :ref: earnosethroat
+- :name: Emergency Medicine
+  :ref: emergencymedicine
+- :name: Endocrinologists
+  :ref: endocrinologists
+- :name: Family Practice
+  :ref: familydr
+- :name: Fertility
+  :ref: fertility
+- :name: Gastroenterologist
+  :ref: gastroenterologist
+- :name: Geneticists
+  :ref: geneticists
+- :name: Gerontologists
+  :ref: gerontologist
+- :name: Hepatologists
+  :ref: hepatologists
+- :name: Hospitalists
+  :ref: hospitalists
+- :name: Immunodermatologists
+  :ref: immunodermatologists
+- :name: Infectious Disease Specialists
+  :ref: infectiousdisease
+- :name: Internal Medicine
+  :ref: internalmed
+- :name: Naturopathic/Holistic
+  :ref: naturopathic
+- :name: Nephrologists
+  :ref: nephrologists
+- :name: Neurologist
+  :ref: neurologist
+- :name: Neuropathologists
+  :ref: neuropathologists
+- :name: Neurotologists
+  :ref: neurotologists
+- :name: Obstetricians & Gynecologists
+  :ref: obgyn
+- :name: Oncologist
+  :ref: oncologist
+- :name: Ophthalmologists
+  :ref: opthamalogists
+- :name: Retina Specialists
+  :ref: retinaspecialists
+- :name: Orthopedists
+  :ref: orthopedists
+- :name: Osteopathic Physicians
+  :ref: osteopathicphysicians
+- :name: Otologists
+  :ref: otologists
+- :name: Pain Management
+  :ref: painmanagement
+- :name: Pathologists
+  :ref: pathologists
+- :name: Pediatricians
+  :ref: pediatricians
+- :name: Phlebologists
+  :ref: phlebologists
+- :name: Plastic Surgeons
+  :ref: plasticsurgeons
+- :name: Podiatrists
+  :ref: podiatrists
+- :name: Preventive Medicine
+  :ref: preventivemedicine
+- :name: Proctologists
+  :ref: proctologist
+- :name: Psychiatrists
+  :ref: psychiatrists
+- :name: Pulmonologist
+  :ref: pulmonologist
+- :name: Radiologists
+  :ref: radiologists
+- :name: Rheumatologists
+  :ref: rhematologists
+- :name: Spine Surgeons
+  :ref: spinesurgeons
+- :name: Sports Medicine
+  :ref: sportsmed
+- :name: Surgeons
+  :ref: surgeons
+- :name: Tattoo Removal
+  :ref: tattooremoval
+- :name: Toxicologists
+  :ref: toxicologists
+- :name: Undersea/Hyperbaric Medicine
+  :ref: underseamedicine
+- :name: Urologists
+  :ref: urologists
+- :name: Vascular Medicine
+  :ref: vascularmedicine
+- :name: Doulas
+  :ref: doulas
+- :name: Emergency Rooms
+  :ref: emergencyrooms
+- :name: Float Spa
+  :ref: floatspa
+- :name: Habilitative Services
+  :ref: habilitativeservices
+- :name: Halfway Houses
+  :ref: halfwayhouses
+- :name: Halotherapy
+  :ref: halotherapy
+- :name: Health Coach
+  :ref: healthcoach
+- :name: Health Insurance Offices
+  :ref: healthinsurance
+- :name: Hearing Aid Providers
+  :ref: hearingaidproviders
+- :name: Herbal Shops
+  :ref: herbalshops
+- :name: Home Health Care
+  :ref: homehealthcare
+- :name: Hospice
+  :ref: hospice
+- :name: Hospitals
+  :ref: hospitals
+- :name: Hydrotherapy
+  :ref: hydrotherapy
+- :name: Hypnosis/Hypnotherapy
+  :ref: hypnosis
+- :name: IV Hydration
+  :ref: ivhydration
+- :name: Lactation Services
+  :ref: lactationservices
+- :name: Laser Eye Surgery/Lasik
+  :ref: laserlasikeyes
+- :name: Lice Services
+  :ref: liceservices
+- :name: Massage Therapy
+  :ref: massage_therapy
+- :name: Medical Cannabis Referrals
+  :ref: cannabisreferrals
+- :name: Medical Centers
+  :ref: medcenters
+- :name: Walk-in Clinics
+  :ref: walkinclinics
+- :name: Medical Spas
+  :ref: medicalspa
+- :name: Aestheticians
+  :ref: aestheticians
+- :name: Medical Transportation
+  :ref: medicaltransportation
+- :name: Memory Care
+  :ref: memorycare
+- :name: Midwives
+  :ref: midwives
+- :name: Nurse Practitioner
+  :ref: nursepractitioner
+- :name: Nutritionists
+  :ref: nutritionists
+- :name: Occupational Therapy
+  :ref: occupationaltherapy
+- :name: Optometrists
+  :ref: optometrists
+- :name: Organ & Tissue Donor Services
+  :ref: organdonorservices
+- :name: Orthotics
+  :ref: orthotics
+- :name: Oxygen Bars
+  :ref: oxygenbars
+- :name: Personal Care Services
+  :ref: personalcare
+- :name: Pharmacy
+  :ref: pharmacy
+- :name: Physical Therapy
+  :ref: physicaltherapy
+- :name: Placenta Encapsulations
+  :ref: placentaencapsulation
+- :name: Prenatal/Perinatal Care
+  :ref: prenatal
+- :name: Prosthetics
+  :ref: prosthetics
+- :name: Prosthodontists
+  :ref: prosthodontists
+- :name: Reflexology
+  :ref: reflexology
+- :name: Rehabilitation Center
+  :ref: rehabilitation_center
+- :name: Reiki
+  :ref: reiki
+- :name: Reproductive Health Services
+  :ref: reproductivehealthservices
+- :name: Retirement Homes
+  :ref: retirement_homes
+- :name: Saunas
+  :ref: saunas
+- :name: Skilled Nursing
+  :ref: skillednursing
+- :name: Sleep Specialists
+  :ref: sleepspecialists
+- :name: Speech Therapists
+  :ref: speech_therapists
+- :name: Sperm Clinic
+  :ref: spermclinic
+- :name: Traditional Chinese Medicine
+  :ref: tcm
+- :name: Tui Na
+  :ref: tuina
+- :name: Ultrasound Imaging Centers
+  :ref: ultrasoundimagingcenters
+- :name: Urgent Care
+  :ref: urgent_care
+- :name: Weight Loss Centers
+  :ref: weightlosscenters
+- :name: Home Services
+  :ref: homeservices
+- :name: Artificial Turf
+  :ref: artificialturf
+- :name: Building Supplies
+  :ref: buildingsupplies
+- :name: Cabinetry
+  :ref: cabinetry
+- :name: Carpenters
+  :ref: carpenters
+- :name: Carpet Installation
+  :ref: carpetinstallation
+- :name: Carpeting
+  :ref: carpeting
+- :name: Childproofing
+  :ref: childproofing
+- :name: Chimney Sweeps
+  :ref: chimneysweeps
+- :name: Contractors
+  :ref: contractors
+- :name: Countertop Installation
+  :ref: countertopinstall
+- :name: Damage Restoration
+  :ref: damagerestoration
+- :name: Decks & Railing
+  :ref: decksrailing
+- :name: Demolition Services
+  :ref: demolitionservices
+- :name: Door Sales/Installation
+  :ref: doorsales
+- :name: Drywall Installation & Repair
+  :ref: drywall
+- :name: Electricians
+  :ref: electricians
+- :name: Excavation Services
+  :ref: excavationservices
+- :name: Fences & Gates
+  :ref: fencesgates
+- :name: Fire Protection Services
+  :ref: fireprotection
+- :name: Fireplace Services
+  :ref: fireplace
+- :name: Firewood
+  :ref: firewood
+- :name: Flooring
+  :ref: flooring
+- :name: Foundation Repair
+  :ref: foundationrepair
+- :name: Furniture Assembly
+  :ref: furnitureassembly
+- :name: Garage Door Services
+  :ref: garage_door_services
+- :name: Gardeners
+  :ref: gardeners
+- :name: Glass & Mirrors
+  :ref: glassandmirrors
+- :name: Grout Services
+  :ref: groutservices
+- :name: Gutter Services
+  :ref: gutterservices
+- :name: Handyman
+  :ref: handyman
+- :name: Heating & Air Conditioning/HVAC
+  :ref: hvac
+- :name: Holiday Decorating Services
+  :ref: seasonaldecorservices
+- :name: Home Automation
+  :ref: homeautomation
+- :name: Home Cleaning
+  :ref: homecleaning
+- :name: Home Energy Auditors
+  :ref: homeenergyauditors
+- :name: Home Inspectors
+  :ref: home_inspectors
+- :name: Home Network Installation
+  :ref: homenetworkinstall
+- :name: Home Organization
+  :ref: home_organization
+- :name: Home Theatre Installation
+  :ref: hometheatreinstallation
+- :name: Home Window Tinting
+  :ref: homewindowtinting
+- :name: House Sitters
+  :ref: housesitters
+- :name: Insulation Installation
+  :ref: insulationinstallation
+- :name: Interior Design
+  :ref: interiordesign
+- :name: Internet Service Providers
+  :ref: isps
+- :name: Irrigation
+  :ref: irrigation
+- :name: Keys & Locksmiths
+  :ref: locksmiths
+- :name: Landscape Architects
+  :ref: landscapearchitects
+- :name: Landscaping
+  :ref: landscaping
+- :name: Lawn Services
+  :ref: lawnservices
+- :name: Lighting Fixtures & Equipment
+  :ref: lighting
+- :name: Masonry/Concrete
+  :ref: masonry_concrete
+- :name: Mobile Home Repair
+  :ref: mobile_home_repair
+- :name: Movers
+  :ref: movers
+- :name: Packing Services
+  :ref: packingservices
+- :name: Painters
+  :ref: painters
+- :name: Patio Coverings
+  :ref: patiocoverings
+- :name: Plumbing
+  :ref: plumbing
+- :name: Backflow Services
+  :ref: backflowservices
+- :name: Pool & Hot Tub Service
+  :ref: poolservice
+- :name: Pool Cleaners
+  :ref: poolcleaners
+- :name: Pressure Washers
+  :ref: pressurewashers
+- :name: Real Estate
+  :ref: realestate
+- :name: Apartments
+  :ref: apartments
+- :name: Art Space Rentals
+  :ref: artspacerentals
+- :name: Commercial Real Estate
+  :ref: commercialrealestate
+- :name: Condominiums
+  :ref: condominiums
+- :name: Estate Liquidation
+  :ref: estateliquidation
+- :name: Home Developers
+  :ref: homedevelopers
+- :name: Home Staging
+  :ref: homestaging
+- :name: Homeowner Association
+  :ref: homeownerassociation
+- :name: Housing Cooperatives
+  :ref: housingcooperatives
+- :name: Kitchen Incubators
+  :ref: kitchenincubators
+- :name: Mobile Home Dealers
+  :ref: mobilehomes
+- :name: Mobile Home Parks
+  :ref: mobileparks
+- :name: Mortgage Brokers
+  :ref: mortgagebrokers
+- :name: Property Management
+  :ref: propertymgmt
+- :name: Real Estate Agents
+  :ref: realestateagents
+- :name: Apartment Agents
+  :ref: apartmentagents
+- :name: Real Estate Services
+  :ref: realestatesvcs
+- :name: Land Surveying
+  :ref: landsurveying
+- :name: Real Estate Photography
+  :ref: estatephotography
+- :name: Shared Office Spaces
+  :ref: sharedofficespaces
+- :name: University Housing
+  :ref: university_housing
+- :name: Refinishing Services
+  :ref: refinishing
+- :name: Roof Inspectors
+  :ref: roofinspectors
+- :name: Roofing
+  :ref: roofing
+- :name: Sauna Installation & Repair
+  :ref: saunainstallation
+- :name: Security Systems
+  :ref: securitysystems
+- :name: Shades & Blinds
+  :ref: blinds
+- :name: Shutters
+  :ref: shutters
+- :name: Siding
+  :ref: vinylsiding
+- :name: Solar Installation
+  :ref: solarinstallation
+- :name: Solar Panel Cleaning
+  :ref: solarpanelcleaning
+- :name: Structural Engineers
+  :ref: structuralengineers
+- :name: Stucco Services
+  :ref: stucco
+- :name: Television Service Providers
+  :ref: televisionserviceproviders
+- :name: Tiling
+  :ref: tiling
+- :name: Tree Services
+  :ref: treeservices
+- :name: Utilities
+  :ref: utilities
+- :name: Electricity Suppliers
+  :ref: electricitysuppliers
+- :name: Natural Gas Suppliers
+  :ref: naturalgassuppliers
+- :name: Water Suppliers
+  :ref: watersuppliers
+- :name: Wallpapering
+  :ref: wallpapering
+- :name: Water Heater Installation/Repair
+  :ref: waterheaterinstallrepair
+- :name: Water Purification Services
+  :ref: waterpurification
+- :name: Waterproofing
+  :ref: waterproofing
+- :name: Window Washing
+  :ref: windowwashing
+- :name: Windows Installation
+  :ref: windowsinstallation
+- :name: Hotels & Travel
+  :ref: hotelstravel
+- :name: Airports
+  :ref: airports
+- :name: Airport Terminals
+  :ref: airportterminals
+- :name: Bed & Breakfast
+  :ref: bedbreakfast
+- :name: Campgrounds
+  :ref: campgrounds
+- :name: Car Rental
+  :ref: carrental
+- :name: Guest Houses
+  :ref: guesthouses
+- :name: Health Retreats
+  :ref: healthretreats
+- :name: Hostels
+  :ref: hostels
+- :name: Hotels
+  :ref: hotels
+- :name: Mountain Huts
+  :ref: mountainhuts
+- :name: Residences
+  :ref: residences
+- :name: Rest Stops
+  :ref: reststops
+- :name: Motorcycle Rental
+  :ref: motorcycle_rental
+- :name: RV Parks
+  :ref: rvparks
+- :name: RV Rental
+  :ref: rvrental
+- :name: Resorts
+  :ref: resorts
+- :name: Ski Resorts
+  :ref: skiresorts
+- :name: Tours
+  :ref: tours
+- :name: Aerial Tours
+  :ref: aerialtours
+- :name: Architectural Tours
+  :ref: architecturaltours
+- :name: Art Tours
+  :ref: arttours
+- :name: Beer Tours
+  :ref: beertours
+- :name: Bike tours
+  :ref: biketours
+- :name: Boat Tours
+  :ref: boattours
+- :name: Bus Tours
+  :ref: bustours
+- :name: Food Tours
+  :ref: foodtours
+- :name: Historical Tours
+  :ref: historicaltours
+- :name: Scooter Tours
+  :ref: scootertours
+- :name: Walking Tours
+  :ref: walkingtours
+- :name: Whale Watching Tours
+  :ref: whalewatchingtours
+- :name: Wine Tours
+  :ref: winetours
+- :name: Train Stations
+  :ref: trainstations
+- :name: Transportation
+  :ref: transport
+- :name: Airlines
+  :ref: airlines
+- :name: Airport Shuttles
+  :ref: airport_shuttles
+- :name: Bike Sharing
+  :ref: bikesharing
+- :name: Bus Stations
+  :ref: busstations
+- :name: Buses
+  :ref: buses
+- :name: Cable Cars
+  :ref: cablecars
+- :name: Ferries
+  :ref: ferries
+- :name: Limos
+  :ref: limos
+- :name: Metro Stations
+  :ref: metrostations
+- :name: Pedicabs
+  :ref: pedicabs
+- :name: Private Jet Charter
+  :ref: privatejetcharter
+- :name: Public Transportation
+  :ref: publictransport
+- :name: Taxis
+  :ref: taxis
+- :name: Town Car Service
+  :ref: towncarservice
+- :name: Trains
+  :ref: trains
+- :name: Travel Services
+  :ref: travelservices
+- :name: Luggage Storage
+  :ref: luggagestorage
+- :name: Passport & Visa Services
+  :ref: passportvisaservices
+- :name: Travel Agents
+  :ref: travelagents
+- :name: Visitor Centers
+  :ref: visitorcenters
+- :name: Vacation Rental Agents
+  :ref: vacationrentalagents
+- :name: Vacation Rentals
+  :ref: vacation_rentals
+- :name: Local Flavor
+  :ref: localflavor
+- :name: Parklets
+  :ref: parklets
+- :name: Public Art
+  :ref: publicart
+- :name: Unofficial Yelp Events
+  :ref: unofficialyelpevents
+- :name: Yelp Events
+  :ref: yelpevents
+- :name: Local Services
+  :ref: localservices
+- :name: 3D Printing
+  :ref: 3dprinting
+- :name: Adoption Services
+  :ref: adoptionservices
+- :name: Air Duct Cleaning
+  :ref: airductcleaning
+- :name: Appliances & Repair
+  :ref: homeappliancerepair
+- :name: Appraisal Services
+  :ref: appraisalservices
+- :name: Art Installation
+  :ref: artinstallation
+- :name: Art Restoration
+  :ref: artrestoration
+- :name: Awnings
+  :ref: awnings
+- :name: Bail Bondsmen
+  :ref: bailbondsmen
+- :name: Bike Repair/Maintenance
+  :ref: bike_repair_maintenance
+- :name: Biohazard Cleanup
+  :ref: biohazardcleanup
+- :name: Bookbinding
+  :ref: bookbinding
+- :name: Bus Rental
+  :ref: busrental
+- :name: Calligraphy
+  :ref: calligraphy
+- :name: Carpet Cleaning
+  :ref: carpet_cleaning
+- :name: Carpet Dyeing
+  :ref: carpetdyeing
+- :name: Child Care & Day Care
+  :ref: childcare
+- :name: Clock Repair
+  :ref: clockrepair
+- :name: Community Book Box
+  :ref: communitybookbox
+- :name: Community Gardens
+  :ref: communitygardens
+- :name: Community Service/Non-Profit
+  :ref: nonprofit
+- :name: Food Banks
+  :ref: foodbanks
+- :name: Homeless Shelters
+  :ref: homelessshelters
+- :name: Couriers & Delivery Services
+  :ref: couriers
+- :name: Crane Services
+  :ref: craneservices
+- :name: Donation Center
+  :ref: donationcenter
+- :name: Elder Care Planning
+  :ref: eldercareplanning
+- :name: Electronics Repair
+  :ref: electronicsrepair
+- :name: Elevator Services
+  :ref: elevatorservices
+- :name: Engraving
+  :ref: engraving
+- :name: Environmental Abatement
+  :ref: enviroabatement
+- :name: Environmental Testing
+  :ref: environmentaltesting
+- :name: Farm Equipment Repair
+  :ref: farmequipmentrepair
+- :name: Fingerprinting
+  :ref: fingerprinting
+- :name: Funeral Services & Cemeteries
+  :ref: funeralservices
+- :name: Cremation Services
+  :ref: cremationservices
+- :name: Mortuary Services
+  :ref: mortuaryservices
+- :name: Furniture Rental
+  :ref: rentfurniture
+- :name: Furniture Repair
+  :ref: furniturerepair
+- :name: Furniture Reupholstery
+  :ref: reupholstery
+- :name: Generator Installation/Repair
+  :ref: generatorinstallrepair
+- :name: Grill Services
+  :ref: grillservices
+- :name: Gunsmith
+  :ref: gunsmith
+- :name: Hazardous Waste Disposal
+  :ref: hazardouswastedisposal
+- :name: Hydro-jetting
+  :ref: hydrojetting
+- :name: IT Services & Computer Repair
+  :ref: itservices
+- :name: Data Recovery
+  :ref: datarecovery
+- :name: Mobile Phone Repair
+  :ref: mobilephonerepair
+- :name: Telecommunications
+  :ref: telecommunications
+- :name: Ice Delivery
+  :ref: icedelivery
+- :name: Jewelry Repair
+  :ref: jewelryrepair
+- :name: Junk Removal & Hauling
+  :ref: junkremovalandhauling
+- :name: Dumpster Rental
+  :ref: dumpsterrental
+- :name: Junkyards
+  :ref: junkyards
+- :name: Knife Sharpening
+  :ref: knifesharpening
+- :name: Laundry Services
+  :ref: laundryservices
+- :name: Dry Cleaning
+  :ref: dryclean
+- :name: Laundromat
+  :ref: laundromat
+- :name: Machine & Tool Rental
+  :ref: machinerental
+- :name: Machine Shops
+  :ref: machineshops
+- :name: Mailbox Centers
+  :ref: mailboxcenters
+- :name: Metal Detector Services
+  :ref: metaldetectorservices
+- :name: Metal Fabricators
+  :ref: metalfabricators
+- :name: Misting System Services
+  :ref: mistingsystemservices
+- :name: Musical Instrument Services
+  :ref: musicinstrumentservices
+- :name: Guitar Stores
+  :ref: guitarstores
+- :name: Piano Services
+  :ref: pianoservices
+- :name: Piano Stores
+  :ref: pianostores
+- :name: Vocal Coach
+  :ref: vocalcoach
+- :name: Nanny Services
+  :ref: nannys
+- :name: Notaries
+  :ref: notaries
+- :name: Outdoor Power Equipment Services
+  :ref: outdoorpowerequipmentservices
+- :name: Pest Control
+  :ref: pest_control
+- :name: Portable Toilet Services
+  :ref: portabletoiletservices
+- :name: Powder Coating
+  :ref: powdercoating
+- :name: Printing Services
+  :ref: copyshops
+- :name: Propane
+  :ref: propane
+- :name: Recording & Rehearsal Studios
+  :ref: recording_studios
+- :name: Recycling Center
+  :ref: recyclingcenter
+- :name: Sandblasting
+  :ref: sandblasting
+- :name: Screen Printing
+  :ref: screenprinting
+- :name: Screen Printing/T-Shirt Printing
+  :ref: screen_printing_tshirt_printing
+- :name: Self Storage
+  :ref: selfstorage
+- :name: Septic Services
+  :ref: septicservices
+- :name: Sewing & Alterations
+  :ref: sewingalterations
+- :name: Shipping Centers
+  :ref: shipping_centers
+- :name: Shoe Repair
+  :ref: shoerepair
+- :name: Shoe Shine
+  :ref: shoeshine
+- :name: Snow Removal
+  :ref: snowremoval
+- :name: Snuggle Services
+  :ref: snuggleservices
+- :name: Stonemasons
+  :ref: stonemasons
+- :name: TV Mounting
+  :ref: tvmounting
+- :name: Watch Repair
+  :ref: watch_repair
+- :name: Water Delivery
+  :ref: waterdelivery
+- :name: Well Drilling
+  :ref: welldrilling
+- :name: Wildlife Control
+  :ref: wildlifecontrol
+- :name: Mass Media
+  :ref: massmedia
+- :name: Print Media
+  :ref: printmedia
+- :name: Radio Stations
+  :ref: radiostations
+- :name: Television Stations
+  :ref: televisionstations
+- :name: Nightlife
+  :ref: nightlife
+- :name: Adult Entertainment
+  :ref: adultentertainment
+- :name: Strip Clubs
+  :ref: stripclubs
+- :name: Striptease Dancers
+  :ref: stripteasedancers
+- :name: Bar Crawl
+  :ref: barcrawl
+- :name: Bars
+  :ref: bars
+- :name: Airport Lounges
+  :ref: airportlounges
+- :name: Beer Bar
+  :ref: beerbar
+- :name: Champagne Bars
+  :ref: champagne_bars
+- :name: Cigar Bars
+  :ref: cigarbars
+- :name: Cocktail Bars
+  :ref: cocktailbars
+- :name: Dive Bars
+  :ref: divebars
+- :name: Drive-Thru Bars
+  :ref: drivethrubars
+- :name: Gay Bars
+  :ref: gaybars
+- :name: Hookah Bars
+  :ref: hookah_bars
+- :name: Irish Pub
+  :ref: irish_pubs
+- :name: Lounges
+  :ref: lounges
+- :name: Pubs
+  :ref: pubs
+- :name: Speakeasies
+  :ref: speakeasies
+- :name: Sports Bars
+  :ref: sportsbars
+- :name: Tiki Bars
+  :ref: tikibars
+- :name: Vermouth Bars
+  :ref: vermouthbars
+- :name: Whiskey Bars
+  :ref: whiskeybars
+- :name: Wine Bars
+  :ref: wine_bars
+- :name: Beer Gardens
+  :ref: beergardens
+- :name: Club Crawl
+  :ref: clubcrawl
+- :name: Comedy Clubs
+  :ref: comedyclubs
+- :name: Country Dance Halls
+  :ref: countrydancehalls
+- :name: Dance Clubs
+  :ref: danceclubs
+- :name: Jazz & Blues
+  :ref: jazzandblues
+- :name: Karaoke
+  :ref: karaoke
+- :name: Music Venues
+  :ref: musicvenues
+- :name: Piano Bars
+  :ref: pianobars
+- :name: Pool Halls
+  :ref: poolhalls
+- :name: Pets
+  :ref: pets
+- :name: Animal Shelters
+  :ref: animalshelters
+- :name: Horse Boarding
+  :ref: horse_boarding
+- :name: Pet Adoption
+  :ref: petadoption
+- :name: Pet Services
+  :ref: petservices
+- :name: Animal Physical Therapy
+  :ref: animalphysicaltherapy
+- :name: Aquarium Services
+  :ref: aquariumservices
+- :name: Dog Walkers
+  :ref: dogwalkers
+- :name: Emergency Pet Hospital
+  :ref: emergencypethospital
+- :name: Farriers
+  :ref: farriers
+- :name: Holistic Animal Care
+  :ref: animalholistic
+- :name: Pet Breeders
+  :ref: petbreeders
+- :name: Pet Cremation Services
+  :ref: petcremation
+- :name: Pet Groomers
+  :ref: groomer
+- :name: Pet Hospice
+  :ref: pethospice
+- :name: Pet Insurance
+  :ref: petinsurance
+- :name: Pet Photography
+  :ref: petphotography
+- :name: Pet Sitting
+  :ref: pet_sitting
+- :name: Pet Boarding
+  :ref: petboarding
+- :name: Pet Training
+  :ref: pet_training
+- :name: Pet Transportation
+  :ref: pettransport
+- :name: Pet Waste Removal
+  :ref: petwasteremoval
+- :name: Pet Stores
+  :ref: petstore
+- :name: Bird Shops
+  :ref: birdshops
+- :name: Local Fish Stores
+  :ref: localfishstores
+- :name: Reptile Shops
+  :ref: reptileshops
+- :name: Veterinarians
+  :ref: vet
+- :name: Professional Services
+  :ref: professional
+- :name: Accountants
+  :ref: accountants
+- :name: Advertising
+  :ref: advertising
+- :name: Architects
+  :ref: architects
+- :name: Art Consultants
+  :ref: artconsultants
+- :name: Billing Services
+  :ref: billingservices
+- :name: Boat Repair
+  :ref: boatrepair
+- :name: Bookkeepers
+  :ref: bookkeepers
+- :name: Business Consulting
+  :ref: businessconsulting
+- :name: Career Counseling
+  :ref: careercounseling
+- :name: Commissioned Artists
+  :ref: commissionedartists
+- :name: Customs Brokers
+  :ref: customsbrokers
+- :name: Digitizing Services
+  :ref: digitizingservices
+- :name: Duplication Services
+  :ref: duplicationservices
+- :name: Editorial Services
+  :ref: editorialservices
+- :name: Employment Agencies
+  :ref: employmentagencies
+- :name: Feng Shui
+  :ref: fengshui
+- :name: Graphic Design
+  :ref: graphicdesign
+- :name: Indoor Landscaping
+  :ref: indoorlandscaping
+- :name: Internet Service Providers
+  :ref: isps
+- :name: Lawyers
+  :ref: lawyers
+- :name: Bankruptcy Law
+  :ref: bankruptcy
+- :name: Business Law
+  :ref: businesslawyers
+- :name: Consumer Law
+  :ref: consumerlaw
+- :name: Contract Law
+  :ref: contractlaw
+- :name: Criminal Defense Law
+  :ref: criminaldefense
+- :name: DUI Law
+  :ref: duilawyers
+- :name: Disability Law
+  :ref: disabilitylaw
+- :name: Divorce & Family Law
+  :ref: divorce
+- :name: Elder Law
+  :ref: elderlaw
+- :name: Employment Law
+  :ref: employmentlawyers
+- :name: Entertainment Law
+  :ref: entertainmentlaw
+- :name: Estate Planning Law
+  :ref: estateplanning
+- :name: Wills, Trusts, & Probates
+  :ref: willstrustsprobates
+- :name: General Litigation
+  :ref: general_litigation
+- :name: IP & Internet Law
+  :ref: iplaw
+- :name: Immigration Law
+  :ref: immigrationlawyers
+- :name: Medical Law
+  :ref: medicallaw
+- :name: Personal Injury Law
+  :ref: personal_injury
+- :name: Real Estate Law
+  :ref: realestatelawyers
+- :name: Social Security Law
+  :ref: socialsecuritylaw
+- :name: Tax Law
+  :ref: taxlaw
+- :name: Traffic Ticketing Law
+  :ref: trafficticketinglaw
+- :name: Workers Compensation Law
+  :ref: workerscomplaw
+- :name: Legal Services
+  :ref: legalservices
+- :name: Court Reporters
+  :ref: courtreporters
+- :name: Process Servers
+  :ref: processservers
+- :name: Life Coach
+  :ref: lifecoach
+- :name: Marketing
+  :ref: marketing
+- :name: Matchmakers
+  :ref: matchmakers
+- :name: Mediators
+  :ref: mediators
+- :name: Music Production Services
+  :ref: musicproduction
+- :name: Office Cleaning
+  :ref: officecleaning
+- :name: Patent Law
+  :ref: patentlaw
+- :name: Payroll Services
+  :ref: payroll
+- :name: Personal Assistants
+  :ref: personalassistants
+- :name: Private Investigation
+  :ref: privateinvestigation
+- :name: Product Design
+  :ref: productdesign
+- :name: Public Adjusters
+  :ref: publicadjusters
+- :name: Public Relations
+  :ref: publicrelations
+- :name: Security Services
+  :ref: security
+- :name: Shredding Services
+  :ref: shredding
+- :name: Signmaking
+  :ref: signmaking
+- :name: Software Development
+  :ref: softwaredevelopment
+- :name: Talent Agencies
+  :ref: talentagencies
+- :name: Taxidermy
+  :ref: taxidermy
+- :name: Tenant and Eviction Law
+  :ref: tenantlaw
+- :name: Translation Services
+  :ref: translationservices
+- :name: Video/Film Production
+  :ref: videofilmproductions
+- :name: Web Design
+  :ref: web_design
+- :name: Wholesalers
+  :ref: wholesalers
+- :name: Restaurant Supplies
+  :ref: suppliesrestaurant
+- :name: Public Services & Government
+  :ref: publicservicesgovt
+- :name: Civic Center
+  :ref: civiccenter
+- :name: Community Centers
+  :ref: communitycenters
+- :name: Courthouses
+  :ref: courthouses
+- :name: Departments of Motor Vehicles
+  :ref: departmentsofmotorvehicles
+- :name: Embassy
+  :ref: embassy
+- :name: Fire Departments
+  :ref: firedepartments
+- :name: Jails & Prisons
+  :ref: jailsandprisons
+- :name: Landmarks & Historical Buildings
+  :ref: landmarks
+- :name: Libraries
+  :ref: libraries
+- :name: Municipality
+  :ref: municipality
+- :name: Police Departments
+  :ref: policedepartments
+- :name: Post Offices
+  :ref: postoffices
+- :name: Town Hall
+  :ref: townhall
+- :name: Real Estate
+  :ref: realestate
+- :name: Apartments
+  :ref: apartments
+- :name: Art Space Rentals
+  :ref: artspacerentals
+- :name: Commercial Real Estate
+  :ref: commercialrealestate
+- :name: Condominiums
+  :ref: condominiums
+- :name: Estate Liquidation
+  :ref: estateliquidation
+- :name: Home Developers
+  :ref: homedevelopers
+- :name: Home Staging
+  :ref: homestaging
+- :name: Homeowner Association
+  :ref: homeownerassociation
+- :name: Housing Cooperatives
+  :ref: housingcooperatives
+- :name: Kitchen Incubators
+  :ref: kitchenincubators
+- :name: Mobile Home Dealers
+  :ref: mobilehomes
+- :name: Mobile Home Parks
+  :ref: mobileparks
+- :name: Mortgage Brokers
+  :ref: mortgagebrokers
+- :name: Property Management
+  :ref: propertymgmt
+- :name: Real Estate Agents
+  :ref: realestateagents
+- :name: Apartment Agents
+  :ref: apartmentagents
+- :name: Real Estate Services
+  :ref: realestatesvcs
+- :name: Land Surveying
+  :ref: landsurveying
+- :name: Real Estate Photography
+  :ref: estatephotography
+- :name: Shared Office Spaces
+  :ref: sharedofficespaces
+- :name: University Housing
+  :ref: university_housing
+- :name: Religious Organizations
+  :ref: religiousorgs
+- :name: Buddhist Temples
+  :ref: buddhist_temples
+- :name: Churches
+  :ref: churches
+- :name: Hindu Temples
+  :ref: hindu_temples
+- :name: Mosques
+  :ref: mosques
+- :name: Sikh Temples
+  :ref: sikhtemples
+- :name: Synagogues
+  :ref: synagogues
+- :name: Restaurants
+  :ref: restaurants
+- :name: Afghan
+  :ref: afghani
+- :name: African
+  :ref: african
+- :name: Senegalese
+  :ref: senegalese
+- :name: South African
+  :ref: southafrican
+- :name: American (New)
+  :ref: newamerican
+- :name: American (Traditional)
+  :ref: tradamerican
+- :name: Arabian
+  :ref: arabian
+- :name: Argentine
+  :ref: argentine
+- :name: Armenian
+  :ref: armenian
+- :name: Asian Fusion
+  :ref: asianfusion
+- :name: Australian
+  :ref: australian
+- :name: Austrian
+  :ref: austrian
+- :name: Bangladeshi
+  :ref: bangladeshi
+- :name: Barbeque
+  :ref: bbq
+- :name: Basque
+  :ref: basque
+- :name: Belgian
+  :ref: belgian
+- :name: Brasseries
+  :ref: brasseries
+- :name: Brazilian
+  :ref: brazilian
+- :name: Breakfast & Brunch
+  :ref: breakfast_brunch
+- :name: Pancakes
+  :ref: pancakes
+- :name: British
+  :ref: british
+- :name: Buffets
+  :ref: buffets
+- :name: Bulgarian
+  :ref: bulgarian
+- :name: Burgers
+  :ref: burgers
+- :name: Burmese
+  :ref: burmese
+- :name: Cafes
+  :ref: cafes
+- :name: Themed Cafes
+  :ref: themedcafes
+- :name: Cafeteria
+  :ref: cafeteria
+- :name: Cajun/Creole
+  :ref: cajun
+- :name: Cambodian
+  :ref: cambodian
+- :name: Caribbean
+  :ref: caribbean
+- :name: Dominican
+  :ref: dominican
+- :name: Haitian
+  :ref: haitian
+- :name: Puerto Rican
+  :ref: puertorican
+- :name: Trinidadian
+  :ref: trinidadian
+- :name: Catalan
+  :ref: catalan
+- :name: Cheesesteaks
+  :ref: cheesesteaks
+- :name: Chicken Shop
+  :ref: chickenshop
+- :name: Chicken Wings
+  :ref: chicken_wings
+- :name: Chinese
+  :ref: chinese
+- :name: Cantonese
+  :ref: cantonese
+- :name: Dim Sum
+  :ref: dimsum
+- :name: Hainan
+  :ref: hainan
+- :name: Shanghainese
+  :ref: shanghainese
+- :name: Szechuan
+  :ref: szechuan
+- :name: Comfort Food
+  :ref: comfortfood
+- :name: Creperies
+  :ref: creperies
+- :name: Cuban
+  :ref: cuban
+- :name: Czech
+  :ref: czech
+- :name: Delis
+  :ref: delis
+- :name: Diners
+  :ref: diners
+- :name: Dinner Theater
+  :ref: dinnertheater
+- :name: Eritrean
+  :ref: eritrean
+- :name: Ethiopian
+  :ref: ethiopian
+- :name: Fast Food
+  :ref: hotdogs
+- :name: Filipino
+  :ref: filipino
+- :name: Fish & Chips
+  :ref: fishnchips
+- :name: Fondue
+  :ref: fondue
+- :name: Food Court
+  :ref: food_court
+- :name: Food Stands
+  :ref: foodstands
+- :name: French
+  :ref: french
+- :name: Mauritius
+  :ref: mauritius
+- :name: Reunion
+  :ref: reunion
+- :name: Game Meat
+  :ref: gamemeat
+- :name: Gastropubs
+  :ref: gastropubs
+- :name: Georgian
+  :ref: georgian
+- :name: German
+  :ref: german
+- :name: Gluten-Free
+  :ref: gluten_free
+- :name: Greek
+  :ref: greek
+- :name: Guamanian
+  :ref: guamanian
+- :name: Halal
+  :ref: halal
+- :name: Hawaiian
+  :ref: hawaiian
+- :name: Himalayan/Nepalese
+  :ref: himalayan
+- :name: Honduran
+  :ref: honduran
+- :name: Hong Kong Style Cafe
+  :ref: hkcafe
+- :name: Hot Dogs
+  :ref: hotdog
+- :name: Hot Pot
+  :ref: hotpot
+- :name: Hungarian
+  :ref: hungarian
+- :name: Iberian
+  :ref: iberian
+- :name: Indian
+  :ref: indpak
+- :name: Indonesian
+  :ref: indonesian
+- :name: Irish
+  :ref: irish
+- :name: Italian
+  :ref: italian
+- :name: Calabrian
+  :ref: calabrian
+- :name: Sardinian
+  :ref: sardinian
+- :name: Sicilian
+  :ref: sicilian
+- :name: Tuscan
+  :ref: tuscan
+- :name: Japanese
+  :ref: japanese
+- :name: Conveyor Belt Sushi
+  :ref: conveyorsushi
+- :name: Izakaya
+  :ref: izakaya
+- :name: Japanese Curry
+  :ref: japacurry
+- :name: Ramen
+  :ref: ramen
+- :name: Teppanyaki
+  :ref: teppanyaki
+- :name: Kebab
+  :ref: kebab
+- :name: Korean
+  :ref: korean
+- :name: Kosher
+  :ref: kosher
+- :name: Laotian
+  :ref: laotian
+- :name: Latin American
+  :ref: latin
+- :name: Colombian
+  :ref: colombian
+- :name: Salvadoran
+  :ref: salvadoran
+- :name: Venezuelan
+  :ref: venezuelan
+- :name: Live/Raw Food
+  :ref: raw_food
+- :name: Malaysian
+  :ref: malaysian
+- :name: Mediterranean
+  :ref: mediterranean
+- :name: Falafel
+  :ref: falafel
+- :name: Mexican
+  :ref: mexican
+- :name: Tacos
+  :ref: tacos
+- :name: Middle Eastern
+  :ref: mideastern
+- :name: Egyptian
+  :ref: egyptian
+- :name: Lebanese
+  :ref: lebanese
+- :name: Modern European
+  :ref: modern_european
+- :name: Mongolian
+  :ref: mongolian
+- :name: Moroccan
+  :ref: moroccan
+- :name: New Mexican Cuisine
+  :ref: newmexican
+- :name: Nicaraguan
+  :ref: nicaraguan
+- :name: Noodles
+  :ref: noodles
+- :name: Pakistani
+  :ref: pakistani
+- :name: Pan Asian
+  :ref: panasian
+- :name: Persian/Iranian
+  :ref: persian
+- :name: Peruvian
+  :ref: peruvian
+- :name: Pizza
+  :ref: pizza
+- :name: Polish
+  :ref: polish
+- :name: Polynesian
+  :ref: polynesian
+- :name: Pop-Up Restaurants
+  :ref: popuprestaurants
+- :name: Portuguese
+  :ref: portuguese
+- :name: Poutineries
+  :ref: poutineries
+- :name: Russian
+  :ref: russian
+- :name: Salad
+  :ref: salad
+- :name: Sandwiches
+  :ref: sandwiches
+- :name: Scandinavian
+  :ref: scandinavian
+- :name: Scottish
+  :ref: scottish
+- :name: Seafood
+  :ref: seafood
+- :name: Singaporean
+  :ref: singaporean
+- :name: Slovakian
+  :ref: slovakian
+- :name: Somali
+  :ref: somali
+- :name: Soul Food
+  :ref: soulfood
+- :name: Soup
+  :ref: soup
+- :name: Southern
+  :ref: southern
+- :name: Spanish
+  :ref: spanish
+- :name: Sri Lankan
+  :ref: srilankan
+- :name: Steakhouses
+  :ref: steak
+- :name: Supper Clubs
+  :ref: supperclubs
+- :name: Sushi Bars
+  :ref: sushi
+- :name: Syrian
+  :ref: syrian
+- :name: Taiwanese
+  :ref: taiwanese
+- :name: Tapas Bars
+  :ref: tapas
+- :name: Tapas/Small Plates
+  :ref: tapasmallplates
+- :name: Tex-Mex
+  :ref: tex-mex
+- :name: Thai
+  :ref: thai
+- :name: Turkish
+  :ref: turkish
+- :name: Ukrainian
+  :ref: ukrainian
+- :name: Uzbek
+  :ref: uzbek
+- :name: Vegan
+  :ref: vegan
+- :name: Vegetarian
+  :ref: vegetarian
+- :name: Vietnamese
+  :ref: vietnamese
+- :name: Waffles
+  :ref: waffles
+- :name: Wraps
+  :ref: wraps
+- :name: Shopping
+  :ref: shopping
+- :name: Adult
+  :ref: adult
+- :name: Antiques
+  :ref: antiques
+- :name: Art Galleries
+  :ref: galleries
+- :name: Arts & Crafts
+  :ref: artsandcrafts
+- :name: Art Supplies
+  :ref: artsupplies
+- :name: Cards & Stationery
+  :ref: stationery
+- :name: Cooking Classes
+  :ref: cookingclasses
+- :name: Costumes
+  :ref: costumes
+- :name: Embroidery & Crochet
+  :ref: embroideryandcrochet
+- :name: Fabric Stores
+  :ref: fabricstores
+- :name: Framing
+  :ref: framing
+- :name: Paint-Your-Own Pottery
+  :ref: paintyourownpottery
+- :name: Auction Houses
+  :ref: auctionhouses
+- :name: Baby Gear & Furniture
+  :ref: baby_gear
+- :name: Battery Stores
+  :ref: batterystores
+- :name: Bespoke Clothing
+  :ref: bespoke
+- :name: Books, Mags, Music & Video
+  :ref: media
+- :name: Bookstores
+  :ref: bookstores
+- :name: Comic Books
+  :ref: comicbooks
+- :name: Music & DVDs
+  :ref: musicvideo
+- :name: Newspapers & Magazines
+  :ref: mags
+- :name: Video Game Stores
+  :ref: videogamestores
+- :name: Videos & Video Game Rental
+  :ref: videoandgames
+- :name: Vinyl Records
+  :ref: vinyl_records
+- :name: Brewing Supplies
+  :ref: brewingsupplies
+- :name: Bridal
+  :ref: bridal
+- :name: Cannabis Dispensaries
+  :ref: cannabisdispensaries
+- :name: Computers
+  :ref: computers
+- :name: Cosmetics & Beauty Supply
+  :ref: cosmetics
+- :name: Customized Merchandise
+  :ref: custommerchandise
+- :name: Department Stores
+  :ref: deptstores
+- :name: Diamond Buyers
+  :ref: diamondbuyers
+- :name: Discount Store
+  :ref: discountstore
+- :name: Drones
+  :ref: drones
+- :name: Drugstores
+  :ref: drugstores
+- :name: Duty-Free Shops
+  :ref: dutyfreeshops
+- :name: Electronics
+  :ref: electronics
+- :name: Eyewear & Opticians
+  :ref: opticians
+- :name: Sunglasses
+  :ref: sunglasses
+- :name: Farming Equipment
+  :ref: farmingequipment
+- :name: Fashion
+  :ref: fashion
+- :name: Accessories
+  :ref: accessories
+- :name: Ceremonial Clothing
+  :ref: ceremonialclothing
+- :name: Children's Clothing
+  :ref: childcloth
+- :name: Clothing Rental
+  :ref: clothingrental
+- :name: Department Stores
+  :ref: deptstores
+- :name: Formal Wear
+  :ref: formalwear
+- :name: Fur Clothing
+  :ref: furclothing
+- :name: Hats
+  :ref: hats
+- :name: Leather Goods
+  :ref: leather
+- :name: Lingerie
+  :ref: lingerie
+- :name: Maternity Wear
+  :ref: maternity
+- :name: Men's Clothing
+  :ref: menscloth
+- :name: Plus Size Fashion
+  :ref: plus_size_fashion
+- :name: Shoe Stores
+  :ref: shoes
+- :name: Sports Wear
+  :ref: sportswear
+- :name: Dance Wear
+  :ref: dancewear
+- :name: Surf Shop
+  :ref: surfshop
+- :name: Swimwear
+  :ref: swimwear
+- :name: Traditional Clothing
+  :ref: tradclothing
+- :name: Used, Vintage & Consignment
+  :ref: vintage
+- :name: Women's Clothing
+  :ref: womenscloth
+- :name: Fireworks
+  :ref: fireworks
+- :name: Fitness/Exercise Equipment
+  :ref: fitnessequipment
+- :name: Flea Markets
+  :ref: fleamarkets
+- :name: Flowers & Gifts
+  :ref: flowers
+- :name: Cards & Stationery
+  :ref: stationery
+- :name: Florists
+  :ref: florists
+- :name: Gift Shops
+  :ref: giftshops
+- :name: Gemstones & Minerals
+  :ref: gemstonesandminerals
+- :name: Gold Buyers
+  :ref: goldbuyers
+- :name: Guns & Ammo
+  :ref: guns_and_ammo
+- :name: Head Shops
+  :ref: headshops
+- :name: High Fidelity Audio Equipment
+  :ref: hifi
+- :name: Hobby Shops
+  :ref: hobbyshops
+- :name: Home & Garden
+  :ref: homeandgarden
+- :name: Appliances
+  :ref: appliances
+- :name: Candle Stores
+  :ref: candlestores
+- :name: Christmas Trees
+  :ref: christmastrees
+- :name: Furniture Stores
+  :ref: furniture
+- :name: Grilling Equipment
+  :ref: grillingequipment
+- :name: Hardware Stores
+  :ref: hardware
+- :name: Holiday Decorations
+  :ref: holidaydecorations
+- :name: Home Decor
+  :ref: homedecor
+- :name: Hot Tub & Pool
+  :ref: hottubandpool
+- :name: Kitchen & Bath
+  :ref: kitchenandbath
+- :name: Kitchen Supplies
+  :ref: kitchensupplies
+- :name: Lighting Stores
+  :ref: lightingstores
+- :name: Mattresses
+  :ref: mattresses
+- :name: Nurseries & Gardening
+  :ref: gardening
+- :name: Hydroponics
+  :ref: hydroponics
+- :name: Outdoor Furniture Stores
+  :ref: outdoorfurniture
+- :name: Paint Stores
+  :ref: paintstores
+- :name: Playsets
+  :ref: playsets
+- :name: Pumpkin Patches
+  :ref: pumpkinpatches
+- :name: Rugs
+  :ref: rugs
+- :name: Sheds & Outdoor Storage
+  :ref: shedsandoutdoorstorage
+- :name: Tableware
+  :ref: tableware
+- :name: Horse Equipment Shops
+  :ref: horsequipment
+- :name: Jewelry
+  :ref: jewelry
+- :name: Knitting Supplies
+  :ref: knittingsupplies
+- :name: Livestock Feed & Supply
+  :ref: livestocksupply
+- :name: Luggage
+  :ref: luggage
+- :name: Medical Supplies
+  :ref: medicalsupplies
+- :name: Military Surplus
+  :ref: militarysurplus
+- :name: Mobile Phone Accessories
+  :ref: cellphoneaccessories
+- :name: Mobile Phones
+  :ref: mobilephones
+- :name: Motorcycle Gear
+  :ref: motorcyclinggear
+- :name: Musical Instruments & Teachers
+  :ref: musicalinstrumentsandteachers
+- :name: Office Equipment
+  :ref: officeequipment
+- :name: Outlet Stores
+  :ref: outlet_stores
+- :name: Packing Supplies
+  :ref: packingsupplies
+- :name: Pawn Shops
+  :ref: pawn
+- :name: Perfume
+  :ref: perfume
+- :name: Personal Shopping
+  :ref: personal_shopping
+- :name: Photography Stores & Services
+  :ref: photographystores
+- :name: Pool & Billiards
+  :ref: poolbilliards
+- :name: Pop-up Shops
+  :ref: popupshops
+- :name: Props
+  :ref: props
+- :name: Public Markets
+  :ref: publicmarkets
+- :name: Religious Items
+  :ref: religiousitems
+- :name: Safe Stores
+  :ref: safestores
+- :name: Safety Equipment
+  :ref: safetyequipment
+- :name: Shopping Centers
+  :ref: shoppingcenters
+- :name: Souvenir Shops
+  :ref: souvenirs
+- :name: Spiritual Shop
+  :ref: spiritual_shop
+- :name: Sporting Goods
+  :ref: sportgoods
+- :name: Bikes
+  :ref: bikes
+- :name: Dive Shops
+  :ref: diveshops
+- :name: Golf Equipment
+  :ref: golfequipment
+- :name: Hockey Equipment
+  :ref: hockeyequipment
+- :name: Hunting & Fishing Supplies
+  :ref: huntingfishingsupplies
+- :name: Outdoor Gear
+  :ref: outdoorgear
+- :name: Skate Shops
+  :ref: skateshops
+- :name: Ski & Snowboard Shops
+  :ref: skishops
+- :name: Sports Wear
+  :ref: sportswear
+- :name: Dance Wear
+  :ref: dancewear
+- :name: Tabletop Games
+  :ref: tabletopgames
+- :name: Teacher Supplies
+  :ref: teachersupplies
+- :name: Thrift Stores
+  :ref: thrift_stores
+- :name: Tobacco Shops
+  :ref: tobaccoshops
+- :name: Toy Stores
+  :ref: toys
+- :name: Trophy Shops
+  :ref: trophyshops
+- :name: Uniforms
+  :ref: uniforms
+- :name: Used Bookstore
+  :ref: usedbooks
+- :name: Vape Shops
+  :ref: vapeshops
+- :name: Vitamins & Supplements
+  :ref: vitaminssupplements
+- :name: Watches
+  :ref: watches
+- :name: Wholesale Stores
+  :ref: wholesale_stores
+- :name: Wigs
+  :ref: wigs

@@ -211,7 +211,6 @@ class YelpBusiness
     review_blocks.each do |review_block|
       body = review_block.match(/(?<=<p lang=\"en\">).*?(?=<\/p>)/m)
       body = body ? body[0] : nil
-      body.gsub!(' ', ' ')
 
       score = review_block.match(/(?<=title=\").*?(?= star rating\")/m)
       score = score ? score[0] : nil
@@ -306,7 +305,6 @@ class YelpBusiness
     s = s3.bucket('yawp-app').object("bphoto/#{image_id}/s.jpg")
     s.upload_file('s.jpg', acl:'public-read')
   end
-
 end
 
 url = ARGV[0]
