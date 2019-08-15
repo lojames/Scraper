@@ -7,7 +7,7 @@ require 'aws-sdk-s3'
 require 'yaml'
 require_relative 'api_keys'
 
-class YelpBusinessScraper
+class YelpBusiness
   def initialize(url)
     @source = open(url,
       "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36").read
@@ -242,12 +242,22 @@ class YelpBusinessScraper
     end
   end
 
+  # Scrapes between 4 and 8 images from the images_url which should be in the
+  # format: https://www.yelp.com/biz_photos/#{@yelp_id}.  Each image is copied
+  # and scaled (for thumbnails) and then uploaded to the yawp-app s3 bucket.
+  # Relevant data about the image are stored in instance variables.
   def get_images(images_url)
     image_source = open(images_url,
       "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36").read
     num_images = 4+rand(5)
+
+    # Split up the image source file into blocks containing each individual
+    # image data.
+    # MAY NEED CHANGES IF YELP FORMATTING CHANGES
     image_blocks = image_source.scan(/(?<=<li data-photo-id=").*?(?=<\/li>)/m)
     (0..num_images).each do |i|
+
+      # MAY NEED CHANGES IF YELP FORMATTING CHANGES
       image_id = image_blocks[i].split('"').first
       s3_url = "https://s3-media4.fl.yelpcdn.com/bphoto/#{image_id}/o.jpg"
       open(s3_url) do |image|
@@ -258,29 +268,37 @@ class YelpBusinessScraper
       convert_image
       upload_image(image_id)
 
+      # Extract comments with a lookahead and lookbehind
+      # MAY NEED CHANGES IF YELP FORMATTING CHANGES
       comment = image_blocks[i].scan(/(?<=, United States.).*?(?=\" class)/m)[0]
       @images_array << image_id
       @images << {image_url: image_id, comment: comment}
     end
   end
 
-  def convert_image
+  # Rescales and centers and image to a square image of 'px' width and height
+  # and writes the newly scaled image to 's.jpg'.
+  #
+  # min_size is minimum image size (of the original image) threshhold for conversion
+  def convert_image(px = 350, min_size=400)
     image = MiniMagick::Image.open("o.jpg")
     w, h = image.dimensions
 
+    # Determine whether width or height is larger.
     x = w > h ? h : w
 
-    if x < 400.0
+    if x < min_size
       image.write("s.jpg")
     else
-      scale = 350.0/x*100
+      scale = px.fdiv(x)*100
       image.resize "%#{scale}"
       w, h = image.dimensions
-      image.crop  "350x350+#{(w-350)/2.0}+#{(h-350)/2.0}"
+      image.crop  "#{px}x#{px}+#{(w-px)/2.0}+#{(h-px)/2.0}"
       image.write("s.jpg")
     end
   end
 
+  # Uploads 'o.jpg' and 's.jpg' to the yawp-app s3 bucket.
   def upload_image(image_id)
     s3 = Aws::S3::Resource.new(region:'us-east-1')
     o = s3.bucket('yawp-app').object("bphoto/#{image_id}/o.jpg")
@@ -292,8 +310,8 @@ class YelpBusinessScraper
 end
 
 url = ARGV[0]
-if YelpBusinessScraper.valid_url? (url)
-  business = YelpBusinessScraper.new(url)
+if YelpBusiness.valid_url? (url)
+  business = YelpBusiness.new(url)
   puts business.to_s
   business.to_yaml
 else

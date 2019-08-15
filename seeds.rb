@@ -37,7 +37,11 @@ data.values.each do |b|
   end
 
   b.business_categories.each do |c|
-    BusinessCategory.create(business_id: businesses.last.id, category_id: Category.where("ref = #{c}")
+    BusinessCategory.create(business_id: businesses.last.id, category_id: Category.where("ref = #{c}").first.id
+  end
+
+  b.business_properties.each do |p|
+    
   end
 
 end
