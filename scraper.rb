@@ -1,3 +1,13 @@
+# Scrapes Yelp business pages for relevant data for use in Yawp.
+#
+# An unlimited number of arguments (valid yelp business urls) can be given for
+# scraping. Images are automatically uploaded to AWS S3 and all data is
+# extracted to data.yaml.
+#
+# Note: there seems to be a < 2% error rate.  When an error occurs, manually
+# remove any arguments that have been processed and continue scraping with the
+# next business.
+
 require 'open-uri'
 require 'json'
 require 'set'
@@ -7,6 +17,9 @@ require 'aws-sdk-s3'
 require 'yaml'
 require_relative 'api_keys'
 
+# Represents a YelpBusiness containing the vast majority of data for the purpose of
+# seeding Yawp-app.
+#
 class YelpBusiness
   def initialize(url, businesses = YAML.load_file("data.yaml"))
     @source = open(url,
@@ -117,6 +130,7 @@ class YelpBusiness
   end
 
   private
+  # Gets location from the address using google's geoencoding service.
   def get_coordinates
     street_address = @street_address.split.join('+')
     city = @city.split.join('+')
@@ -128,6 +142,7 @@ class YelpBusiness
     @longitude = response_hsh["results"][0]["geometry"]["location"]["lng"]
   end
 
+  # Extracts unique category references into an array.
   def get_categories
     top_level_categories = @source.scan(/(?<=\"top_level_categories\": \[).*?(?=\])/m)[0]
     top_level_categories = top_level_categories.split('"').last.split(',').map {|s| s.strip}
@@ -139,6 +154,8 @@ class YelpBusiness
     @business_categories = categories.uniq
   end
 
+  # Extract business properties into an array of arrays where arr[0] = day and
+  # arr[1] hours.
   def get_hours
     business_hours_table = @source.scan(/<tbody.*<\/tbody>/m)[0]
     @business_hours = []
@@ -176,6 +193,8 @@ class YelpBusiness
     @business_hours << [key, value] unless value.include?("ours")
   end
 
+  # Extract business properties into an array of arrays where arr[0] = key and
+  # arr[1] value.
   def get_properties
     business_properties_table = @source.scan(/<div class=\"short-def-list\">.*?<\/div>/m)[0]
 
@@ -208,6 +227,8 @@ class YelpBusiness
     end
   end
 
+  # Scrapes between 4 and 16 reviews.  Amends any images that have been processed
+  # by adding the current review's data (for cross-reference).
   def get_reviews
     num_reviews = 4+rand(12)
     review_blocks = @source.split("<div class=\"review-content\">")[1..num_reviews]

@@ -1,3 +1,6 @@
+# Source text taken from 'https://www.yelp.com/developers/documentation/v3/category_list'.
+# Generates an array of Categories where each object is a k:v pair of name: reference.
+
 require 'yaml'
 
 source = %Q[Active Life (active)

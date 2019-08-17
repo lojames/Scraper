@@ -1,5 +1,6 @@
 require 'yaml'
 
+# The class is used as a helper to generate Users in the seed data.
 class UserGenerator
   attr_reader :first_names, :last_names
   def initialize

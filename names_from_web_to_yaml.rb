@@ -1,3 +1,6 @@
+# Sourced from lists of the most common first names and last names.  Generates
+# a YAML file that is used by the UserGenerator class.
+
 require 'yaml'
 
 first_names = %Q(

@@ -1,3 +1,6 @@
+# Deletes the last business that was added to the data file.  Somewhat obsolete
+# due to archiving, however can be useful if archived data was deleted.
+
 require 'yaml'
 require 'fileutils'
 

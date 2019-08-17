@@ -1,3 +1,5 @@
+# Generates an array of Users for use in seeding.
+
 require 'yaml'
 require_relative 'user_generator'
 
@@ -14,9 +16,6 @@ ug.emails.each do |e|
     state: "NY"
   }
 end
-
-puts users.first
-puts users.last
 
 file = File.open("users.yaml", "w")
 file.write(users.to_yaml)
