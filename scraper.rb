@@ -8,17 +8,23 @@ require 'yaml'
 require_relative 'api_keys'
 
 class YelpBusiness
-  def initialize(url)
+  def initialize(url, businesses = YAML.load_file("data.yaml"))
     @source = open(url,
       "User-Agent" => "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36").read
+
+    @yelp_id = url.split('/').last
+
+    @businesses = businesses
+    if @businesses[@yelp_id]
+      puts "#{@yelp_id} already exists in data file."
+      return
+    end
 
     biz_header = @source.scan(/(?<=<script type="application\/ld\+json">).*?(?=<)/m)[-1]
     unless biz_header
       puts "Invalid url."
       return
     end
-
-    @yelp_id = url.split('/').last
 
     images_url = "https://www.yelp.com/biz_photos/#{@yelp_id}"
 
@@ -35,9 +41,11 @@ class YelpBusiness
 
     @website = @source.scan(/(?<=href=\"\/biz_redir\?url=http%3A%2F%2F).*?(?=&amp)/m)[0]
     @website = @source.scan(/(?<=href=\"\/biz_redir\?url=https%3A%2F%2F).*?(?=&amp)/m)[0] unless @website
-    @website = @website[0..3] == "www." ? @website[4..-1] : @website
-    @website = CGI.unescape(@website)
-    @website = @website[-1] == '/' ? @website[0...-1] : @website
+    if @website
+      @website = @website[0..3] == "www." ? @website[4..-1] : @website
+      @website = CGI.unescape(@website)
+      @website = @website[-1] == '/' ? @website[0...-1] : @website
+    end
 
     @price = @source.scan(/(?<=<span class=\"business-attribute price-range\">).*?(?=<)/m)[0]
 
@@ -83,34 +91,29 @@ class YelpBusiness
   end
 
   def to_yaml
-    businesses = YAML.load_file("data.yaml")
-    if businesses[@yelp_id]
-      puts "Business already exists in data file."
-    else
-      businesses[@yelp_id] = {
-        name: @name,
-        street_address: @street_address,
-        city: @city,
-        state: @state,
-        zip: @zip,
-        phone: @phone,
-        website: @website,
-        price: @price,
-        latitude: @latitude,
-        longitude: @longitude,
-        business_categories: @business_categories,
-        business_hours: @business_hours,
-        business_properties: @business_properties,
-        reviews: @reviews,
-        images: @images
-      }
-      File.write("temp.yaml", businesses.to_yaml)
-      t = Time.new
-      backup_file_name = "data-#{t.year}-#{t.month}-#{t.day}-#{t.hour}-#{t.min}-#{t.sec}.yaml"
-      File.rename("data.yaml", "archive/#{backup_file_name}")
-      File.rename("temp.yaml", "data.yaml")
-      puts "Data successfully added to data.yaml."
-    end
+    @businesses[@yelp_id] = {
+      name: @name,
+      street_address: @street_address,
+      city: @city,
+      state: @state,
+      zip: @zip,
+      phone: @phone,
+      website: @website,
+      price: @price,
+      latitude: @latitude,
+      longitude: @longitude,
+      business_categories: @business_categories,
+      business_hours: @business_hours,
+      business_properties: @business_properties,
+      reviews: @reviews,
+      images: @images
+    }
+    File.write("temp.yaml", @businesses.to_yaml)
+    t = Time.new
+    backup_file_name = "data-#{t.year}-#{t.month}-#{t.day}-#{t.hour}-#{t.min}-#{t.sec}.yaml"
+    File.rename("data.yaml", "archive/#{backup_file_name}")
+    File.rename("temp.yaml", "data.yaml")
+    puts "#{@yelp_id} successfully added to data.yaml."
   end
 
   private
@@ -138,8 +141,9 @@ class YelpBusiness
 
   def get_hours
     business_hours_table = @source.scan(/<tbody.*<\/tbody>/m)[0]
-    days = Set["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
     @business_hours = []
+    return unless business_hours_table
+    days = Set["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
     idx = 0
     key = ""
     value = ""
@@ -307,11 +311,12 @@ class YelpBusiness
   end
 end
 
-url = ARGV[0]
-if YelpBusiness.valid_url? (url)
-  business = YelpBusiness.new(url)
-  puts business.to_s
-  business.to_yaml
-else
-  puts "Invalid url."
+for arg in ARGV
+  if YelpBusiness.valid_url? (arg)
+    business = YelpBusiness.new(arg)
+    puts business.to_s
+    business.to_yaml
+  else
+    puts "Invalid url."
+  end
 end

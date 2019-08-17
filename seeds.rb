@@ -11,7 +11,7 @@ Business.destroy_all
 User.destroy_all
 
 #Create Users
-users_data = YAML.load_file("data.yaml")
+users_data = YAML.load_file(File.join(__dir__, "users.yaml"))
 users = []
 users_data.each do |u|
   users << User.create(
@@ -26,7 +26,7 @@ users_data.each do |u|
 end
 
 #Create Categories
-categories_data = YAML.load_file("categories.yaml")
+categories_data = YAML.load_file(File.join(__dir__, "categories.yaml"))
 categories_data.each do |c|
   Category.create(
     name: c[:name],
@@ -34,7 +34,7 @@ categories_data.each do |c|
   )
 end
 
-data = YAML.load_file("data.yaml")
+data = YAML.load_file(File.join(__dir__, "data.yaml"))
 data.values.each do |b|
   # Create Businesses
   business = Business.create(
@@ -67,23 +67,25 @@ data.values.each do |b|
   b[:business_categories].each do |c|
     BusinessCategory.create(
       business_id: business_id,
-      category_id: Category.where("ref=#{c}").first.id
+      category_id: Category.where("ref = '#{c}'").first.id
     )
   end
 
   # Create Properties and Business Properties
   b[:business_properties].each do |p|
-    Property.create(key: p[0], value: p[1])
+    unless Property.where("key = '#{p[0]}' AND value = '#{p[1]}'").exists?
+      Property.create(key: p[0], value: p[1])
+    end
     BusinessProperty.create(
       business_id: business_id,
-      property_id: Property.where("key=#{p[0]} AND value=#{p[1]}").first.id
+      property_id: Property.where("key = '#{p[0]}' AND value = '#{p[1]}'").first.id
     )
   end
 
   # Used to randomly select user and remove from array
   user_list = users.dup
 
-  # Create Images
+  # Create Reviews
   b[:reviews].each do |r|
     # Select random user and remove from array
     user = user_list.delete_at(rand(user_list.length))
@@ -96,21 +98,28 @@ data.values.each do |b|
     )
   end
 
-  # Create Reviews
+  # Create Images
   b[:images].each do |i|
     # If image contains a review get user id and review id, otherwise select a
     # random user for user_id
     if i[:body]
-      review = Review.where("body = #{i[:body]} AND score = #{i[:score]} AND date = #{i[:date]}")
+      puts "\n\n\n"
+      puts i[:date]
+      puts i[:body]
+      review = Review.where("body = '#{i[:body]}' AND score = '#{i[:score].to_i}'").last
+      review_id = review.id
       user = review.user
     else
       user = user_list.sample
+      review_id = nil
     end
-    image_url: i[:image_url],
-    comment: i[:comment_url],
-    user_id: user.id,
-    business_id: business_id,
-    review_id: review.id
+    Image.create(
+      image_url: i[:image_url],
+      comment: i[:comment_url],
+      user_id: user.id,
+      business_id: business_id,
+      review_id: review_id
+    )
   end
 
 end
